@@ -19,7 +19,9 @@ ICI = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, ICI)
 LOTS = os.path.join(ICI, "lots")
 JOURNAL = os.path.join(LOTS, "journal-publication.log")
+PAUSE = os.path.join(LOTS, "PAUSE")
 MAX_RETARD, MAX_ENVOIS = 90, 3
+ECHECS_AVANT_PAUSE = 4  # frein : 4 éléments en erreur d'affilée → le robot se met en pause (fichier lots/PAUSE)
 
 
 def journal(msg):
@@ -29,6 +31,8 @@ def journal(msg):
 
 def main():
     os.chdir(ICI)
+    if os.path.exists(PAUSE):
+        return  # en pause : supprimer lots/PAUSE pour reprendre, après avoir réglé le problème
     from social_api import lot_publish_due
     for p in sorted(glob.glob(os.path.join(LOTS, "2026-S*.json"))):
         with open(p) as f:
@@ -46,6 +50,18 @@ def main():
                 journal(f"{os.path.basename(p)} {e['id']} {'RETENTE (réseau) ' if e.get('retente') else ''}{etat}")
             else:
                 journal(f"{os.path.basename(p)} {e['id']} {e.get('statut')} {e.get('problemes') or e.get('prevu', '')}")
+    frein()
+
+
+def frein():
+    traites = []
+    for p in glob.glob(os.path.join(LOTS, "2026-S*.json")):
+        traites += [i for i in json.load(open(p))["items"] if i.get("publie_le")]
+    derniers = sorted(traites, key=lambda i: i["publie_le"])[-ECHECS_AVANT_PAUSE:]
+    if len(derniers) == ECHECS_AVANT_PAUSE and all(i.get("statut") == "erreur" for i in derniers):
+        with open(PAUSE, "w") as f:
+            f.write(f"Pause automatique : {ECHECS_AVANT_PAUSE} erreurs d'affilée ({', '.join(i['id'] for i in derniers)})\n")
+        journal(f"PAUSE AUTOMATIQUE : {ECHECS_AVANT_PAUSE} erreurs d'affilée, plus rien n'est publié")
 
 
 if __name__ == "__main__":
