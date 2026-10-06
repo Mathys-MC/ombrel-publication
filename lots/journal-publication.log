@@ -5,3 +5,4 @@
 2026-10-06T14:43:44 2026-S2.json TF044 RETENTE (réseau) {'instagram': "erreur : Conteneur Instagram 18055263443583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18055263443583480'}"}
 2026-10-06T14:45:20 2026-S2.json TF044 {'instagram': 'https://www.instagram.com/reel/DeJ0CeBCmXu/'}
 2026-10-06T14:45:20 2026-S2.json RC013 {'facebook': 'ok', 'instagram': 'https://www.instagram.com/reel/DeJ0G8wG7Uw/'}
+2026-10-06T15:00:29 2026-S2.json TC169 {'instagram': 'https://www.instagram.com/reel/DeJ10fPj5vi/'}
