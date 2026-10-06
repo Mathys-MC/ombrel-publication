@@ -1174,14 +1174,33 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C34",
       "accroche": "Pour lui, cette année.",
       "date_initiale": "2026-10-06T21:41",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055349042583480"
+          },
+          "published": {
+            "id": "18111161132123153"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKm5JUgBay/"
+        },
+        "facebook": {
+          "video_id": "2009901009670441",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110283217486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-06T22:09"
     },
     {
       "id": "TC094",
