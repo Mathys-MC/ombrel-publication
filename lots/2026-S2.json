@@ -868,7 +868,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "X25",
@@ -884,8 +884,17 @@
             "id": "18217677982347106"
           },
           "permalink": "https://www.instagram.com/reel/DeKN0aEgp_W/"
+        },
+        "facebook": {
+          "video_id": "1901567480819219",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110252785486810"
+          }
         }
-      }
+      },
+      "publie_le": "2026-10-06T20:35"
     },
     {
       "id": "TC046",
@@ -901,7 +910,7 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PRODUIT",
       "visuel": "C05",
@@ -910,7 +919,18 @@
       "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
       "date_initiale": "2026-10-06T19:46",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055328453583480"
+          },
+          "published": {
+            "id": "17996412669029765"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKcM6sCYWH/"
+        }
+      },
+      "publie_le": "2026-10-06T20:35"
     },
     {
       "id": "P-K07",
