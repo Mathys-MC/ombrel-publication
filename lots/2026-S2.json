@@ -93,14 +93,33 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "MONNAIE",
       "visuel": "F13",
       "accroche": "Vos pièces, entre vos cartes ?",
-      "resultats": {},
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055256306583480"
+          },
+          "published": {
+            "id": "18094802162675577"
+          },
+          "permalink": "https://www.instagram.com/reel/DeJvFc8jGp-/"
+        },
+        "facebook": {
+          "video_id": "2550258068802880",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110066095486810"
+          }
+        }
+      },
       "tentatives_reseau": 0,
-      "date_initiale": "2026-10-06T10:55"
+      "date_initiale": "2026-10-06T10:55",
+      "publie_le": "2026-10-06T14:01"
     },
     {
       "id": "RC154",
