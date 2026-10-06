@@ -1104,14 +1104,33 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C18",
       "accroche": "Son portefeuille a fait son temps.",
       "date_initiale": "2026-10-06T20:55",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055340231583480"
+          },
+          "published": {
+            "id": "17865199974679823"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKiodmgQyX/"
+        },
+        "facebook": {
+          "video_id": "1708746687523474",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110272885486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-06T21:32"
     },
     {
       "id": "S-2026-10-06-3",
