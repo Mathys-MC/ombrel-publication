@@ -167,7 +167,7 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "LIVRAISON",
       "visuel": "F25",
@@ -176,11 +176,17 @@
       "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
       "resultats": {
         "instagram": {
-          "erreur": "Conteneur Instagram 18055263443583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18055263443583480'}"
+          "container": {
+            "id": "18055263617583480"
+          },
+          "published": {
+            "id": "18280854631292625"
+          },
+          "permalink": "https://www.instagram.com/reel/DeJ0CeBCmXu/"
         }
       },
       "tentatives_reseau": 1,
-      "publie_le": "2026-10-06T12:14",
+      "publie_le": "2026-10-06T14:44",
       "date_initiale": "2026-10-06T11:41"
     },
     {
@@ -198,7 +204,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "K06",
@@ -211,10 +217,20 @@
             "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
             "post_id": "122110038339486810"
           }
+        },
+        "instagram": {
+          "container": {
+            "id": "18055263935583480"
+          },
+          "published": {
+            "id": "18076328993440058"
+          },
+          "permalink": "https://www.instagram.com/reel/DeJ0G8wG7Uw/"
         }
       },
       "tentatives_reseau": 0,
-      "date_initiale": "2026-10-06T12:04"
+      "date_initiale": "2026-10-06T12:04",
+      "publie_le": "2026-10-06T14:45"
     },
     {
       "id": "TC169",
