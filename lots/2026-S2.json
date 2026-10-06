@@ -702,10 +702,10 @@
       "essai": true,
       "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
       "date_initiale": "2026-10-06T17:04",
-      "tentatives_reseau": 1,
+      "tentatives_reseau": 2,
       "resultats": {
         "instagram": {
-          "erreur": "Conteneur Instagram 18055304324583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18055304324583480'}"
+          "erreur": "Conteneur Instagram 18055304705583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18055304705583480'}"
         }
       }
     },
