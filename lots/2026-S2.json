@@ -786,7 +786,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C31",
@@ -802,8 +802,17 @@
             "id": "18014362379974289"
           },
           "permalink": "https://www.instagram.com/reel/DeKCwa2jtii/"
+        },
+        "facebook": {
+          "video_id": "1433101118147734",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110249887486810"
+          }
         }
-      }
+      },
+      "publie_le": "2026-10-06T20:28"
     },
     {
       "id": "P-F02",
@@ -820,14 +829,29 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "ORGA",
       "visuel": "F02",
       "accroche": "Tout a sa place.",
       "date_initiale": "2026-10-06T19:22",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055327532583480"
+          },
+          "published": {
+            "id": "17894819916674463"
+          },
+          "permalink": "https://www.instagram.com/p/DeKbYMamB74/"
+        },
+        "facebook": {
+          "id": "122110249983486810",
+          "post_id": "1346239391904480_122110250013486810"
+        }
+      },
+      "publie_le": "2026-10-06T20:28"
     },
     {
       "id": "RC200",
