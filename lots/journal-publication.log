@@ -44,3 +44,4 @@
 2026-10-06T21:49:31 2026-S2.json S-2026-10-06-3 {'instagram': 'erreur : {"code": 1, "message": "An unknown error occurred"}'}
 2026-10-06T22:09:26 2026-S2.json RC106 {'instagram': 'https://www.instagram.com/reel/DeKm5JUgBay/', 'facebook': 'ok'}
 2026-10-06T22:21:23 2026-S2.json TC094 {'instagram': 'https://www.instagram.com/reel/DeKoRmKlFhI/'}
+2026-10-06T22:43:02 2026-S2.json RF030 {'instagram': 'https://www.instagram.com/reel/DeKqvL_iC0q/', 'facebook': 'ok'}

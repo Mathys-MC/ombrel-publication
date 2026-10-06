@@ -1253,14 +1253,33 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "HONNETE",
       "visuel": "F35",
       "accroche": "On préfère vous le dire.",
       "date_initiale": "2026-10-06T22:27",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055355930583480"
+          },
+          "published": {
+            "id": "18105648815218490"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKqvL_iC0q/"
+        },
+        "facebook": {
+          "video_id": "4462410473977213",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110292037486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-06T22:43"
     },
     {
       "id": "TC103",
