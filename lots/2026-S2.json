@@ -507,14 +507,29 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "K03",
       "accroche": "La file attend. Pas vous.",
       "date_initiale": "2026-10-06T15:09",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055290395583480"
+          },
+          "published": {
+            "id": "18019848665931897"
+          },
+          "permalink": "https://www.instagram.com/p/DeKF21Ym1i-/"
+        },
+        "facebook": {
+          "id": "122110175313486810",
+          "post_id": "1346239391904480_122110175337486810"
+        }
+      },
+      "publie_le": "2026-10-06T17:20"
     },
     {
       "id": "TC052",
@@ -530,7 +545,7 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SANSCONTACT",
       "visuel": "C07",
@@ -539,7 +554,18 @@
       "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
       "date_initiale": "2026-10-06T15:32",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055290461583480"
+          },
+          "published": {
+            "id": "17878769607554848"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKF7S9E-mX/"
+        }
+      },
+      "publie_le": "2026-10-06T17:21"
     },
     {
       "id": "P-X08",
