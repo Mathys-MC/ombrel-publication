@@ -56,16 +56,26 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "COLORIS",
       "visuel": "C46",
       "accroche": "Orange carbone : oui ou non ?",
       "essai": true,
       "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
-      "resultats": {},
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055251338583480"
+          },
+          "published": {
+            "id": "18425442193149686"
+          },
+          "permalink": "https://www.instagram.com/reel/DeJsB6tkV8R/"
+        }
+      },
       "tentatives_reseau": 0,
-      "publie_le": "2026-10-06T11:09",
+      "publie_le": "2026-10-06T13:34",
       "date_initiale": "2026-10-06T10:32"
     },
     {
