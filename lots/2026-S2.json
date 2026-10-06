@@ -1295,7 +1295,7 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "C24",
@@ -1304,7 +1304,18 @@
       "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
       "date_initiale": "2026-10-06T22:50",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055358369583480"
+          },
+          "published": {
+            "id": "18074992040548470"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKsg9kjr8c/"
+        }
+      },
+      "publie_le": "2026-10-06T22:58"
     },
     {
       "id": "RC039",
