@@ -469,14 +469,28 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C31",
       "accroche": "Votre poche arrière vous remercie.",
       "date_initiale": "2026-10-06T14:46",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055285205583480"
+          },
+          "published": {
+            "id": "18014362379974289"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKCwa2jtii/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"There was a problem uploading your video file. Please try again with another file.\", \"type\": \"OAuthException\", \"code\": 6000, \"error_subcode\": 1363130, \"is_transient\": false, \"error_user_title\": \"Video Upload Is Missing\", \"error_user_msg\": \"The video was not uploaded.\", \"fbtrace_id\": \"AQs5Sn7O7TnRVNdjcgm_iap\"}"
+        }
+      },
+      "publie_le": "2026-10-06T16:53"
     },
     {
       "id": "P-K03",
