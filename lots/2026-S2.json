@@ -122,38 +122,6 @@
       "publie_le": "2026-10-06T14:01"
     },
     {
-      "id": "RC154",
-      "date": "2026-10-06T14:07",
-      "type": "reel",
-      "medias": [
-        "https://cdn.shopify.com/videos/c/o/v/684fea8ee26b4d9e83005adaaee69ff1.mp4"
-      ],
-      "legende": "Une pression. C'est tout.\n\nUne carte qui sort du premier coup.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien dans la bio.\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
-      "legende_facebook": "Une pression. C'est tout.\n\nUne carte qui sort du premier coup.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC154\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
-      "ia": "non",
-      "plateformes": [
-        "instagram",
-        "facebook"
-      ],
-      "trial": false,
-      "statut": "erreur",
-      "produit": "carbone",
-      "theme": "CAISSE",
-      "visuel": "C58",
-      "accroche": "Une pression. C'est tout.",
-      "resultats": {
-        "instagram": {
-          "erreur": "Conteneur Instagram 18055259588583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18055259588583480'}"
-        },
-        "facebook": {
-          "erreur": "{\"message\": \"There was a problem uploading your video file. Please try again with another file.\", \"type\": \"OAuthException\", \"code\": 6000, \"error_subcode\": 1363130, \"is_transient\": false, \"error_user_title\": \"Video Upload Is Missing\", \"error_user_msg\": \"The video was not uploaded.\", \"fbtrace_id\": \"AuXJ9Vn4h4Uv_v4tmRZRyqb\"}"
-        }
-      },
-      "publie_le": "2026-10-06T14:23",
-      "date_initiale": "2026-10-06T11:18",
-      "tentatives_reseau": 0
-    },
-    {
       "id": "TF044",
       "date": "2026-10-06T14:25",
       "type": "reel",
@@ -267,44 +235,6 @@
         }
       },
       "publie_le": "2026-10-06T15:00"
-    },
-    {
-      "id": "RC002",
-      "date": "2026-10-06T15:17",
-      "type": "reel",
-      "medias": [
-        "https://cdn.shopify.com/videos/c/o/v/1098c1075a1c4f84a786b176afa84f9a.mp4"
-      ],
-      "legende": "Vous êtes assis dessus.\n\nVos cartes sortent du premier coup, il se glisse dans une poche avant et rien ne déborde. Juste l'essentiel sur vous.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien dans la bio.\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
-      "legende_facebook": "Vous êtes assis dessus.\n\nVos cartes sortent du premier coup, il se glisse dans une poche avant et rien ne déborde. Juste l'essentiel sur vous.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC002\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
-      "ia": "non",
-      "plateformes": [
-        "instagram",
-        "facebook"
-      ],
-      "trial": false,
-      "statut": "erreur",
-      "produit": "carbone",
-      "theme": "POCHE",
-      "visuel": "K01",
-      "accroche": "Vous êtes assis dessus.",
-      "date_initiale": "2026-10-06T12:51",
-      "tentatives_reseau": 0,
-      "resultats": {
-        "instagram": {
-          "container": {
-            "id": "18055271828583480"
-          },
-          "published": {
-            "id": "17879087565553984"
-          },
-          "permalink": "https://www.instagram.com/reel/DeJ5Blhkxy2/"
-        },
-        "facebook": {
-          "erreur": "{\"message\": \"There was a problem uploading your video file. Please try again with another file.\", \"type\": \"OAuthException\", \"code\": 6000, \"error_subcode\": 1363130, \"is_transient\": false, \"error_user_title\": \"Video Upload Is Missing\", \"error_user_msg\": \"The video was not uploaded.\", \"fbtrace_id\": \"A3sCqiLnRT5u0PdiL_rt98r\"}"
-        }
-      },
-      "publie_le": "2026-10-06T15:28"
     },
     {
       "id": "TC218",
@@ -453,44 +383,6 @@
         }
       },
       "publie_le": "2026-10-06T16:39"
-    },
-    {
-      "id": "RC099",
-      "date": "2026-10-06T16:44",
-      "type": "reel",
-      "medias": [
-        "https://cdn.shopify.com/videos/c/o/v/f5f4fd4c468f4831a2663a3c94fc61e8.mp4"
-      ],
-      "legende": "Votre poche arrière vous remercie.\n\nCommencez par ce que vous sortez le plus souvent. Le Carbone : 1,7 cm à vide.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien dans la bio.\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
-      "legende_facebook": "Votre poche arrière vous remercie.\n\nCommencez par ce que vous sortez le plus souvent. Le Carbone : 1,7 cm à vide.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC099\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
-      "ia": "non",
-      "plateformes": [
-        "instagram",
-        "facebook"
-      ],
-      "trial": false,
-      "statut": "erreur",
-      "produit": "carbone",
-      "theme": "POCHE",
-      "visuel": "C31",
-      "accroche": "Votre poche arrière vous remercie.",
-      "date_initiale": "2026-10-06T14:46",
-      "tentatives_reseau": 0,
-      "resultats": {
-        "instagram": {
-          "container": {
-            "id": "18055285205583480"
-          },
-          "published": {
-            "id": "18014362379974289"
-          },
-          "permalink": "https://www.instagram.com/reel/DeKCwa2jtii/"
-        },
-        "facebook": {
-          "erreur": "{\"message\": \"There was a problem uploading your video file. Please try again with another file.\", \"type\": \"OAuthException\", \"code\": 6000, \"error_subcode\": 1363130, \"is_transient\": false, \"error_user_title\": \"Video Upload Is Missing\", \"error_user_msg\": \"The video was not uploaded.\", \"fbtrace_id\": \"AQs5Sn7O7TnRVNdjcgm_iap\"}"
-        }
-      },
-      "publie_le": "2026-10-06T16:53"
     },
     {
       "id": "P-K03",
@@ -643,44 +535,6 @@
       "publie_le": "2026-10-06T17:59"
     },
     {
-      "id": "RC200",
-      "date": "2026-10-06T18:11",
-      "type": "reel",
-      "medias": [
-        "https://cdn.shopify.com/videos/c/o/v/77da1eff68054f9a909dd9394eed89da.mp4"
-      ],
-      "legende": "Le moment gênant à la caisse.\n\nCafé, bureau, déjeuner, courses, restaurant : une pression à chaque station.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien dans la bio.\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
-      "legende_facebook": "Le moment gênant à la caisse.\n\nCafé, bureau, déjeuner, courses, restaurant : une pression à chaque station.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC200\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
-      "ia": "non",
-      "plateformes": [
-        "instagram",
-        "facebook"
-      ],
-      "trial": false,
-      "statut": "erreur",
-      "produit": "carbone",
-      "theme": "CAISSE",
-      "visuel": "X25",
-      "accroche": "Le moment gênant à la caisse.",
-      "date_initiale": "2026-10-06T16:41",
-      "tentatives_reseau": 0,
-      "resultats": {
-        "instagram": {
-          "container": {
-            "id": "18055303928583480"
-          },
-          "published": {
-            "id": "18217677982347106"
-          },
-          "permalink": "https://www.instagram.com/reel/DeKN0aEgp_W/"
-        },
-        "facebook": {
-          "erreur": "{\"message\": \"There was a problem uploading your video file. Please try again with another file.\", \"type\": \"OAuthException\", \"code\": 6000, \"error_subcode\": 1363130, \"is_transient\": false, \"error_user_title\": \"Video Upload Is Missing\", \"error_user_msg\": \"The video was not uploaded.\", \"fbtrace_id\": \"AKHPmR-zwvmowhmeeZ4NG_z\"}"
-        }
-      },
-      "publie_le": "2026-10-06T18:30"
-    },
-    {
       "id": "TC010",
       "date": "2026-10-06T18:28",
       "type": "reel",
@@ -717,71 +571,6 @@
       "publie_le": "2026-10-06T18:40"
     },
     {
-      "id": "P-K07",
-      "date": "2026-10-06T18:46",
-      "type": "photo",
-      "medias": [
-        "https://cdn.shopify.com/s/files/1/1079/2766/7022/files/K07-lettre-cadeau.jpg?v=1791284980"
-      ],
-      "legende": "Il ne demande jamais rien pour son anniversaire ?\n\nRegardez ce qu'il sort de sa poche tous les jours. Le Carbone, c'est un objet qu'il aura en main chaque jour. Sobre, discret, en 9 coloris pour tomber juste.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien dans la bio.\n\n#ideecadeauhomme #cadeauhomme #portefeuillehomme #maisonombrel",
-      "legende_facebook": "Il ne demande jamais rien pour son anniversaire ?\n\nRegardez ce qu'il sort de sa poche tous les jours. Le Carbone, c'est un objet qu'il aura en main chaque jour. Sobre, discret, en 9 coloris pour tomber juste.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=P-K07\n\n#ideecadeauhomme #cadeauhomme #portefeuillehomme #maisonombrel",
-      "ia": "non",
-      "plateformes": [
-        "instagram",
-        "facebook"
-      ],
-      "trial": false,
-      "statut": "erreur",
-      "produit": "carbone",
-      "theme": "CADEAU",
-      "visuel": "K07",
-      "accroche": "Il ne demande jamais rien pour son anniversaire ?",
-      "date_initiale": "2026-10-06T17:27",
-      "tentatives_reseau": 0,
-      "resultats": {
-        "instagram": {
-          "erreur": "{\"message\": \"Only photo or video can be accepted as media type.\", \"type\": \"OAuthException\", \"code\": 9004, \"error_subcode\": 2207052, \"is_transient\": false, \"error_user_title\": \"Media download has failed. The media URI doesn't meet our requirements.\", \"error_user_msg\": \"The media could not be fetched from this URI: https://cdn.shopify.com/s/files/1/1079/2766/7022/files/K07-lettre-cadeau.jpg?v=1791284980.Please check the limitations section in our development document for more information: https://"
-        },
-        "facebook": {
-          "id": "122110216905486810",
-          "post_id": "1346239391904480_122110216929486810"
-        }
-      },
-      "publie_le": "2026-10-06T18:53"
-    },
-    {
-      "id": "RC085",
-      "date": "2026-10-06T19:03",
-      "type": "reel",
-      "medias": [
-        "https://cdn.shopify.com/videos/c/o/v/4162087a99f34d46acff4835c55f4d78.mp4"
-      ],
-      "legende": "Le moment gênant à la caisse.\n\nEt votre carte est là, en éventail.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien dans la bio.\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
-      "legende_facebook": "Le moment gênant à la caisse.\n\nEt votre carte est là, en éventail.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC085\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
-      "ia": "non",
-      "plateformes": [
-        "instagram",
-        "facebook"
-      ],
-      "trial": false,
-      "statut": "erreur",
-      "produit": "carbone",
-      "theme": "CAISSE",
-      "visuel": "C30",
-      "accroche": "Le moment gênant à la caisse.",
-      "date_initiale": "2026-10-06T17:50",
-      "tentatives_reseau": 0,
-      "resultats": {
-        "instagram": {
-          "erreur": "Conteneur Instagram 18055312085583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18055312085583480'}"
-        },
-        "facebook": {
-          "erreur": "{\"message\": \"There was a problem uploading your video file. Please try again with another file.\", \"type\": \"OAuthException\", \"code\": 6000, \"error_subcode\": 1363130, \"is_transient\": false, \"error_user_title\": \"Video Upload Is Missing\", \"error_user_msg\": \"The video was not uploaded.\", \"fbtrace_id\": \"AC0JQp5uN4CXv-iA4yGRoHh\"}"
-        }
-      },
-      "publie_le": "2026-10-06T19:08"
-    },
-    {
       "id": "TC079",
       "date": "2026-10-06T19:21",
       "type": "reel",
@@ -807,6 +596,30 @@
       "resultats": {}
     },
     {
+      "id": "RC154",
+      "date": "2026-10-06T19:38",
+      "type": "reel",
+      "medias": [
+        "https://cdn.shopify.com/videos/c/o/v/684fea8ee26b4d9e83005adaaee69ff1.mp4"
+      ],
+      "legende": "Une pression. C'est tout.\n\nUne carte qui sort du premier coup.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien dans la bio.\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
+      "legende_facebook": "Une pression. C'est tout.\n\nUne carte qui sort du premier coup.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC154\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
+      "ia": "non",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "trial": false,
+      "statut": "a_publier",
+      "produit": "carbone",
+      "theme": "CAISSE",
+      "visuel": "C58",
+      "accroche": "Une pression. C'est tout.",
+      "resultats": {},
+      "date_initiale": "2026-10-06T11:18",
+      "tentatives_reseau": 0
+    },
+    {
       "id": "RC077",
       "date": "2026-10-06T19:38",
       "type": "reel",
@@ -829,6 +642,40 @@
       "date_initiale": "2026-10-06T18:36",
       "tentatives_reseau": 0,
       "resultats": {}
+    },
+    {
+      "id": "RC002",
+      "date": "2026-10-06T19:55",
+      "type": "reel",
+      "medias": [
+        "https://cdn.shopify.com/videos/c/o/v/1098c1075a1c4f84a786b176afa84f9a.mp4"
+      ],
+      "legende": "Vous êtes assis dessus.\n\nVos cartes sortent du premier coup, il se glisse dans une poche avant et rien ne déborde. Juste l'essentiel sur vous.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien dans la bio.\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
+      "legende_facebook": "Vous êtes assis dessus.\n\nVos cartes sortent du premier coup, il se glisse dans une poche avant et rien ne déborde. Juste l'essentiel sur vous.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC002\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
+      "ia": "non",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "trial": false,
+      "statut": "a_publier",
+      "produit": "carbone",
+      "theme": "POCHE",
+      "visuel": "K01",
+      "accroche": "Vous êtes assis dessus.",
+      "date_initiale": "2026-10-06T12:51",
+      "tentatives_reseau": 0,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055271828583480"
+          },
+          "published": {
+            "id": "17879087565553984"
+          },
+          "permalink": "https://www.instagram.com/reel/DeJ5Blhkxy2/"
+        }
+      }
     },
     {
       "id": "TC058",
@@ -856,6 +703,40 @@
       "resultats": {}
     },
     {
+      "id": "RC099",
+      "date": "2026-10-06T20:13",
+      "type": "reel",
+      "medias": [
+        "https://cdn.shopify.com/videos/c/o/v/f5f4fd4c468f4831a2663a3c94fc61e8.mp4"
+      ],
+      "legende": "Votre poche arrière vous remercie.\n\nCommencez par ce que vous sortez le plus souvent. Le Carbone : 1,7 cm à vide.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien dans la bio.\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
+      "legende_facebook": "Votre poche arrière vous remercie.\n\nCommencez par ce que vous sortez le plus souvent. Le Carbone : 1,7 cm à vide.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC099\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
+      "ia": "non",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "trial": false,
+      "statut": "a_publier",
+      "produit": "carbone",
+      "theme": "POCHE",
+      "visuel": "C31",
+      "accroche": "Votre poche arrière vous remercie.",
+      "date_initiale": "2026-10-06T14:46",
+      "tentatives_reseau": 0,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055285205583480"
+          },
+          "published": {
+            "id": "18014362379974289"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKCwa2jtii/"
+        }
+      }
+    },
+    {
       "id": "P-F02",
       "date": "2026-10-06T20:13",
       "type": "photo",
@@ -878,6 +759,40 @@
       "date_initiale": "2026-10-06T19:22",
       "tentatives_reseau": 0,
       "resultats": {}
+    },
+    {
+      "id": "RC200",
+      "date": "2026-10-06T20:30",
+      "type": "reel",
+      "medias": [
+        "https://cdn.shopify.com/videos/c/o/v/77da1eff68054f9a909dd9394eed89da.mp4"
+      ],
+      "legende": "Le moment gênant à la caisse.\n\nCafé, bureau, déjeuner, courses, restaurant : une pression à chaque station.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien dans la bio.\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
+      "legende_facebook": "Le moment gênant à la caisse.\n\nCafé, bureau, déjeuner, courses, restaurant : une pression à chaque station.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC200\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
+      "ia": "non",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "trial": false,
+      "statut": "a_publier",
+      "produit": "carbone",
+      "theme": "CAISSE",
+      "visuel": "X25",
+      "accroche": "Le moment gênant à la caisse.",
+      "date_initiale": "2026-10-06T16:41",
+      "tentatives_reseau": 0,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055303928583480"
+          },
+          "published": {
+            "id": "18217677982347106"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKN0aEgp_W/"
+        }
+      }
     },
     {
       "id": "TC046",
@@ -905,6 +820,35 @@
       "resultats": {}
     },
     {
+      "id": "P-K07",
+      "date": "2026-10-06T20:48",
+      "type": "photo",
+      "medias": [
+        "https://cdn.shopify.com/s/files/1/1079/2766/7022/files/K07-lettre-cadeau.jpg?v=1791284980"
+      ],
+      "legende": "Il ne demande jamais rien pour son anniversaire ?\n\nRegardez ce qu'il sort de sa poche tous les jours. Le Carbone, c'est un objet qu'il aura en main chaque jour. Sobre, discret, en 9 coloris pour tomber juste.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien dans la bio.\n\n#ideecadeauhomme #cadeauhomme #portefeuillehomme #maisonombrel",
+      "legende_facebook": "Il ne demande jamais rien pour son anniversaire ?\n\nRegardez ce qu'il sort de sa poche tous les jours. Le Carbone, c'est un objet qu'il aura en main chaque jour. Sobre, discret, en 9 coloris pour tomber juste.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=P-K07\n\n#ideecadeauhomme #cadeauhomme #portefeuillehomme #maisonombrel",
+      "ia": "non",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "trial": false,
+      "statut": "a_publier",
+      "produit": "carbone",
+      "theme": "CADEAU",
+      "visuel": "K07",
+      "accroche": "Il ne demande jamais rien pour son anniversaire ?",
+      "date_initiale": "2026-10-06T17:27",
+      "tentatives_reseau": 0,
+      "resultats": {
+        "facebook": {
+          "id": "122110216905486810",
+          "post_id": "1346239391904480_122110216929486810"
+        }
+      }
+    },
+    {
       "id": "P-K08",
       "date": "2026-10-06T20:48",
       "type": "photo",
@@ -925,6 +869,30 @@
       "visuel": "K08",
       "accroche": "Sortez léger.",
       "date_initiale": "2026-10-06T20:09",
+      "tentatives_reseau": 0,
+      "resultats": {}
+    },
+    {
+      "id": "RC085",
+      "date": "2026-10-06T21:05",
+      "type": "reel",
+      "medias": [
+        "https://cdn.shopify.com/videos/c/o/v/4162087a99f34d46acff4835c55f4d78.mp4"
+      ],
+      "legende": "Le moment gênant à la caisse.\n\nEt votre carte est là, en éventail.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien dans la bio.\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
+      "legende_facebook": "Le moment gênant à la caisse.\n\nEt votre carte est là, en éventail.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC085\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
+      "ia": "non",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "trial": false,
+      "statut": "a_publier",
+      "produit": "carbone",
+      "theme": "CAISSE",
+      "visuel": "C30",
+      "accroche": "Le moment gênant à la caisse.",
+      "date_initiale": "2026-10-06T17:50",
       "tentatives_reseau": 0,
       "resultats": {}
     },

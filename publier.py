@@ -58,7 +58,9 @@ def frein():
     for p in glob.glob(os.path.join(LOTS, "2026-S*.json")):
         traites += [i for i in json.load(open(p))["items"] if i.get("publie_le")]
     derniers = sorted(traites, key=lambda i: i["publie_le"])[-ECHECS_AVANT_PAUSE:]
-    if len(derniers) == ECHECS_AVANT_PAUSE and all(i.get("statut") == "erreur" for i in derniers):
+    # échec total = aucune plateforme publiée (un Reel passé sur Instagram mais raté sur Facebook ne compte pas)
+    total = lambda i: i.get("statut") == "erreur" and not any("erreur" not in r for r in (i.get("resultats") or {}).values())
+    if len(derniers) == ECHECS_AVANT_PAUSE and all(total(i) for i in derniers):
         with open(PAUSE, "w") as f:
             f.write(f"Pause automatique : {ECHECS_AVANT_PAUSE} erreurs d'affilée ({', '.join(i['id'] for i in derniers)})\n")
         journal(f"PAUSE AUTOMATIQUE : {ECHECS_AVANT_PAUSE} erreurs d'affilée, plus rien n'est publié")

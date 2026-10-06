@@ -438,12 +438,17 @@ def fb_publish_reel(video, caption, ia, confirm=False):
     video_id = start["video_id"]
     headers = {"Authorization": f"OAuth {FB_TOKEN}"}
     if _is_url(video):
-        _post(f"{FB_RUPLOAD}/{video_id}", headers={**headers, "file_url": video})
+        # on télécharge puis on envoie les octets : avec "file_url", Facebook ratait souvent la récupération
+        # depuis le CDN Shopify (erreur 6000 / 1363130, 2026-10-06)
+        r = _requete(requests.get, video)
+        if r.status_code != 200:
+            raise ApiError(f"{CONNEXION} : téléchargement de la vidéo impossible (status {r.status_code})")
+        payload = r.content
     else:
         with open(video, "rb") as f:
             payload = f.read()
-        _post(f"{FB_RUPLOAD}/{video_id}", data=payload,
-              headers={**headers, "offset": "0", "file_size": str(len(payload))})
+    _post(f"{FB_RUPLOAD}/{video_id}", data=payload,
+          headers={**headers, "offset": "0", "file_size": str(len(payload))})
     finish = _post(f"{FB_API}/{FB_PAGE_ID}/video_reels", data={
         "upload_phase": "finish", "video_id": video_id, "video_state": "PUBLISHED",
         "description": caption, "access_token": FB_TOKEN,
@@ -736,7 +741,10 @@ def lot_publish_due(path, confirm=False, max_retard=None, max_envois=None):
                 results[platform] = {"erreur": msg[:500]}
         if confirm:
             failed = [p for p, r in results.items() if "erreur" in r]
-            passager = lambda m: m.startswith(CONNEXION) or m.startswith("Conteneur Instagram")
+            # passager : coupure réseau, traitement Instagram en échec, ou récupération du média ratée par Meta
+            # (6000/1363130 Facebook, 2207052 Instagram) — ces cas passent presque toujours au nouvel essai
+            passager = lambda m: (m.startswith(CONNEXION) or m.startswith("Conteneur Instagram")
+                                  or any(c in m for c in ("1363130", "2207052", '"is_transient": true')))
             if failed and all(passager(results[p]["erreur"]) for p in failed) and item.get("tentatives_reseau", 0) < 3:
                 # coupure réseau ou traitement Instagram en échec (souvent passager) : l'élément reste à publier,
                 # seules les plateformes en échec seront retentées au passage suivant (3 tentatives au plus)
