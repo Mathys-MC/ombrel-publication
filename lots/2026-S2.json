@@ -694,7 +694,7 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "K04",
@@ -705,9 +705,16 @@
       "tentatives_reseau": 2,
       "resultats": {
         "instagram": {
-          "erreur": "Conteneur Instagram 18055304705583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18055304705583480'}"
+          "container": {
+            "id": "18055306793583480"
+          },
+          "published": {
+            "id": "18116285114063078"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKO82_CuQL/"
         }
-      }
+      },
+      "publie_le": "2026-10-06T18:40"
     },
     {
       "id": "P-K07",
