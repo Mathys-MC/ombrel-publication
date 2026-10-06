@@ -1025,14 +1025,33 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "C30",
       "accroche": "Le moment gênant à la caisse.",
       "date_initiale": "2026-10-06T17:50",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055336088583480"
+          },
+          "published": {
+            "id": "18102228614335141"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKhZ-DlN7M/"
+        },
+        "facebook": {
+          "video_id": "28663267069980386",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110270347486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-06T21:21"
     },
     {
       "id": "TF053",
@@ -1048,7 +1067,7 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "CHANGER",
       "visuel": "F34",
@@ -1057,7 +1076,18 @@
       "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
       "date_initiale": "2026-10-06T20:32",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055336433583480"
+          },
+          "published": {
+            "id": "18171585394456848"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKhhQ-DP5M/"
+        }
+      },
+      "publie_le": "2026-10-06T21:22"
     },
     {
       "id": "RC061",
