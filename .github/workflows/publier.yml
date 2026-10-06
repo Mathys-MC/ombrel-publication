@@ -15,63 +15,30 @@ on:
     - cron: '28 10 * * *'
     - cron: '51 10 * * *'
     - cron: '14 11 * * *'
-    - cron: '32 11 6 10 *'
     - cron: '37 11 * * *'
-    - cron: '50 11 6 10 *'
     - cron: '0 12 * * *'
-    - cron: '7 12 6 10 *'
     - cron: '23 12 * * *'
-    - cron: '25 12 6 10 *'
-    - cron: '42 12 6 10 *'
     - cron: '46 12 * * *'
-    - cron: '59 12 6 10 *'
     - cron: '9 13 * * *'
-    - cron: '17 13 6 10 *'
     - cron: '32 13 * * *'
-    - cron: '34 13 6 10 *'
-    - cron: '52 13 6 10 *'
     - cron: '55 13 * * *'
-    - cron: '9 14 6 10 *'
     - cron: '18 14 * * *'
-    - cron: '26 14 6 10 *'
     - cron: '41 14 * * *'
-    - cron: '44 14 6 10 *'
-    - cron: '1 15 6 10 *'
     - cron: '4 15 * * *'
-    - cron: '19 15 6 10 *'
     - cron: '27 15 * * *'
-    - cron: '36 15 6 10 *'
     - cron: '50 15 * * *'
-    - cron: '53 15 6 10 *'
-    - cron: '11 16 6 10 *'
     - cron: '13 16 * * *'
-    - cron: '28 16 6 10 *'
     - cron: '36 16 * * *'
-    - cron: '46 16 6 10 *'
     - cron: '59 16 * * *'
-    - cron: '3 17 6 10 *'
-    - cron: '21 17 6 10 *'
     - cron: '22 17 * * *'
-    - cron: '38 17 6 10 *'
     - cron: '46 17 * * *'
-    - cron: '55 17 6 10 *'
     - cron: '9 18 * * *'
-    - cron: '13 18 6 10 *'
-    - cron: '30 18 6 10 *'
     - cron: '32 18 * * *'
-    - cron: '48 18 6 10 *'
     - cron: '55 18 * * *'
-    - cron: '5 19 6 10 *'
     - cron: '18 19 * * *'
-    - cron: '22 19 6 10 *'
-    - cron: '40 19 6 10 *'
     - cron: '41 19 * * *'
-    - cron: '57 19 6 10 *'
     - cron: '4 20 * * *'
-    - cron: '15 20 6 10 *'
     - cron: '27 20 * * *'
-    - cron: '32 20 6 10 *'
-    - cron: '49 20 6 10 *'
     - cron: '50 20 * * *'
 concurrency:
   group: publication
@@ -89,9 +56,13 @@ jobs:
       META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
       META_IG_ACCESS_TOKEN: ${{ secrets.META_IG_ACCESS_TOKEN }}
     steps:
+      # ref: main → l'état le plus récent au moment où le passage démarre (sans ça, un passage mis en attente
+      # repartait de l'état d'avant le passage précédent et republiait les mêmes posts : 3 doublons le 2026-10-06)
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - run: pip install -q -r requirements.txt
-      - run: python3 publier.py
+      - run: git pull -q --rebase origin main && python3 publier.py
       - name: Enregistrer les statuts
         if: always()
         run: |

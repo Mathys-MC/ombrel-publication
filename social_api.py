@@ -744,7 +744,7 @@ def lot_publish_due(path, confirm=False, max_retard=None, max_envois=None):
             # passager : coupure réseau, traitement Instagram en échec, ou récupération du média ratée par Meta
             # (6000/1363130 Facebook, 2207052 Instagram) — ces cas passent presque toujours au nouvel essai
             passager = lambda m: (m.startswith(CONNEXION) or m.startswith("Conteneur Instagram")
-                                  or any(c in m for c in ("1363130", "2207052", '"is_transient": true')))
+                                  or any(c in m for c in ("1363130", "2207052", '"is_transient": true', "An unknown error occurred")))
             if failed and all(passager(results[p]["erreur"]) for p in failed) and item.get("tentatives_reseau", 0) < 3:
                 # coupure réseau ou traitement Instagram en échec (souvent passager) : l'élément reste à publier,
                 # seules les plateformes en échec seront retentées au passage suivant (3 tentatives au plus)
