@@ -18,13 +18,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PRODUIT",
       "visuel": "K10",
       "accroche": "Le Carbone, en quatre points.",
-      "resultats": {},
-      "publie_le": "2026-10-06T10:30",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055248362583480"
+          },
+          "published": {
+            "id": "18080901086355143"
+          },
+          "permalink": "https://www.instagram.com/p/DeJp8uUG6tB/"
+        },
+        "facebook": {
+          "id": "122110049007486810",
+          "post_id": "1346239391904480_122110049043486810"
+        }
+      },
+      "publie_le": "2026-10-06T13:16",
       "date_initiale": "2026-10-06T10:09",
       "tentatives_reseau": 0
     },
