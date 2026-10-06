@@ -582,14 +582,29 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "X08",
       "accroche": "Le Carbone est-il fait pour vous ?",
       "date_initiale": "2026-10-06T15:55",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055294250583480"
+          },
+          "published": {
+            "id": "18134844967559780"
+          },
+          "permalink": "https://www.instagram.com/p/DeKH-HpFC4U/"
+        },
+        "facebook": {
+          "id": "122110180599486810",
+          "post_id": "1346239391904480_122110180623486810"
+        }
+      },
+      "publie_le": "2026-10-06T17:38"
     },
     {
       "id": "TF046",
