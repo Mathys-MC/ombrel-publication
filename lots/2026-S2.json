@@ -947,7 +947,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "K07",
@@ -960,9 +960,16 @@
           "post_id": "1346239391904480_122110216929486810"
         },
         "instagram": {
-          "erreur": "{\"message\": \"Only photo or video can be accepted as media type.\", \"type\": \"OAuthException\", \"code\": 9004, \"error_subcode\": 2207052, \"is_transient\": false, \"error_user_title\": \"Media download has failed. The media URI doesn't meet our requirements.\", \"error_user_msg\": \"The media could not be fetched from this URI: https://cdn.shopify.com/s/files/1/1079/2766/7022/files/K07-lettre-cadeau.jpg?v=1791284980.Please check the limitations section in our development document for more information: https://"
+          "container": {
+            "id": "18055332110583480"
+          },
+          "published": {
+            "id": "17996672817013917"
+          },
+          "permalink": "https://www.instagram.com/p/DeKezsQn2EG/"
         }
-      }
+      },
+      "publie_le": "2026-10-06T20:58"
     },
     {
       "id": "P-K08",
@@ -979,14 +986,29 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SOBRE",
       "visuel": "K08",
       "accroche": "Sortez léger.",
       "date_initiale": "2026-10-06T20:09",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055332158583480"
+          },
+          "published": {
+            "id": "18086194856322315"
+          },
+          "permalink": "https://www.instagram.com/p/DeKe1D2Hzxa/"
+        },
+        "facebook": {
+          "id": "122110260483486810",
+          "post_id": "1346239391904480_122110260507486810"
+        }
+      },
+      "publie_le": "2026-10-06T20:58"
     },
     {
       "id": "RC085",
