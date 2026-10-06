@@ -657,14 +657,28 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "X25",
       "accroche": "Le moment gênant à la caisse.",
       "date_initiale": "2026-10-06T16:41",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055303928583480"
+          },
+          "published": {
+            "id": "18217677982347106"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKN0aEgp_W/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"There was a problem uploading your video file. Please try again with another file.\", \"type\": \"OAuthException\", \"code\": 6000, \"error_subcode\": 1363130, \"is_transient\": false, \"error_user_title\": \"Video Upload Is Missing\", \"error_user_msg\": \"The video was not uploaded.\", \"fbtrace_id\": \"AKHPmR-zwvmowhmeeZ4NG_z\"}"
+        }
+      },
+      "publie_le": "2026-10-06T18:30"
     },
     {
       "id": "TC010",
@@ -688,8 +702,12 @@
       "essai": true,
       "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
       "date_initiale": "2026-10-06T17:04",
-      "tentatives_reseau": 0,
-      "resultats": {}
+      "tentatives_reseau": 1,
+      "resultats": {
+        "instagram": {
+          "erreur": "Conteneur Instagram 18055304324583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18055304324583480'}"
+        }
+      }
     },
     {
       "id": "P-K07",
