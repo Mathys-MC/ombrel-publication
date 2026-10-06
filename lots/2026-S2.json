@@ -584,7 +584,7 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C16",
@@ -595,9 +595,16 @@
       "tentatives_reseau": 2,
       "resultats": {
         "instagram": {
-          "erreur": "Conteneur Instagram 18055319012583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18055319012583480'}"
+          "container": {
+            "id": "18055320386583480"
+          },
+          "published": {
+            "id": "18119625280956893"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKXt-DjUVg/"
         }
-      }
+      },
+      "publie_le": "2026-10-06T19:56"
     },
     {
       "id": "RC154",
@@ -614,14 +621,33 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "C58",
       "accroche": "Une pression. C'est tout.",
-      "resultats": {},
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055320659583480"
+          },
+          "published": {
+            "id": "17997350921825320"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKXxz9AaPu/"
+        },
+        "facebook": {
+          "video_id": "1103974962027242",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110238583486810"
+          }
+        }
+      },
       "date_initiale": "2026-10-06T11:18",
-      "tentatives_reseau": 0
+      "tentatives_reseau": 0,
+      "publie_le": "2026-10-06T19:57"
     },
     {
       "id": "RC077",
@@ -638,14 +664,33 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SOBRE",
       "visuel": "C26",
       "accroche": "Rien qui dépasse.",
       "date_initiale": "2026-10-06T18:36",
       "tentatives_reseau": 0,
-      "resultats": {}
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055320842583480"
+          },
+          "published": {
+            "id": "18115776584044933"
+          },
+          "permalink": "https://www.instagram.com/reel/DeKX3MEDwU7/"
+        },
+        "facebook": {
+          "video_id": "2053989398647205",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110239501486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-06T19:58"
     },
     {
       "id": "RC002",
