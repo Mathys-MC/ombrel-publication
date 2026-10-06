@@ -11,3 +11,4 @@
 2026-10-06T15:50:36 2026-S2.json TC218 {'instagram': 'https://www.instagram.com/reel/DeJ7kh0icGe/'}
 2026-10-06T16:02:53 2026-S2.json R04 {'instagram': 'https://www.instagram.com/reel/DeJ88khiGx4/', 'facebook': 'ok'}
 2026-10-06T16:22:53 2026-S2.json S-2026-10-06-2 {'instagram': 'https://www.instagram.com/stories/maison.ombrel/4002007948716700620'}
+2026-10-06T16:37:35 2026-S2.json TC013 RETENTE (réseau) {'instagram': "erreur : Conteneur Instagram 18055282421583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18055282421583480'}"}
