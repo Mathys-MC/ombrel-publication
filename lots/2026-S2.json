@@ -1989,11 +1989,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PRODUIT",
       "visuel": "C28",
-      "accroche": "Une pression, et voilà."
+      "accroche": "Une pression, et voilà.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055514453583480"
+          },
+          "published": {
+            "id": "18119270317880209"
+          },
+          "permalink": "https://www.instagram.com/reel/DeMhzHhAvaw/"
+        },
+        "facebook": {
+          "video_id": "1805542113962543",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110620417486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-07T16:03"
     },
     {
       "id": "TF005",
