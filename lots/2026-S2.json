@@ -1696,11 +1696,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "X16",
-      "accroche": "Poche pleine."
+      "accroche": "Poche pleine.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055470920583480"
+          },
+          "published": {
+            "id": "18631151494065088"
+          },
+          "permalink": "https://www.instagram.com/reel/DeMM2MbkeEd/"
+        },
+        "facebook": {
+          "video_id": "1752232359339965",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110554837486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-07T13:00"
     },
     {
       "id": "TC025",
