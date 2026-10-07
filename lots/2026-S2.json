@@ -1954,13 +1954,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "K06",
       "accroche": "Sans contact, sans fouiller.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055510676583480"
+          },
+          "published": {
+            "id": "18127087540862534"
+          },
+          "permalink": "https://www.instagram.com/reel/DeMgeJ6AfEK/"
+        }
+      },
+      "publie_le": "2026-10-07T15:51"
     },
     {
       "id": "RC081",
