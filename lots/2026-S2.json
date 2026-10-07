@@ -2397,11 +2397,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PEUR",
       "visuel": "C11",
-      "accroche": "« Le mécanisme va casser ? »"
+      "accroche": "« Le mécanisme va casser ? »",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055566647583480"
+          },
+          "published": {
+            "id": "18162400627499878"
+          },
+          "permalink": "https://www.instagram.com/p/DeNAbkymKNV/"
+        },
+        "facebook": {
+          "id": "122110702353486810",
+          "post_id": "1346239391904480_122110702377486810"
+        }
+      },
+      "publie_le": "2026-10-07T20:30"
     },
     {
       "id": "TF015",
