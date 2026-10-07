@@ -2507,11 +2507,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "COLORIS",
       "visuel": "X12",
-      "accroche": "Story : Noir ou orange carbone ?"
+      "accroche": "Story : Noir ou orange carbone ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055575575583480"
+          },
+          "published": {
+            "id": "18162286318494851"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4002889032233324369"
+        }
+      },
+      "publie_le": "2026-10-07T21:33"
     },
     {
       "id": "RC179",
