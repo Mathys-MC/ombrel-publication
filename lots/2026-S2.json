@@ -2615,11 +2615,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "CHANGER",
       "visuel": "F36",
-      "accroche": "Prête à changer de portefeuille ?"
+      "accroche": "Prête à changer de portefeuille ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055586327583480"
+          },
+          "published": {
+            "id": "17976301692129361"
+          },
+          "permalink": "https://www.instagram.com/reel/DeNPdXLCjfD/"
+        },
+        "facebook": {
+          "video_id": "1286313697906383",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110762719486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-07T22:42"
     },
     {
       "id": "TC070",
