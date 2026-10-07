@@ -1810,11 +1810,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "POCHETTE",
       "visuel": "F06",
-      "accroche": "Story : Cartes. Billets. Monnaie."
+      "accroche": "Story : Cartes. Billets. Monnaie.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055483727583480"
+          },
+          "published": {
+            "id": "18087288614689237"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4002663832007414509"
+        }
+      },
+      "publie_le": "2026-10-07T14:05"
     },
     {
       "id": "TC142",
