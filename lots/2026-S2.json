@@ -1625,11 +1625,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "COLORIS",
       "visuel": "K11",
-      "accroche": "Lequel vous ressemble ?"
+      "accroche": "Lequel vous ressemble ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055465238583480"
+          },
+          "published": {
+            "id": "18080069024526091"
+          },
+          "permalink": "https://www.instagram.com/p/DeMHg8eGxqf/"
+        },
+        "facebook": {
+          "id": "122110539513486810",
+          "post_id": "1346239391904480_122110539537486810"
+        }
+      },
+      "publie_le": "2026-10-07T12:13"
     },
     {
       "id": "TC163",
