@@ -2064,11 +2064,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "COLORIS",
       "visuel": "X12",
-      "accroche": "Noir ou orange carbone ?"
+      "accroche": "Noir ou orange carbone ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055526045583480"
+          },
+          "published": {
+            "id": "18101079887382252"
+          },
+          "permalink": "https://www.instagram.com/reel/DeMnf8EDSKl/"
+        },
+        "facebook": {
+          "video_id": "1573531374524050",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110633845486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-07T16:53"
     },
     {
       "id": "TC082",
