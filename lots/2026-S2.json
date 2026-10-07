@@ -2216,13 +2216,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SOBRE",
       "visuel": "C10",
       "accroche": "Discret. Comme vous.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055544330583480"
+          },
+          "published": {
+            "id": "17905947195577893"
+          },
+          "permalink": "https://www.instagram.com/reel/DeMy4ALD5wP/"
+        }
+      },
+      "publie_le": "2026-10-07T18:32"
     },
     {
       "id": "RC167",
