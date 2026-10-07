@@ -2176,11 +2176,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "COLORIS",
       "visuel": "C23",
-      "accroche": "Le noir, c'est trop sage ?"
+      "accroche": "Le noir, c'est trop sage ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055539212583480"
+          },
+          "published": {
+            "id": "18153892999520424"
+          },
+          "permalink": "https://www.instagram.com/reel/DeMvfo-DXwX/"
+        },
+        "facebook": {
+          "video_id": "2065665844064701",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110655553486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-07T18:03"
     },
     {
       "id": "TC061",
