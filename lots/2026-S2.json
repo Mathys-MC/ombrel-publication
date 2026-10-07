@@ -1771,11 +1771,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "CADEAU",
       "visuel": "F28",
-      "accroche": "Vous ne savez jamais quoi lui offrir ?"
+      "accroche": "Vous ne savez jamais quoi lui offrir ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055480073583480"
+          },
+          "published": {
+            "id": "17884977963505656"
+          },
+          "permalink": "https://www.instagram.com/reel/DeMSdJhDYvb/"
+        },
+        "facebook": {
+          "video_id": "1614429163674631",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110569543486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-07T13:49"
     },
     {
       "id": "S-2026-10-07-2",
