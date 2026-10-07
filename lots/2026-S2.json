@@ -2251,11 +2251,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "X09",
-      "accroche": "Il mérite sa retraite."
+      "accroche": "Il mérite sa retraite.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055554755583480"
+          },
+          "published": {
+            "id": "17951182710277097"
+          },
+          "permalink": "https://www.instagram.com/reel/DeM4FgAj5sm/"
+        },
+        "facebook": {
+          "video_id": "1096418609967907",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110679379486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-07T19:18"
     },
     {
       "id": "TC049",
@@ -2271,13 +2291,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PRODUIT",
       "visuel": "C06",
       "accroche": "Comment ça marche ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055554995583480"
+          },
+          "published": {
+            "id": "17955416019266626"
+          },
+          "permalink": "https://www.instagram.com/reel/DeM4KhPD4hU/"
+        }
+      },
+      "publie_le": "2026-10-07T19:18"
     },
     {
       "id": "P-F12",
