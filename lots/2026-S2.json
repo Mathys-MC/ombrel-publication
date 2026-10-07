@@ -2104,13 +2104,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C17",
       "accroche": "Pour l'anniversaire de votre père.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055533737583480"
+          },
+          "published": {
+            "id": "18096477527403861"
+          },
+          "permalink": "https://www.instagram.com/reel/DeMsQEjDVFe/"
+        }
+      },
+      "publie_le": "2026-10-07T17:34"
     },
     {
       "id": "P-C03",
@@ -2127,11 +2139,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "HONNETE",
       "visuel": "C03",
-      "accroche": "« Je dois vous avouer un truc : je ne prends pas la monnaie. »"
+      "accroche": "« Je dois vous avouer un truc : je ne prends pas la monnaie. »",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055533983583480"
+          },
+          "published": {
+            "id": "18096930023450272"
+          },
+          "permalink": "https://www.instagram.com/p/DeMsUMIG7WH/"
+        },
+        "facebook": {
+          "id": "122110645527486810",
+          "post_id": "1346239391904480_122110645551486810"
+        }
+      },
+      "publie_le": "2026-10-07T17:34"
     },
     {
       "id": "RC071",
