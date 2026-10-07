@@ -1332,11 +1332,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C08",
-      "accroche": "Ce qui déborde de votre poche."
+      "accroche": "Ce qui déborde de votre poche.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055441088583480"
+          },
+          "published": {
+            "id": "18125537801313770"
+          },
+          "permalink": "https://www.instagram.com/reel/DeLzSuagtk-/"
+        },
+        "facebook": {
+          "video_id": "28481351634807682",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110465287486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-07T09:17"
     },
     {
       "id": "TC048",
