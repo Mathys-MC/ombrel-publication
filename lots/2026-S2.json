@@ -1405,11 +1405,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C08",
-      "accroche": "Story : Ce qui déborde de votre poche."
+      "accroche": "Story : Ce qui déborde de votre poche.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055445870583480"
+          },
+          "published": {
+            "id": "17909723289483217"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4002539746214721569"
+        }
+      },
+      "publie_le": "2026-10-07T09:59"
     },
     {
       "id": "RC105",
