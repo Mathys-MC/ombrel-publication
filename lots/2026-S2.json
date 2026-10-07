@@ -1550,11 +1550,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SANSCONTACT",
       "visuel": "K02",
-      "accroche": "Le sans-contact vous fait douter ?"
+      "accroche": "Le sans-contact vous fait douter ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055458608583480"
+          },
+          "published": {
+            "id": "18140976352622295"
+          },
+          "permalink": "https://www.instagram.com/reel/DeMCyOGks5r/"
+        },
+        "facebook": {
+          "video_id": "1436569838676017",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110517943486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-07T11:32"
     },
     {
       "id": "TF007",
