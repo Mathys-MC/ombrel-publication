@@ -2326,11 +2326,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "COLORIS",
       "visuel": "F12",
-      "accroche": "Laquelle vous ressemble ?"
+      "accroche": "Laquelle vous ressemble ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055557920583480"
+          },
+          "published": {
+            "id": "17903098908571299"
+          },
+          "permalink": "https://www.instagram.com/p/DeM6e9IHbQo/"
+        },
+        "facebook": {
+          "id": "122110685319486810",
+          "post_id": "1346239391904480_122110685343486810"
+        }
+      },
+      "publie_le": "2026-10-07T19:38"
     },
     {
       "id": "TC097",
