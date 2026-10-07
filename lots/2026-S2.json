@@ -1513,11 +1513,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "POCHETTE",
       "visuel": "F06",
-      "accroche": "Cartes. Billets. Monnaie."
+      "accroche": "Cartes. Billets. Monnaie.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055454723583480"
+          },
+          "published": {
+            "id": "18131395483796934"
+          },
+          "permalink": "https://www.instagram.com/p/DeMACg7nJWW/"
+        },
+        "facebook": {
+          "id": "122110509201486810",
+          "post_id": "1346239391904480_122110509237486810"
+        }
+      },
+      "publie_le": "2026-10-07T11:08"
     },
     {
       "id": "RC004",
