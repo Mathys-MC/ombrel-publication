@@ -1661,13 +1661,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "LIVRAISON",
       "visuel": "C39",
       "accroche": "Livré chez vous, offert.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055468271583480"
+          },
+          "published": {
+            "id": "18151170703527017"
+          },
+          "permalink": "https://www.instagram.com/reel/DeMKayYkzX7/"
+        }
+      },
+      "publie_le": "2026-10-07T12:38"
     },
     {
       "id": "R02",
