@@ -1918,11 +1918,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "C02",
-      "accroche": "3 signes qu'il est temps de changer de portefeuille."
+      "accroche": "3 signes qu'il est temps de changer de portefeuille.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055506134583480"
+          },
+          "published": {
+            "id": "17908416159560546"
+          },
+          "permalink": "https://www.instagram.com/p/DeMd6CgGxjR/"
+        },
+        "facebook": {
+          "id": "122110610073486810",
+          "post_id": "1346239391904480_122110610097486810"
+        }
+      },
+      "publie_le": "2026-10-07T15:29"
     },
     {
       "id": "TC016",
