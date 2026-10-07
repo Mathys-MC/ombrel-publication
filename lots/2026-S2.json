@@ -2468,11 +2468,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "X02",
-      "accroche": "Il mérite sa retraite."
+      "accroche": "Il mérite sa retraite.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055572182583480"
+          },
+          "published": {
+            "id": "17895559995609869"
+          },
+          "permalink": "https://www.instagram.com/reel/DeNEgoJnVgE/"
+        },
+        "facebook": {
+          "video_id": "1965609944822220",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110724781486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-07T21:06"
     },
     {
       "id": "S-2026-10-07-3",
