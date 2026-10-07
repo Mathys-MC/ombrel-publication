@@ -2540,11 +2540,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "HONNETE",
       "visuel": "X15",
-      "accroche": "On préfère vous le dire."
+      "accroche": "On préfère vous le dire.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055577720583480"
+          },
+          "published": {
+            "id": "18193083046392508"
+          },
+          "permalink": "https://www.instagram.com/reel/DeNJeRrFNWx/"
+        },
+        "facebook": {
+          "video_id": "1612864420325670",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110747545486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-07T21:50"
     },
     {
       "id": "TC112",
