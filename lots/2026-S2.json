@@ -3810,11 +3810,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C19",
-      "accroche": "Pour lui, cette année."
+      "accroche": "Pour lui, cette année.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055811225583480"
+          },
+          "published": {
+            "id": "18021418349873574"
+          },
+          "permalink": "https://www.instagram.com/reel/DePpKxXEnVS/"
+        },
+        "facebook": {
+          "video_id": "1104344025839356",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111205975486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-08T21:05"
     },
     {
       "id": "S-2026-10-08-3",
