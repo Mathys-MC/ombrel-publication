@@ -3164,11 +3164,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "MONNAIE",
       "visuel": "F13",
-      "accroche": "Story : « Ma poche monnaie, c'est pour l'appoint. »"
+      "accroche": "Story : « Ma poche monnaie, c'est pour l'appoint. »",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055722548583480"
+          },
+          "published": {
+            "id": "17986941396111866"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4003388530899001132"
+        }
+      },
+      "publie_le": "2026-10-08T14:05"
     },
     {
       "id": "TC085",
