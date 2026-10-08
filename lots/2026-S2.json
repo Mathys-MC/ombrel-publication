@@ -3882,11 +3882,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "COLORIS",
       "visuel": "X23",
-      "accroche": "Lequel vous ressemble ?"
+      "accroche": "Lequel vous ressemble ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055820678583480"
+          },
+          "published": {
+            "id": "18128375078482776"
+          },
+          "permalink": "https://www.instagram.com/reel/DePuiFcFW8I/"
+        },
+        "facebook": {
+          "video_id": "1626396235696061",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111220033486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-08T21:52"
     },
     {
       "id": "TC055",
