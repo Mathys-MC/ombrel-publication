@@ -3493,11 +3493,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "K04",
-      "accroche": "Avant, et avec le Carbone."
+      "accroche": "Avant, et avec le Carbone.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055768982583480"
+          },
+          "published": {
+            "id": "17896061514411966"
+          },
+          "permalink": "https://www.instagram.com/p/DePR-QWlca9/"
+        },
+        "facebook": {
+          "id": "122111143767486810",
+          "post_id": "1346239391904480_122111143791486810"
+        }
+      },
+      "publie_le": "2026-10-08T17:42"
     },
     {
       "id": "RC042",
