@@ -2832,13 +2832,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "C02",
       "accroche": "Combien de tickets dedans ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055688576583480"
+          },
+          "published": {
+            "id": "18476104714115868"
+          },
+          "permalink": "https://www.instagram.com/reel/DeOi5fRFO1_/"
+        }
+      },
+      "publie_le": "2026-10-08T10:51"
     },
     {
       "id": "P-F13",
