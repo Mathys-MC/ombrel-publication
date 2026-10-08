@@ -3383,13 +3383,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "MONNAIE",
       "visuel": "F14",
       "accroche": "Le zip qui change tout.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055754828583480"
+          },
+          "published": {
+            "id": "18134106820660461"
+          },
+          "permalink": "https://www.instagram.com/reel/DePK3hNkWMn/"
+        }
+      },
+      "publie_le": "2026-10-08T16:40"
     },
     {
       "id": "RC186",
