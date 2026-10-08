@@ -3125,11 +3125,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "SAC",
       "visuel": "F07",
-      "accroche": "Vos clés, du premier coup ?"
+      "accroche": "Vos clés, du premier coup ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055720211583480"
+          },
+          "published": {
+            "id": "17871227343643549"
+          },
+          "permalink": "https://www.instagram.com/reel/DeO3eDUj9l6/"
+        },
+        "facebook": {
+          "video_id": "1096727956075296",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111065797486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-08T13:51"
     },
     {
       "id": "S-2026-10-08-2",
