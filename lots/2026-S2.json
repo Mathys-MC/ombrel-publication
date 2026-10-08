@@ -3272,11 +3272,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SANSCONTACT",
       "visuel": "C07",
-      "accroche": "Vous payez sans contact ?"
+      "accroche": "Vous payez sans contact ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055741616583480"
+          },
+          "published": {
+            "id": "17939154702367186"
+          },
+          "permalink": "https://www.instagram.com/p/DePC28pkc_8/"
+        },
+        "facebook": {
+          "id": "122111094111486810",
+          "post_id": "1346239391904480_122111094141486810"
+        }
+      },
+      "publie_le": "2026-10-08T15:30"
     },
     {
       "id": "TC109",
