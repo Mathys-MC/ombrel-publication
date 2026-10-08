@@ -3090,13 +3090,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "C30",
       "accroche": "Et si payer devenait simple ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055716122583480"
+          },
+          "published": {
+            "id": "18037731200650472"
+          },
+          "permalink": "https://www.instagram.com/reel/DeO1KIQDBXU/"
+        }
+      },
+      "publie_le": "2026-10-08T13:30"
     },
     {
       "id": "RF006",
