@@ -3050,11 +3050,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C47",
-      "accroche": "Cette bosse dans votre jean ?"
+      "accroche": "Cette bosse dans votre jean ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055710554583480"
+          },
+          "published": {
+            "id": "18095366669222609"
+          },
+          "permalink": "https://www.instagram.com/reel/DeOxrQulbe4/"
+        },
+        "facebook": {
+          "video_id": "1072410902291481",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111051025486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-08T13:00"
     },
     {
       "id": "TC121",
