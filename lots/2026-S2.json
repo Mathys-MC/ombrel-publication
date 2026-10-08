@@ -2759,11 +2759,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "LIVRAISON",
       "visuel": "C14",
-      "accroche": "Story : « Et la livraison ? »"
+      "accroche": "Story : « Et la livraison ? »",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055681529583480"
+          },
+          "published": {
+            "id": "18488864095108477"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4003264654898259062"
+        }
+      },
+      "publie_le": "2026-10-08T09:59"
     },
     {
       "id": "RC121",
