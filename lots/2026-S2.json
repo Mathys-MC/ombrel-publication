@@ -3458,13 +3458,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PRODUIT",
       "visuel": "C28",
       "accroche": "Le Carbone, de près.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055765769583480"
+          },
+          "published": {
+            "id": "18410802619080618"
+          },
+          "permalink": "https://www.instagram.com/reel/DePP-NJkoz5/"
+        }
+      },
+      "publie_le": "2026-10-08T17:25"
     },
     {
       "id": "P-K04",
