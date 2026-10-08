@@ -3957,11 +3957,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "ORGA",
       "visuel": "F05",
-      "accroche": "Petit, mais pas en vrac."
+      "accroche": "Petit, mais pas en vrac.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055832279583480"
+          },
+          "published": {
+            "id": "18109541360223538"
+          },
+          "permalink": "https://www.instagram.com/reel/DeP0a8ZCek0/"
+        },
+        "facebook": {
+          "video_id": "1419388130406951",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111237835486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-08T22:43"
     },
     {
       "id": "TC220",
