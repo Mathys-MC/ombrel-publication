@@ -3745,11 +3745,21 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C16",
-      "accroche": "Il dit qu'il n'a besoin de rien."
+      "accroche": "Il dit qu'il n'a besoin de rien.",
+      "resultats": {
+        "instagram": {
+          "erreur": "{\"message\": \"Application request limit reached\", \"type\": \"OAuthException\", \"is_transient\": false, \"code\": 4, \"error_subcode\": 2207051, \"error_user_title\": \"action is blocked\", \"error_user_msg\": \"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\", \"fbtrace_id\": \"A_ucD7ZLdifOGLNCWuQyslw\"}"
+        },
+        "facebook": {
+          "id": "122111192811486810",
+          "post_id": "1346239391904480_122111192835486810"
+        }
+      },
+      "publie_le": "2026-10-08T20:29"
     },
     {
       "id": "TF041",
