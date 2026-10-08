@@ -3343,11 +3343,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C36",
-      "accroche": "Comptez ses cartes."
+      "accroche": "Comptez ses cartes.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055748147583480"
+          },
+          "published": {
+            "id": "17863053324694245"
+          },
+          "permalink": "https://www.instagram.com/reel/DePGxX1HP-Z/"
+        },
+        "facebook": {
+          "video_id": "1592487628493185",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111111721486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-08T16:05"
     },
     {
       "id": "TF027",
