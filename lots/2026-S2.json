@@ -2979,11 +2979,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "K05",
-      "accroche": "Clés. Téléphone. Carbone."
+      "accroche": "Clés. Téléphone. Carbone.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055702250583480"
+          },
+          "published": {
+            "id": "18124096328490842"
+          },
+          "permalink": "https://www.instagram.com/p/DeOsWf9Fvr2/"
+        },
+        "facebook": {
+          "id": "122111032083486810",
+          "post_id": "1346239391904480_122111032107486810"
+        }
+      },
+      "publie_le": "2026-10-08T12:13"
     },
     {
       "id": "TC145",
