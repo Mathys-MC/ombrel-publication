@@ -2792,11 +2792,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SOBRE",
       "visuel": "C42",
-      "accroche": "Moins de choses. Mieux rangées."
+      "accroche": "Moins de choses. Mieux rangées.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055684715583480"
+          },
+          "published": {
+            "id": "17906582511603074"
+          },
+          "permalink": "https://www.instagram.com/reel/DeOf_dogNbH/"
+        },
+        "facebook": {
+          "video_id": "971596725412714",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122110996629486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-08T10:26"
     },
     {
       "id": "TC038",
