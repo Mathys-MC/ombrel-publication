@@ -2944,13 +2944,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "COLORIS",
       "visuel": "F31",
       "accroche": "Votre teinte, votre humeur.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055698548583480"
+          },
+          "published": {
+            "id": "17874175272650214"
+          },
+          "permalink": "https://www.instagram.com/reel/DeOqQeVAjQR/"
+        }
+      },
+      "publie_le": "2026-10-08T11:55"
     },
     {
       "id": "P-K05",
