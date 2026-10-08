@@ -2867,11 +2867,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "MONNAIE",
       "visuel": "F13",
-      "accroche": "« Ma poche monnaie, c'est pour l'appoint. »"
+      "accroche": "« Ma poche monnaie, c'est pour l'appoint. »",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055690658583480"
+          },
+          "published": {
+            "id": "17973519147158632"
+          },
+          "permalink": "https://www.instagram.com/p/DeOk6SfG-al/"
+        },
+        "facebook": {
+          "id": "122111011155486810",
+          "post_id": "1346239391904480_122111011179486810"
+        }
+      },
+      "publie_le": "2026-10-08T11:08"
     },
     {
       "id": "RC118",
