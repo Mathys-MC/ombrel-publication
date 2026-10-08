@@ -3570,13 +3570,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "COLORIS",
       "visuel": "C23",
       "accroche": "Quel coloris pour lui ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055781312583480"
+          },
+          "published": {
+            "id": "18092905967174975"
+          },
+          "permalink": "https://www.instagram.com/reel/DePX4_wClIU/"
+        }
+      },
+      "publie_le": "2026-10-08T18:34"
     },
     {
       "id": "RC157",
