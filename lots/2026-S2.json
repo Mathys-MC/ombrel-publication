@@ -3849,11 +3849,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SOBRE",
       "visuel": "X18",
-      "accroche": "Story : Sobre. Fin. Rangé."
+      "accroche": "Story : Sobre. Fin. Rangé.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055817036583480"
+          },
+          "published": {
+            "id": "17992267851062817"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4003614032963851797"
+        }
+      },
+      "publie_le": "2026-10-08T21:33"
     },
     {
       "id": "RC196",
