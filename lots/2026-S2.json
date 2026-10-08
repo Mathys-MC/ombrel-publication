@@ -2690,11 +2690,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "LIVRAISON",
       "visuel": "C14",
-      "accroche": "« Et la livraison ? »"
+      "accroche": "« Et la livraison ? »",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055675319583480"
+          },
+          "published": {
+            "id": "18080697899341588"
+          },
+          "permalink": "https://www.instagram.com/p/DeOYKCeHNek/"
+        },
+        "facebook": {
+          "id": "122110964049486810",
+          "post_id": "1346239391904480_122110964073486810"
+        }
+      },
+      "publie_le": "2026-10-08T09:17"
     },
     {
       "id": "TC007",
