@@ -4581,13 +4581,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "HONNETE",
       "visuel": "C37",
       "accroche": "Un défaut, et on l'assume.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055990796583480"
+          },
+          "published": {
+            "id": "17934019227407477"
+          },
+          "permalink": "https://www.instagram.com/reel/DeRqG7oFO_n/"
+        }
+      },
+      "publie_le": "2026-10-09T15:51"
     },
     {
       "id": "RC129",
