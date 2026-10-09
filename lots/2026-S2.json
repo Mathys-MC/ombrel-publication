@@ -4385,13 +4385,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "HONNETE",
       "visuel": "C52",
       "accroche": "La vérité sur ce portefeuille.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055964363583480"
+          },
+          "published": {
+            "id": "18130083490699007"
+          },
+          "permalink": "https://www.instagram.com/reel/DeRZvv1lOqM/"
+        }
+      },
+      "publie_le": "2026-10-09T13:29"
     },
     {
       "id": "RF013",
