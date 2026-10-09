@@ -4459,11 +4459,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "HONNETE",
       "visuel": "F24",
-      "accroche": "Story : On ne vous dira pas « cuir véritable »."
+      "accroche": "Story : On ne vous dira pas « cuir véritable ».",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055970678583480"
+          },
+          "published": {
+            "id": "18217360555355500"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4004113034864767497"
+        }
+      },
+      "publie_le": "2026-10-09T14:04"
     },
     {
       "id": "TC251",
