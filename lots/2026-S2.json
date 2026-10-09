@@ -4656,13 +4656,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "CADEAU",
       "visuel": "F28",
       "accroche": "Un cadeau qu'elle utilisera.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056000519583480"
+          },
+          "published": {
+            "id": "18147296053561012"
+          },
+          "permalink": "https://www.instagram.com/reel/DeRvwktCK3H/"
+        }
+      },
+      "publie_le": "2026-10-09T16:41"
     },
     {
       "id": "RC133",
