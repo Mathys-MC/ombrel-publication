@@ -4420,11 +4420,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "POCHETTE",
       "visuel": "F15",
-      "accroche": "Ce soir, juste une pochette."
+      "accroche": "Ce soir, juste une pochette.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055967378583480"
+          },
+          "published": {
+            "id": "17913854637470134"
+          },
+          "permalink": "https://www.instagram.com/reel/DeRcECfDYbN/"
+        },
+        "facebook": {
+          "video_id": "2404361923706521",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111489391486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-09T13:49"
     },
     {
       "id": "S-2026-10-09-2",
