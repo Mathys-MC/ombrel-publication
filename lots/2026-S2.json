@@ -4491,13 +4491,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SOBRE",
       "visuel": "X13",
       "accroche": "Juste ce qu'il faut.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18055978091583480"
+          },
+          "published": {
+            "id": "18092587049652167"
+          },
+          "permalink": "https://www.instagram.com/reel/DeRioiXikwM/"
+        }
+      },
+      "publie_le": "2026-10-09T14:46"
     },
     {
       "id": "P-C38",
