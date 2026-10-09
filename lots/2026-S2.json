@@ -5140,11 +5140,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SOBRE",
       "visuel": "X24",
-      "accroche": "L'essentiel, rien de plus."
+      "accroche": "L'essentiel, rien de plus.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056062121583480"
+          },
+          "published": {
+            "id": "18098894867652355"
+          },
+          "permalink": "https://www.instagram.com/reel/DeSTEvADimQ/"
+        },
+        "facebook": {
+          "video_id": "2130466400921289",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111716365486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-09T21:50"
     },
     {
       "id": "TC133",
