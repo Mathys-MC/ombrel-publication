@@ -5215,11 +5215,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "COLORIS",
       "visuel": "F32",
-      "accroche": "Le violet, vous oseriez ?"
+      "accroche": "Le violet, vous oseriez ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056071757583480"
+          },
+          "published": {
+            "id": "18131522287690454"
+          },
+          "permalink": "https://www.instagram.com/reel/DeSZKlmj2B_/"
+        },
+        "facebook": {
+          "video_id": "1876620693702688",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111731797486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-09T22:43"
     },
     {
       "id": "TC211",
