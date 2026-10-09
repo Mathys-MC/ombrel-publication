@@ -5033,13 +5033,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "CHANGER",
       "visuel": "F36",
       "accroche": "Le jour où on change.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056053637583480"
+          },
+          "published": {
+            "id": "18637566313005120"
+          },
+          "permalink": "https://www.instagram.com/reel/DeSMgZRkntu/"
+        }
+      },
+      "publie_le": "2026-10-09T20:52"
     },
     {
       "id": "RC119",
