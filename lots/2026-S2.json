@@ -4691,11 +4691,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C47",
-      "accroche": "Vous êtes assis dessus."
+      "accroche": "Vous êtes assis dessus.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056003051583480"
+          },
+          "published": {
+            "id": "18411127786093740"
+          },
+          "permalink": "https://www.instagram.com/reel/DeRxYLKANdo/"
+        },
+        "facebook": {
+          "video_id": "28697157596618482",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111610477486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-09T16:55"
     },
     {
       "id": "TC118",
