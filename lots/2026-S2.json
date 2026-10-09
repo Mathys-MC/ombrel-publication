@@ -5255,13 +5255,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "COLORIS",
       "visuel": "C55",
       "accroche": "Votre couleur dit tout.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056074433583480"
+          },
+          "published": {
+            "id": "17880136878628705"
+          },
+          "permalink": "https://www.instagram.com/reel/DeSbDB6Ef5m/"
+        }
+      },
+      "publie_le": "2026-10-09T22:59"
     },
     {
       "id": "P-C12",
