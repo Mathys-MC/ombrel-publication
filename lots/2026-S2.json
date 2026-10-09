@@ -4794,11 +4794,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "X01",
-      "accroche": "L'inventaire de votre poche."
+      "accroche": "L'inventaire de votre poche.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056016353583480"
+          },
+          "published": {
+            "id": "17868248862658705"
+          },
+          "permalink": "https://www.instagram.com/reel/DeR44GRk9Ov/"
+        },
+        "facebook": {
+          "video_id": "1467571945239099",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111637687486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-09T18:01"
     },
     {
       "id": "TC259",
