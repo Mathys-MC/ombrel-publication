@@ -4765,12 +4765,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "C24",
       "accroche": "Prêt à changer de portefeuille ?",
-      "instagram_reporte": "pause 48 h : Instagram bloque les photos (2207051) depuis le 08/10 19:37"
+      "instagram_reporte": "pause 48 h : Instagram bloque les photos (2207051) depuis le 08/10 19:37",
+      "resultats": {
+        "facebook": {
+          "id": "122111630937486810",
+          "post_id": "1346239391904480_122111630961486810"
+        }
+      },
+      "publie_le": "2026-10-09T17:41"
     },
     {
       "id": "R05",
