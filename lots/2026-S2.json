@@ -4731,13 +4731,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C29",
       "accroche": "Votre jean mérite mieux.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056007842583480"
+          },
+          "published": {
+            "id": "18033459488899764"
+          },
+          "permalink": "https://www.instagram.com/reel/DeR0mBJAOrp/"
+        }
+      },
+      "publie_le": "2026-10-09T17:23"
     },
     {
       "id": "P-C24",
