@@ -4834,13 +4834,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "X17",
       "accroche": "Payer sans chercher.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056023889583480"
+          },
+          "published": {
+            "id": "18031215926905319"
+          },
+          "permalink": "https://www.instagram.com/reel/DeR8NjNjvwT/"
+        }
+      },
+      "publie_le": "2026-10-09T18:30"
     },
     {
       "id": "RC110",
