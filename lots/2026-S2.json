@@ -5068,11 +5068,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "C41",
-      "accroche": "Et si c'était cette semaine ?"
+      "accroche": "Et si c'était cette semaine ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056056181583480"
+          },
+          "published": {
+            "id": "17927834334185138"
+          },
+          "permalink": "https://www.instagram.com/reel/DeSNvuvksur/"
+        },
+        "facebook": {
+          "video_id": "2524454534714304",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111700615486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-09T21:03"
     },
     {
       "id": "S-2026-10-09-3",
