@@ -4971,13 +4971,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SOBRE",
       "visuel": "C43",
       "accroche": "Le minimalisme commence ici.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056041595583480"
+          },
+          "published": {
+            "id": "18039330653835354"
+          },
+          "permalink": "https://www.instagram.com/reel/DeSGOFFCSpA/"
+        }
+      },
+      "publie_le": "2026-10-09T19:57"
     },
     {
       "id": "P-C04",
