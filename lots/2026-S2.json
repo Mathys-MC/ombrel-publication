@@ -5180,13 +5180,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PRODUIT",
       "visuel": "X04",
       "accroche": "Zoom sur le Carbone.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056068106583480"
+          },
+          "published": {
+            "id": "18176032717450232"
+          },
+          "permalink": "https://www.instagram.com/reel/DeSWfZyCOa2/"
+        }
+      },
+      "publie_le": "2026-10-09T22:19"
     },
     {
       "id": "RF028",
