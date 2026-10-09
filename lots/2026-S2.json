@@ -4909,13 +4909,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C20",
       "accroche": "Un cadeau sans se tromper ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056032562583480"
+          },
+          "published": {
+            "id": "18062493389617266"
+          },
+          "permalink": "https://www.instagram.com/reel/DeSAsN2ACU-/"
+        }
+      },
+      "publie_le": "2026-10-09T19:09"
     },
     {
       "id": "P-F25",
