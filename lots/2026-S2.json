@@ -5383,11 +5383,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "HONNETE",
       "visuel": "C37",
-      "accroche": "Pas de poche monnaie. Exprès."
+      "accroche": "Pas de poche monnaie. Exprès.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056179781583480"
+          },
+          "published": {
+            "id": "18105722879294311"
+          },
+          "permalink": "https://www.instagram.com/reel/DeTpNptkh3o/"
+        },
+        "facebook": {
+          "video_id": "1530088775817423",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111932815486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-10T10:22"
     },
     {
       "id": "TC178",
