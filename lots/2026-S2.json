@@ -5844,12 +5844,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "K09",
       "accroche": "Un portefeuille épais, c'est une fatalité ? Non.",
-      "instagram_reporte": "pause 48 h : Instagram bloque les photos (2207051) depuis le 08/10 19:37"
+      "instagram_reporte": "pause 48 h : Instagram bloque les photos (2207051) depuis le 08/10 19:37",
+      "resultats": {
+        "facebook": {
+          "id": "122112063027486810",
+          "post_id": "1346239391904480_122112063051486810"
+        }
+      },
+      "publie_le": "2026-10-10T15:24"
     },
     {
       "id": "TC208",
