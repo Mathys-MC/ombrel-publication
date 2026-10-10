@@ -5982,11 +5982,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C48",
-      "accroche": "Vous êtes assis dessus."
+      "accroche": "Vous êtes assis dessus.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056257760583480"
+          },
+          "published": {
+            "id": "18104928563574073"
+          },
+          "permalink": "https://www.instagram.com/reel/DeUVkpTDC_Z/"
+        },
+        "facebook": {
+          "video_id": "1680274326985311",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112097137486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-10T16:50"
     },
     {
       "id": "TC160",
