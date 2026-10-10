@@ -5947,13 +5947,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "ORGA",
       "visuel": "F05",
       "accroche": "Ouvrez-le avec nous.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056251688583480"
+          },
+          "published": {
+            "id": "17942855772091804"
+          },
+          "permalink": "https://www.instagram.com/reel/DeUTvnAHT5u/"
+        }
+      },
+      "publie_le": "2026-10-10T16:34"
     },
     {
       "id": "RC135",
