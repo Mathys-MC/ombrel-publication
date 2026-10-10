@@ -5907,11 +5907,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "X17",
-      "accroche": "La file attend derrière vous."
+      "accroche": "La file attend derrière vous.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056243321583480"
+          },
+          "published": {
+            "id": "17988566084872020"
+          },
+          "permalink": "https://www.instagram.com/reel/DeUP85lAT9c/"
+        },
+        "facebook": {
+          "video_id": "2109896909885860",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112074061486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-10T16:01"
     },
     {
       "id": "TF009",
