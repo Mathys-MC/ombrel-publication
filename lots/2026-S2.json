@@ -5486,11 +5486,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PRODUIT",
       "visuel": "X07",
-      "accroche": "Ce qu'il y a dedans."
+      "accroche": "Ce qu'il y a dedans.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056192786583480"
+          },
+          "published": {
+            "id": "18017470811954567"
+          },
+          "permalink": "https://www.instagram.com/reel/DeTw3cTEiia/"
+        },
+        "facebook": {
+          "video_id": "1444336697885310",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122111983515486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-10T11:29"
     },
     {
       "id": "TF013",
