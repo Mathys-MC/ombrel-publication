@@ -6085,11 +6085,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C20",
-      "accroche": "Il dit qu'il ne veut rien ?"
+      "accroche": "Il dit qu'il ne veut rien ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056279450583480"
+          },
+          "published": {
+            "id": "18116559223810780"
+          },
+          "permalink": "https://www.instagram.com/reel/DeUdJeaCEI3/"
+        },
+        "facebook": {
+          "video_id": "1659178785642744",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112119163486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-10T17:56"
     },
     {
       "id": "TC226",
