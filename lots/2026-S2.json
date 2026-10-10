@@ -6546,13 +6546,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "X25",
       "accroche": "Sans contact, sans fouiller.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056342144583480"
+          },
+          "published": {
+            "id": "18227034169329373"
+          },
+          "permalink": "https://www.instagram.com/reel/DeU_mUDE_89/"
+        }
+      },
+      "publie_le": "2026-10-10T22:57"
     },
     {
       "id": "P-C17",
