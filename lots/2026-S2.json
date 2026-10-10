@@ -6398,11 +6398,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C48",
-      "accroche": "Story : Vous êtes assis dessus."
+      "accroche": "Story : Vous êtes assis dessus.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056329607583480"
+          },
+          "published": {
+            "id": "18108748550520686"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4005061951466053084"
+        }
+      },
+      "publie_le": "2026-10-10T21:30"
     },
     {
       "id": "RC171",
