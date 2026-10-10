@@ -5317,13 +5317,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "C53",
       "accroche": "Votre vieux portefeuille ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056171573583480"
+          },
+          "published": {
+            "id": "18098085959558675"
+          },
+          "permalink": "https://www.instagram.com/reel/DeTjyDcjUed/"
+        }
+      },
+      "publie_le": "2026-10-10T09:35"
     },
     {
       "id": "S-2026-10-10-1",
