@@ -5737,11 +5737,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "CADEAU",
       "visuel": "F27",
-      "accroche": "Story : Vous ne savez jamais quoi lui offrir ?"
+      "accroche": "Story : Vous ne savez jamais quoi lui offrir ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056221070583480"
+          },
+          "published": {
+            "id": "18143803798503762"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4004836813685452185"
+        }
+      },
+      "publie_le": "2026-10-10T14:03"
     },
     {
       "id": "TC136",
