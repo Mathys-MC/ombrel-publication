@@ -6056,12 +6056,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SANSCONTACT",
       "visuel": "C32",
       "accroche": "Vous cachez votre code au distributeur.",
-      "instagram_reporte": "pause 48 h : Instagram bloque les photos (2207051) depuis le 08/10 19:37"
+      "instagram_reporte": "pause 48 h : Instagram bloque les photos (2207051) depuis le 08/10 19:37",
+      "resultats": {
+        "facebook": {
+          "id": "122112114525486810",
+          "post_id": "1346239391904480_122112114549486810"
+        }
+      },
+      "publie_le": "2026-10-10T17:38"
     },
     {
       "id": "RC065",
