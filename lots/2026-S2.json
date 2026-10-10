@@ -5526,13 +5526,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "SAC",
       "visuel": "F07",
       "accroche": "Le sac change, le portefeuille suit.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056196341583480"
+          },
+          "published": {
+            "id": "18077881298723721"
+          },
+          "permalink": "https://www.instagram.com/reel/DeTzcUElOZn/"
+        }
+      },
+      "publie_le": "2026-10-10T11:52"
     },
     {
       "id": "P-C39",
