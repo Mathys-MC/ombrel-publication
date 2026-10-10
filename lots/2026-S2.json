@@ -6471,13 +6471,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C31",
       "accroche": "Ça dépasse encore de votre poche ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056337416583480"
+          },
+          "published": {
+            "id": "18496795264101210"
+          },
+          "permalink": "https://www.instagram.com/reel/DeU7KfokmhX/"
+        }
+      },
+      "publie_le": "2026-10-10T22:18"
     },
     {
       "id": "RF039",
