@@ -6125,13 +6125,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "COLORIS",
       "visuel": "C60",
       "accroche": "Sobre ou affirmé ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056285468583480"
+          },
+          "published": {
+            "id": "18099185963532013"
+          },
+          "permalink": "https://www.instagram.com/reel/DeUgwCkjx-T/"
+        }
+      },
+      "publie_le": "2026-10-10T18:27"
     },
     {
       "id": "RC128",
