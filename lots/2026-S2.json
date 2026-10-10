@@ -5769,13 +5769,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "X05",
       "accroche": "Il a tout ? Sauf ça.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056227832583480"
+          },
+          "published": {
+            "id": "18498012787098635"
+          },
+          "permalink": "https://www.instagram.com/reel/DeUHLMuCM22/"
+        }
+      },
+      "publie_le": "2026-10-10T14:44"
     },
     {
       "id": "RC188",
