@@ -6506,11 +6506,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "HONNETE",
       "visuel": "Y08",
-      "accroche": "Ce qu'il n'a pas, on l'écrit."
+      "accroche": "Ce qu'il n'a pas, on l'écrit.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056339849583480"
+          },
+          "published": {
+            "id": "17969251287174841"
+          },
+          "permalink": "https://www.instagram.com/reel/DeU9xvcFNkk/"
+        },
+        "facebook": {
+          "video_id": "3337429223118925",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112213225486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-10T22:41"
     },
     {
       "id": "TC275",
