@@ -6359,11 +6359,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SOBRE",
       "visuel": "C43",
-      "accroche": "Sobre. Fin. Rangé."
+      "accroche": "Sobre. Fin. Rangé.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056321921583480"
+          },
+          "published": {
+            "id": "18016342907748430"
+          },
+          "permalink": "https://www.instagram.com/reel/DeUyle7kiN3/"
+        },
+        "facebook": {
+          "video_id": "1412895470383523",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112182517486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-10T21:04"
     },
     {
       "id": "S-2026-10-10-3",
