@@ -5698,11 +5698,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "PEUR",
       "visuel": "F23",
-      "accroche": "« Trop petit pour mes cartes ? »"
+      "accroche": "« Trop petit pour mes cartes ? »",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056218004583480"
+          },
+          "published": {
+            "id": "18330881728263586"
+          },
+          "permalink": "https://www.instagram.com/reel/DeUAttGnP4-/"
+        },
+        "facebook": {
+          "video_id": "4463033123951626",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112031767486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-10T13:48"
     },
     {
       "id": "S-2026-10-10-2",
