@@ -5560,12 +5560,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "LIVRAISON",
       "visuel": "C39",
       "accroche": "Ce qui se passe quand vous commandez.",
-      "instagram_reporte": "pause 48 h : Instagram bloque les photos (2207051) depuis le 08/10 19:37"
+      "instagram_reporte": "pause 48 h : Instagram bloque les photos (2207051) depuis le 08/10 19:37",
+      "resultats": {
+        "facebook": {
+          "id": "122111999463486810",
+          "post_id": "1346239391904480_122111999487486810"
+        }
+      },
+      "publie_le": "2026-10-10T12:10"
     },
     {
       "id": "TC124",
