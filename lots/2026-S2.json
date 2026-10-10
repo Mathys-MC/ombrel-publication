@@ -5804,11 +5804,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "X19",
-      "accroche": "Il est temps de le changer."
+      "accroche": "Il est temps de le changer.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056231681583480"
+          },
+          "published": {
+            "id": "18227631094328076"
+          },
+          "permalink": "https://www.instagram.com/reel/DeUI5DZnE_w/"
+        },
+        "facebook": {
+          "video_id": "1826323431719147",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112055581486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-10T14:59"
     },
     {
       "id": "P-K09",
