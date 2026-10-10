@@ -6160,11 +6160,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C45",
-      "accroche": "Vous ne savez jamais quoi lui offrir ?"
+      "accroche": "Vous ne savez jamais quoi lui offrir ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056290235583480"
+          },
+          "published": {
+            "id": "18112038509614796"
+          },
+          "permalink": "https://www.instagram.com/reel/DeUjYq-kcKf/"
+        },
+        "facebook": {
+          "video_id": "2546551149155772",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112135027486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-10T18:51"
     },
     {
       "id": "TC235",
