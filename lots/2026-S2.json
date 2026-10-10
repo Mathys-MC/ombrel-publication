@@ -6324,13 +6324,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "POCHETTE",
       "visuel": "F15",
       "accroche": "Pochette, téléphone, Croco.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056318819583480"
+          },
+          "published": {
+            "id": "18095881277659357"
+          },
+          "permalink": "https://www.instagram.com/reel/DeUxHD4E-kr/"
+        }
+      },
+      "publie_le": "2026-10-10T20:50"
     },
     {
       "id": "RC123",
