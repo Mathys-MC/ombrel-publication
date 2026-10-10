@@ -5588,13 +5588,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "X01",
       "accroche": "Le test de la poche avant.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056204240583480"
+          },
+          "published": {
+            "id": "18071810516740150"
+          },
+          "permalink": "https://www.instagram.com/reel/DeT4mWWjupk/"
+        }
+      },
+      "publie_le": "2026-10-10T12:37"
     },
     {
       "id": "RC083",
