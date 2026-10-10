@@ -5872,13 +5872,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SOBRE",
       "visuel": "C54",
       "accroche": "Moins, mais mieux.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056240417583480"
+          },
+          "published": {
+            "id": "18071603402751666"
+          },
+          "permalink": "https://www.instagram.com/reel/DeUOZbdCmMo/"
+        }
+      },
+      "publie_le": "2026-10-10T15:47"
     },
     {
       "id": "RC183",
