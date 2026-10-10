@@ -5350,11 +5350,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PEUR",
       "visuel": "C12",
-      "accroche": "Story : « Et si j'ai beaucoup de cartes ? »"
+      "accroche": "Story : « Et si j'ai beaucoup de cartes ? »",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056175335583480"
+          },
+          "published": {
+            "id": "18126524531480568"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4004712348980575747"
+        }
+      },
+      "publie_le": "2026-10-10T09:55"
     },
     {
       "id": "RC111",
