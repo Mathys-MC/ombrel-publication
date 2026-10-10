@@ -5289,12 +5289,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PEUR",
       "visuel": "C12",
       "accroche": "« Et si j'ai beaucoup de cartes ? »",
-      "instagram_reporte": "pause 48 h : Instagram bloque les photos (2207051) depuis le 08/10 19:37"
+      "instagram_reporte": "pause 48 h : Instagram bloque les photos (2207051) depuis le 08/10 19:37",
+      "resultats": {
+        "facebook": {
+          "id": "122111891907486810",
+          "post_id": "1346239391904480_122111891937486810"
+        }
+      },
+      "publie_le": "2026-10-10T09:14"
     },
     {
       "id": "TC205",
