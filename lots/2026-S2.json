@@ -6998,11 +6998,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "CADEAU",
       "visuel": "F29",
-      "accroche": "Un cadeau qui va dans tous ses sacs."
+      "accroche": "Un cadeau qui va dans tous ses sacs.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056499251583480"
+          },
+          "published": {
+            "id": "18195961993387157"
+          },
+          "permalink": "https://www.instagram.com/reel/DeWlflpE4v2/"
+        },
+        "facebook": {
+          "video_id": "878093441959914",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112457251486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-11T13:48"
     },
     {
       "id": "S-2026-10-11-2",
