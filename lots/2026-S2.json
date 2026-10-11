@@ -7636,13 +7636,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "PEUR",
       "visuel": "F23",
       "accroche": "Avant de commander.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056588354583480"
+          },
+          "published": {
+            "id": "17887466772685756"
+          },
+          "permalink": "https://www.instagram.com/reel/DeXWBVhCUDw/"
+        }
+      },
+      "publie_le": "2026-10-11T20:51"
     },
     {
       "id": "RC087",
