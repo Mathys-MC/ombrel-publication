@@ -6823,13 +6823,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "COLORIS",
       "visuel": "F32",
       "accroche": "Sage ou affirmée ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056473427583480"
+          },
+          "published": {
+            "id": "17990931380856621"
+          },
+          "permalink": "https://www.instagram.com/reel/DeWYUP4lNLD/"
+        }
+      },
+      "publie_le": "2026-10-11T11:52"
     },
     {
       "id": "P-C10",
