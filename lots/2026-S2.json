@@ -6963,13 +6963,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "COLORIS",
       "visuel": "X12",
       "accroche": "Choisissez votre camp.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056493851583480"
+          },
+          "published": {
+            "id": "18119022599066078"
+          },
+          "permalink": "https://www.instagram.com/reel/DeWjJhujxVT/"
+        }
+      },
+      "publie_le": "2026-10-11T13:27"
     },
     {
       "id": "RF025",
