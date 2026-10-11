@@ -6888,13 +6888,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PRODUIT",
       "visuel": "C57",
       "accroche": "Comment ça marche ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056482466583480"
+          },
+          "published": {
+            "id": "18076743317423429"
+          },
+          "permalink": "https://www.instagram.com/reel/DeWdeNrFd5I/"
+        }
+      },
+      "publie_le": "2026-10-11T12:37"
     },
     {
       "id": "RC148",
