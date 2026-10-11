@@ -7571,13 +7571,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PRODUIT",
       "visuel": "C59",
       "accroche": "Le Carbone, de près.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056574440583480"
+          },
+          "published": {
+            "id": "18168826045414442"
+          },
+          "permalink": "https://www.instagram.com/reel/DeXPn21CNLg/"
+        }
+      },
+      "publie_le": "2026-10-11T19:56"
     },
     {
       "id": "P-C27",
