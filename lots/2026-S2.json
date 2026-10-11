@@ -6783,11 +6783,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "X20",
-      "accroche": "Votre portefeuille ferme encore ?"
+      "accroche": "Votre portefeuille ferme encore ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056468441583480"
+          },
+          "published": {
+            "id": "18135409771680586"
+          },
+          "permalink": "https://www.instagram.com/reel/DeWVvgjkc8q/"
+        },
+        "facebook": {
+          "video_id": "2227200124875982",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112409257486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-11T11:30"
     },
     {
       "id": "TF051",
