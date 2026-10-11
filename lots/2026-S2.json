@@ -7391,11 +7391,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "HONNETE",
       "visuel": "C44",
-      "accroche": "On doit vous avouer un truc."
+      "accroche": "On doit vous avouer un truc.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056550611583480"
+          },
+          "published": {
+            "id": "18133467397670014"
+          },
+          "permalink": "https://www.instagram.com/reel/DeXCAWaFC3j/"
+        },
+        "facebook": {
+          "video_id": "1099837432903358",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112534069486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-11T17:57"
     },
     {
       "id": "TC151",
