@@ -6923,11 +6923,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "COLORIS",
       "visuel": "C55",
-      "accroche": "Lequel vous ressemble ?"
+      "accroche": "Lequel vous ressemble ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056486636583480"
+          },
+          "published": {
+            "id": "17975880768132829"
+          },
+          "permalink": "https://www.instagram.com/reel/DeWf0GumGRd/"
+        },
+        "facebook": {
+          "video_id": "1047228621638303",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112441411486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-11T12:58"
     },
     {
       "id": "TC247",
