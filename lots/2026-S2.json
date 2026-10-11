@@ -7732,11 +7732,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "X06",
-      "accroche": "Votre poche arrière vous remercie."
+      "accroche": "Votre poche arrière vous remercie.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056603180583480"
+          },
+          "published": {
+            "id": "18097012454437702"
+          },
+          "permalink": "https://www.instagram.com/reel/DeXcm4CCUZy/"
+        },
+        "facebook": {
+          "video_id": "3029851130688533",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112610749486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-11T21:49"
     },
     {
       "id": "TC271",
