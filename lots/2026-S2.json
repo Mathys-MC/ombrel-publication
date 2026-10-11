@@ -7325,13 +7325,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C40",
       "accroche": "Ce que vous portez tous les jours.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056543291583480"
+          },
+          "published": {
+            "id": "18395856430160186"
+          },
+          "permalink": "https://www.instagram.com/reel/DeW98xLiuV-/"
+        }
+      },
+      "publie_le": "2026-10-11T17:21"
     },
     {
       "id": "P-C22",
