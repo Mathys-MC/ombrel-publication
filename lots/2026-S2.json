@@ -7285,11 +7285,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C50",
-      "accroche": "Le cadeau qu'il sort tous les jours."
+      "accroche": "Le cadeau qu'il sort tous les jours.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056537126583480"
+          },
+          "published": {
+            "id": "17980900326066511"
+          },
+          "permalink": "https://www.instagram.com/reel/DeW6cN5EYxW/"
+        },
+        "facebook": {
+          "video_id": "1775039877100680",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112515649486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-11T16:51"
     },
     {
       "id": "TC166",
