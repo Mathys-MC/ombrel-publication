@@ -7250,13 +7250,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "MONNAIE",
       "visuel": "F39",
       "accroche": "Pour l'appoint, pile ce qu'il faut.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056534072583480"
+          },
+          "published": {
+            "id": "17910411105556142"
+          },
+          "permalink": "https://www.instagram.com/reel/DeW4wzijhuB/"
+        }
+      },
+      "publie_le": "2026-10-11T16:36"
     },
     {
       "id": "RC139",
