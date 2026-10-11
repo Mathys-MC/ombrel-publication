@@ -7671,11 +7671,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "X01",
-      "accroche": "Vous êtes assis dessus."
+      "accroche": "Vous êtes assis dessus.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056589668583480"
+          },
+          "published": {
+            "id": "18430694443151858"
+          },
+          "permalink": "https://www.instagram.com/reel/DeXXTUDAeLQ/"
+        },
+        "facebook": {
+          "video_id": "3666955390119756",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112593691486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-11T21:03"
     },
     {
       "id": "S-2026-10-11-3",
