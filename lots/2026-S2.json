@@ -7466,11 +7466,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "X22",
-      "accroche": "Ça fait combien d'années ?"
+      "accroche": "Ça fait combien d'années ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056563997583480"
+          },
+          "published": {
+            "id": "18339629743287269"
+          },
+          "permalink": "https://www.instagram.com/reel/DeXISIDGy7E/"
+        },
+        "facebook": {
+          "video_id": "2589133884869245",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112551007486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-11T18:52"
     },
     {
       "id": "TC261",
