@@ -6677,11 +6677,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PRODUIT",
       "visuel": "X04",
-      "accroche": "9,5 × 6,5 cm. Mesuré."
+      "accroche": "9,5 × 6,5 cm. Mesuré.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056453933583480"
+          },
+          "published": {
+            "id": "18132374081502291"
+          },
+          "permalink": "https://www.instagram.com/reel/DeWOJPeCD4u/"
+        },
+        "facebook": {
+          "video_id": "1424125042393103",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112388857486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-11T10:24"
     },
     {
       "id": "TC250",
