@@ -6611,13 +6611,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C34",
       "accroche": "Pour l'anniversaire de votre père.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056445161583480"
+          },
+          "published": {
+            "id": "17976396668931801"
+          },
+          "permalink": "https://www.instagram.com/reel/DeWIokvjD3Q/"
+        }
+      },
+      "publie_le": "2026-10-11T09:35"
     },
     {
       "id": "S-2026-10-11-1",
