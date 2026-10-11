@@ -6644,11 +6644,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C17",
-      "accroche": "Story : Vous ne savez jamais quoi lui offrir ?"
+      "accroche": "Story : Vous ne savez jamais quoi lui offrir ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056449481583480"
+          },
+          "published": {
+            "id": "18134429242633033"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4005437663361119718"
+        }
+      },
+      "publie_le": "2026-10-11T09:56"
     },
     {
       "id": "RC094",
