@@ -7104,11 +7104,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C49",
-      "accroche": "Videz vos poches. Vraiment."
+      "accroche": "Videz vos poches. Vraiment.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056513519583480"
+          },
+          "published": {
+            "id": "18129125926828529"
+          },
+          "permalink": "https://www.instagram.com/reel/DeWt1u-jMJN/"
+        },
+        "facebook": {
+          "video_id": "1137870195478700",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112480051486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-11T15:00"
     },
     {
       "id": "P-C06",
