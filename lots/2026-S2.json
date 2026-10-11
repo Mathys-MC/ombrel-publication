@@ -7037,11 +7037,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "SAC",
       "visuel": "F04",
-      "accroche": "Story : Son sac change. Lui, il suit."
+      "accroche": "Story : Son sac change. Lui, il suit.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056501990583480"
+          },
+          "published": {
+            "id": "18116223037813473"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4005561995651407284"
+        }
+      },
+      "publie_le": "2026-10-11T14:03"
     },
     {
       "id": "TC238",
