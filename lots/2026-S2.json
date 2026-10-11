@@ -7847,13 +7847,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "X10",
       "accroche": "Vous l'avez depuis quand ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056611988583480"
+          },
+          "published": {
+            "id": "18355529170223875"
+          },
+          "permalink": "https://www.instagram.com/reel/DeXkgqMEQaF/"
+        }
+      },
+      "publie_le": "2026-10-11T22:58"
     },
     {
       "id": "P-C13",
