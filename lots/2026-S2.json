@@ -7807,11 +7807,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "CHANGER",
       "visuel": "F40",
-      "accroche": "Il ne rentre plus dans votre sac ?"
+      "accroche": "Il ne rentre plus dans votre sac ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056610248583480"
+          },
+          "published": {
+            "id": "18432039778147925"
+          },
+          "permalink": "https://www.instagram.com/reel/DeXiuRqDXX9/"
+        },
+        "facebook": {
+          "video_id": "1721136275643883",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112630261486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-11T22:43"
     },
     {
       "id": "TC241",
