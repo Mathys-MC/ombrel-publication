@@ -7069,13 +7069,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "X09",
       "accroche": "Le jour où on change.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056510570583480"
+          },
+          "published": {
+            "id": "17927773212184677"
+          },
+          "permalink": "https://www.instagram.com/reel/DeWsGvQDfr9/"
+        }
+      },
+      "publie_le": "2026-10-11T14:45"
     },
     {
       "id": "RC137",
