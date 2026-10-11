@@ -7678,11 +7678,12 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "annule",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C50",
-      "accroche": "Story : Le cadeau qu'il sort tous les jours."
+      "accroche": "Story : Le cadeau qu'il sort tous les jours.",
+      "annule_pourquoi": "volume Instagram limité à 2 Stories/jour"
     },
     {
       "id": "RC161",
@@ -7843,7 +7844,6 @@
       "legende_facebook": "Vous fouillez encore à la caisse ?\n\nLe café, le déjeuner, les courses, le restaurant : une pression à chaque fois.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC191\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram",
         "facebook"
       ],
       "trial": false,
@@ -7851,7 +7851,8 @@
       "produit": "carbone",
       "theme": "CAISSE",
       "visuel": "X21",
-      "accroche": "Vous fouillez encore à la caisse ?"
+      "accroche": "Vous fouillez encore à la caisse ?",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "TC154",
@@ -7907,7 +7908,6 @@
       "legende_facebook": "Son portefeuille a fait son temps.\n\nIl s'en sert tous les jours + il ne le choisirait pas lui-même + 9 coloris pour tomber juste = un cadeau qu'il aura en main.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC141\n\n#ideecadeauhomme #cadeauhomme #portefeuillehomme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram",
         "facebook"
       ],
       "trial": false,
@@ -7915,7 +7915,8 @@
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C51",
-      "accroche": "Son portefeuille a fait son temps."
+      "accroche": "Son portefeuille a fait son temps.",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "TF067",
@@ -7971,7 +7972,7 @@
       "legende_facebook": "Léger, vraiment.\n\n9 cartes, quelques billets pliés, 0 pièce, 1 Carbone. Rangez, glissez, appuyez. Servez.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=TC273\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram"
+        "facebook"
       ],
       "trial": false,
       "statut": "a_publier",
@@ -7980,7 +7981,8 @@
       "visuel": "X24",
       "accroche": "Léger, vraiment.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "RC096",
@@ -7993,7 +7995,6 @@
       "legende_facebook": "Vous ne savez jamais quoi lui offrir ?\n\nScène inventée, situation très familière. Et si son portefeuille ne ferme plus, vous avez votre réponse.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC096\n\n#ideecadeauhomme #cadeauhomme #portefeuillehomme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram",
         "facebook"
       ],
       "trial": false,
@@ -8001,7 +8002,8 @@
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "X05",
-      "accroche": "Vous ne savez jamais quoi lui offrir ?"
+      "accroche": "Vous ne savez jamais quoi lui offrir ?",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "TC232",
@@ -8036,7 +8038,6 @@
       "legende_facebook": "Vous avez déjà vidé votre sac au comptoir ?\n\nLe Croco passe de l'un à l'autre. Six coloris.\n\nLe Croco · format mini · cartes, billets à plat, monnaie zippée, porte-clés · 6 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-femme-croco-mini?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RF008\n\n#portefeuillefemme #petitportefeuille #accessoiresfemme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram",
         "facebook"
       ],
       "trial": false,
@@ -8044,7 +8045,8 @@
       "produit": "croco",
       "theme": "SAC",
       "visuel": "F09",
-      "accroche": "Vous avez déjà vidé votre sac au comptoir ?"
+      "accroche": "Vous avez déjà vidé votre sac au comptoir ?",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "S-2026-10-12-2",
@@ -8098,7 +8100,6 @@
       "legende_facebook": "Ce qui déborde de votre poche.\n\nIci, tout va bien : plus de tickets, plus de bosse, les cartes sortent d'une pression.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC177\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram",
         "facebook"
       ],
       "trial": false,
@@ -8106,7 +8107,8 @@
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "X14",
-      "accroche": "Ce qui déborde de votre poche."
+      "accroche": "Ce qui déborde de votre poche.",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "P-C01",
@@ -8162,7 +8164,6 @@
       "legende_facebook": "L'essentiel, rien de plus.\n\nPas de surépaisseur, pas de superflu.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC146\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram",
         "facebook"
       ],
       "trial": false,
@@ -8170,7 +8171,8 @@
       "produit": "carbone",
       "theme": "SOBRE",
       "visuel": "C54",
-      "accroche": "L'essentiel, rien de plus."
+      "accroche": "L'essentiel, rien de plus.",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "TF048",
@@ -8183,7 +8185,7 @@
       "legende_facebook": "Pour votre sœur, votre mère, une amie.\n\nSix coloris. Pensez au délai : livraison en 6 à 14 jours ouvrés.\n\nLe Croco · format mini · cartes, billets à plat, monnaie zippée, porte-clés · 6 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-femme-croco-mini?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=TF048\n\n#ideecadeaufemme #cadeaumaman #portefeuillefemme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram"
+        "facebook"
       ],
       "trial": false,
       "statut": "a_publier",
@@ -8192,7 +8194,8 @@
       "visuel": "F29",
       "accroche": "Pour votre sœur, votre mère, une amie.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "RC151",
@@ -8226,7 +8229,7 @@
       "legende_facebook": "Un cadeau sans se tromper ?\n\nReste à choisir le coloris. Neuf possibilités, du noir à l'orange carbone.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=TC181\n\n#ideecadeauhomme #cadeauhomme #portefeuillehomme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram"
+        "facebook"
       ],
       "trial": false,
       "statut": "a_publier",
@@ -8235,7 +8238,8 @@
       "visuel": "C45",
       "accroche": "Un cadeau sans se tromper ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "P-C33",
@@ -8290,7 +8294,7 @@
       "legende_facebook": "Zoom sur le Carbone.\n\n1. Rangez vos cartes dans la cartouche en aluminium. 2. Glissez quelques billets pliés dans la poche. 3. Une pression : vos cartes sortent en éventail.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=TC244\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram"
+        "facebook"
       ],
       "trial": false,
       "statut": "a_publier",
@@ -8299,7 +8303,8 @@
       "visuel": "X11",
       "accroche": "Zoom sur le Carbone.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "RC057",
@@ -8333,7 +8338,7 @@
       "legende_facebook": "Votre vieux portefeuille ?\n\n« Je déborde. Je ne ferme plus. Tu t'assois sur moi depuis des années. Je crois qu'il est temps. » P.S. : le Carbone a l'air bien.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=TC265\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram"
+        "facebook"
       ],
       "trial": false,
       "statut": "a_publier",
@@ -8342,7 +8347,8 @@
       "visuel": "X20",
       "accroche": "Votre vieux portefeuille ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "P-F31",
@@ -8419,7 +8425,7 @@
       "legende_facebook": "Il ne ferme plus ?\n\nIl ne rentre pas dans votre pochette de soirée. Vos pièces se retrouvent entre vos cartes. Vous cherchez votre carte de transport à chaque portique.\n\nLe Croco · format mini · cartes, billets à plat, monnaie zippée, porte-clés · 6 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-femme-croco-mini?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=TF059\n\n#portefeuillefemme #petitportefeuille #accessoiresfemme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram"
+        "facebook"
       ],
       "trial": false,
       "statut": "a_publier",
@@ -8428,7 +8434,8 @@
       "visuel": "F40",
       "accroche": "Il ne ferme plus ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "RC158",
@@ -8464,11 +8471,12 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "annule",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C56",
-      "accroche": "Story : Pour lui, cette année."
+      "accroche": "Story : Pour lui, cette année.",
+      "annule_pourquoi": "volume Instagram limité à 2 Stories/jour"
     },
     {
       "id": "RC182",
@@ -8481,7 +8489,6 @@
       "legende_facebook": "Vous êtes assis dessus.\n\nVotre portefeuille dépasse la capacité de votre poche ? Ignorer encore, ou passer au Carbone.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=RC182\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram",
         "facebook"
       ],
       "trial": false,
@@ -8489,7 +8496,8 @@
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "X16",
-      "accroche": "Vous êtes assis dessus."
+      "accroche": "Vous êtes assis dessus.",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "TC196",
@@ -8502,7 +8510,7 @@
       "legende_facebook": "Il a tout ? Sauf ça.\n\nLe coloris ? Noir ou carbone si vous hésitez, orange carbone s'il aime se démarquer. Ses cartes ? 9 confortablement. Les espèces ? Quelques billets pliés, pas de monnaie. La livraison ? Offerte en France, 6 à 14 jours ouvrés.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=TC196\n\n#ideecadeauhomme #cadeauhomme #portefeuillehomme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram"
+        "facebook"
       ],
       "trial": false,
       "statut": "a_publier",
@@ -8511,7 +8519,8 @@
       "visuel": "C50",
       "accroche": "Il a tout ? Sauf ça.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     },
     {
       "id": "RF009",
@@ -8545,7 +8554,7 @@
       "legende_facebook": "Combien de tickets dedans ?\n\nTicket de 2019, carte de fidélité expirée, billet plié en huit… Une ligne ? C'est le moment de changer.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nVoir la fiche produit : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=social&utm_campaign=banc-essai-2026-10&utm_content=TC269\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
       "ia": "non",
       "plateformes": [
-        "instagram"
+        "facebook"
       ],
       "trial": false,
       "statut": "a_publier",
@@ -8554,7 +8563,8 @@
       "visuel": "X22",
       "accroche": "Combien de tickets dedans ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
     }
   ]
 }
