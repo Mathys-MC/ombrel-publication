@@ -7909,13 +7909,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C47",
       "accroche": "Un portefeuille qui se fait oublier.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056709197583480"
+          },
+          "published": {
+            "id": "17922412467221218"
+          },
+          "permalink": "https://www.instagram.com/reel/DeYuP4sjI9C/"
+        }
+      },
+      "publie_le": "2026-10-12T09:42"
     },
     {
       "id": "S-2026-10-12-1",
