@@ -7942,11 +7942,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "HONNETE",
       "visuel": "C13",
-      "accroche": "Story : On ne vous dira pas « cuir véritable »."
+      "accroche": "Story : On ne vous dira pas « cuir véritable ».",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056712713583480"
+          },
+          "published": {
+            "id": "18073715612487009"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4006165479048308045"
+        }
+      },
+      "publie_le": "2026-10-12T10:02"
     },
     {
       "id": "RC191",
