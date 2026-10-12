@@ -8293,11 +8293,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "POCHETTE",
       "visuel": "F08",
-      "accroche": "Story : Pourquoi un portefeuille mini ?"
+      "accroche": "Story : Pourquoi un portefeuille mini ?",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056761385583480"
+          },
+          "published": {
+            "id": "18145428160601209"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4006290225828141740"
+        }
+      },
+      "publie_le": "2026-10-12T14:10"
     },
     {
       "id": "TC263",
