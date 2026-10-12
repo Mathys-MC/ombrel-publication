@@ -8800,13 +8800,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C49",
       "accroche": "Le test de la poche avant.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056843513583480"
+          },
+          "published": {
+            "id": "17962791897226955"
+          },
+          "permalink": "https://www.instagram.com/reel/DeZ0mLeDxB_/"
+        }
+      },
+      "publie_le": "2026-10-12T19:57"
     },
     {
       "id": "P-C30",
