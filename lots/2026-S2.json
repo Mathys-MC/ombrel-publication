@@ -7881,12 +7881,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "HONNETE",
       "visuel": "C13",
       "accroche": "On ne vous dira pas « cuir véritable ».",
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122112793563486810",
+          "post_id": "1346239391904480_122112793587486810"
+        }
+      },
+      "publie_le": "2026-10-12T09:21"
     },
     {
       "id": "TC187",
