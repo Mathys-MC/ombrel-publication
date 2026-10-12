@@ -8594,12 +8594,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "SANSCONTACT",
       "visuel": "C33",
       "accroche": "En voyage, on veut savoir où sont ses cartes.",
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122112971367486810",
+          "post_id": "1346239391904480_122112971391486810"
+        }
+      },
+      "publie_le": "2026-10-12T17:43"
     },
     {
       "id": "RC113",
