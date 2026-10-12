@@ -8485,14 +8485,25 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "CADEAU",
       "visuel": "F29",
       "accroche": "Pour votre sœur, votre mère, une amie.",
       "essai": true,
       "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "video_id": "1498494262185059",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112947451486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-12T16:44"
     },
     {
       "id": "RC151",
@@ -8509,11 +8520,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C56",
-      "accroche": "Pour lui, cette année."
+      "accroche": "Pour lui, cette année.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056797478583480"
+          },
+          "published": {
+            "id": "18177958534441378"
+          },
+          "permalink": "https://www.instagram.com/reel/DeZenA1iCCw/"
+        },
+        "facebook": {
+          "video_id": "4689474614632602",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112947769486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-12T16:45"
     },
     {
       "id": "TC181",
