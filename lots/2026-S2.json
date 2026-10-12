@@ -8040,12 +8040,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "POCHETTE",
       "visuel": "F08",
       "accroche": "Pourquoi un portefeuille mini ?",
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122112827109486810",
+          "post_id": "1346239391904480_122112827163486810"
+        }
+      },
+      "publie_le": "2026-10-12T11:09"
     },
     {
       "id": "RC141",
