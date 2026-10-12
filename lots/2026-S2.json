@@ -8325,13 +8325,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "X19",
       "accroche": "Petit test : il ferme encore ?",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056773643583480"
+          },
+          "published": {
+            "id": "17886529872492313"
+          },
+          "permalink": "https://www.instagram.com/reel/DeZTHOhEgbA/"
+        }
+      },
+      "publie_le": "2026-10-12T15:05"
     },
     {
       "id": "RC177",
@@ -8347,12 +8359,23 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "X14",
       "accroche": "Ce qui déborde de votre poche.",
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "video_id": "988585740955403",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112916191486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-12T15:05"
     },
     {
       "id": "P-C01",
