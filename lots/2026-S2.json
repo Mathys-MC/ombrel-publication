@@ -9028,7 +9028,22 @@
       "produit": "croco",
       "theme": "ORGA",
       "visuel": "F10",
-      "accroche": "Tout ça dans un mini."
+      "accroche": "Tout ça dans un mini.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056871827583480"
+          },
+          "published": {
+            "id": "18167016931483988"
+          },
+          "permalink": "https://www.instagram.com/reel/DeaHry5klla/"
+        },
+        "facebook": {
+          "erreur": "CONNEXION : téléchargement de la vidéo impossible (status 403)"
+        }
+      },
+      "tentatives_reseau": 1
     },
     {
       "id": "TC269",
