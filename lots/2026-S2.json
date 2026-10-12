@@ -8772,12 +8772,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "COLORIS",
       "visuel": "F31",
       "accroche": "Quelle Croco êtes-vous ?",
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122113004295486810",
+          "post_id": "1346239391904480_122113004319486810"
+        }
+      },
+      "publie_le": "2026-10-12T19:39"
     },
     {
       "id": "TC193",
