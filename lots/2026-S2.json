@@ -8006,13 +8006,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CADEAU",
       "visuel": "C36",
       "accroche": "Ce qu'il ne s'achètera jamais.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056721938583480"
+          },
+          "published": {
+            "id": "18387381943231612"
+          },
+          "permalink": "https://www.instagram.com/reel/DeY2b-8Ezb_/"
+        }
+      },
+      "publie_le": "2026-10-12T10:54"
     },
     {
       "id": "P-F08",
