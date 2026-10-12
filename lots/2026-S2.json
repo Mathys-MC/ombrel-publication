@@ -8134,12 +8134,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "PEUR",
       "visuel": "C15",
       "accroche": "4 questions avant d'acheter le Carbone.",
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122112851985486810",
+          "post_id": "1346239391904480_122112852039486810"
+        }
+      },
+      "publie_le": "2026-10-12T12:14"
     },
     {
       "id": "TC273",
