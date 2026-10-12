@@ -8262,12 +8262,23 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "SAC",
       "visuel": "F09",
       "accroche": "Vous avez déjà vidé votre sac au comptoir ?",
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "video_id": "28389442790748709",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122112886395486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-12T13:53"
     },
     {
       "id": "S-2026-10-12-2",
