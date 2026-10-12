@@ -9024,7 +9024,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "ORGA",
       "visuel": "F10",
@@ -9040,10 +9040,16 @@
           "permalink": "https://www.instagram.com/reel/DeaHry5klla/"
         },
         "facebook": {
-          "erreur": "CONNEXION : téléchargement de la vidéo impossible (status 403)"
+          "video_id": "1120222497630610",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113090161486810"
+          }
         }
       },
-      "tentatives_reseau": 1
+      "tentatives_reseau": 1,
+      "publie_le": "2026-10-12T23:01"
     },
     {
       "id": "TC269",
@@ -9059,14 +9065,25 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "CHANGER",
       "visuel": "X22",
       "accroche": "Combien de tickets dedans ?",
       "essai": true,
       "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "video_id": "1516810970211653",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113090179486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-12T23:01"
     }
   ]
 }

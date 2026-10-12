@@ -266,3 +266,5 @@
 2026-10-12T21:52:18 2026-S2.json RC182 {'facebook': 'ok'}
 2026-10-12T22:22:12 2026-S2.json TC196 {'facebook': 'ok'}
 2026-10-12T22:44:23 2026-S2.json RF009 RETENTE (réseau) {'instagram': 'https://www.instagram.com/reel/DeaHry5klla/', 'facebook': 'erreur : CONNEXION : téléchargement de la vidéo impossible (status 403)'}
+2026-10-12T23:01:19 2026-S2.json RF009 {'instagram': 'https://www.instagram.com/reel/DeaHry5klla/', 'facebook': 'ok'}
+2026-10-12T23:01:19 2026-S2.json TC269 {'facebook': 'ok'}
