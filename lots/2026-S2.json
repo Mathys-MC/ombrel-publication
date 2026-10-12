@@ -8391,12 +8391,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "POCHE",
       "visuel": "C01",
       "accroche": "Une bosse dans la poche ?",
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122112919983486810",
+          "post_id": "1346239391904480_122112920007486810"
+        }
+      },
+      "publie_le": "2026-10-12T15:19"
     },
     {
       "id": "TC190",
