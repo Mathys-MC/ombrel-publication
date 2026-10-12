@@ -8862,14 +8862,25 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "CHANGER",
       "visuel": "F40",
       "accroche": "Il ne ferme plus ?",
       "essai": true,
       "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "video_id": "1961859085163711",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113033209486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-12T20:55"
     },
     {
       "id": "RC158",
@@ -8886,11 +8897,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "COLORIS",
       "visuel": "C60",
-      "accroche": "9 coloris. Un seul pour vous."
+      "accroche": "9 coloris. Un seul pour vous.",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056853269583480"
+          },
+          "published": {
+            "id": "18129867205831266"
+          },
+          "permalink": "https://www.instagram.com/reel/DeZ7TowAN7q/"
+        },
+        "facebook": {
+          "video_id": "2443242596200718",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113035273486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-12T20:56"
     },
     {
       "id": "S-2026-10-12-3",
