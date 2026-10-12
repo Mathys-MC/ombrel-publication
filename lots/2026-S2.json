@@ -8100,13 +8100,25 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "HONNETE",
       "visuel": "Y08",
       "accroche": "Un défaut, on l'assume.",
       "essai": true,
-      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)"
+      "note": "Ancien Reel d'essai publié en Reel normal sur Instagram (décision du fondateur, option A, 2026-10-06)",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056732390583480"
+          },
+          "published": {
+            "id": "18105807095255538"
+          },
+          "permalink": "https://www.instagram.com/reel/DeY9tQ-jP8q/"
+        }
+      },
+      "publie_le": "2026-10-12T11:57"
     },
     {
       "id": "P-C15",
