@@ -347,11 +347,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Ton portefeuille te coûte plus que tu crois.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057004730583480"
+          },
+          "published": {
+            "id": "18053419817664311"
+          },
+          "permalink": "https://www.instagram.com/reel/DebqKDeErKJ/"
+        }
+      },
+      "publie_le": "2026-10-13T13:04"
     },
     {
       "id": "RV016",
