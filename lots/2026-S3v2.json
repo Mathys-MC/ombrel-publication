@@ -173,11 +173,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Story : Arrête de t'asseoir sur ton portefeuille.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056984399583480"
+          },
+          "published": {
+            "id": "17934522660404880"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4006923567669276697"
+        }
+      },
+      "publie_le": "2026-10-13T11:09"
     },
     {
       "id": "RV007",
