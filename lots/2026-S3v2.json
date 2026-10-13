@@ -724,11 +724,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "couleurs",
       "accroche": "Il n'est pas obligé d'être noir.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057073127583480"
+          },
+          "published": {
+            "id": "18092181872466027"
+          },
+          "permalink": "https://www.instagram.com/reel/DecKLJnHLki/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeuzbHv67jR3si6TFOPOypI5Jkk4xA04ucITonj-su664uu6xYWIBtj-p_NVB219IsoXuvmggyCPdsBlRjdwI-1ks_5hn22j5LARlSnJ1jhEyQxUEwpXSFW5Dt9q8GJCznQxk0NFh_jvErp_6NwoX6TF8udYRPVXnI03Ot8jXExshJfnhtPONAF4gd0P5zp_EKo20"
+        }
+      },
+      "publie_le": "2026-10-13T17:44"
     },
     {
       "id": "RV195",
