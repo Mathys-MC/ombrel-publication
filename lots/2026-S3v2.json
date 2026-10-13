@@ -307,11 +307,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "promo",
       "accroche": "-15 % sur le Croco, jusqu'au 30 novembre.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18056999951583480"
+          },
+          "published": {
+            "id": "18385935310225396"
+          },
+          "permalink": "https://www.instagram.com/reel/DebnrxAABGJ/"
+        },
+        "facebook": {
+          "video_id": "902527332813752",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113283835486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-13T12:43"
     },
     {
       "id": "RV013",
