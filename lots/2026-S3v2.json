@@ -759,12 +759,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "comparaison",
       "accroche": "Portefeuille classique ou porte-cartes ?",
       "vague": 2,
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeuFxdpEftP2tYy_QxslWgNZcaD2mDdAty8OK-kosKkBGoCjnI0S_hYzoNYIktb7rdbhWnj85AgBDtipqy6LXt-1STu2u6-KGxKTNR1QbinGc46eQ5h4N7bnm_m7084JpBGYBvCcYMmNqNStHka6PAIDsAdrZ3lrduRjidfz17agwMbUDtdj1DTveAMB0Ku8X9CjX"
+        }
+      },
+      "publie_le": "2026-10-13T18:02"
     },
     {
       "id": "KF03",
