@@ -559,11 +559,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Les hommes organisés ont tous ce détail.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057036833583480"
+          },
+          "published": {
+            "id": "18131928799767232"
+          },
+          "permalink": "https://www.instagram.com/reel/Deb7SVglHzw/"
+        }
+      },
+      "publie_le": "2026-10-13T15:34"
     },
     {
       "id": "S2-2026-10-13-2",
