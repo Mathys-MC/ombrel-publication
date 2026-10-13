@@ -1085,12 +1085,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Le cadeau pour ta mère qui a « tout ».",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122113445685486810",
+          "post_id": "1346239391904480_122113445733486810"
+        }
+      },
+      "publie_le": "2026-10-13T22:32"
     },
     {
       "id": "RV014",
@@ -1106,11 +1113,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "3 signes que ton portefeuille a fait son temps.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057134924583480"
+          },
+          "published": {
+            "id": "17986327935093213"
+          },
+          "permalink": "https://www.instagram.com/reel/DecrLfnFSgq/"
+        }
+      },
+      "publie_le": "2026-10-13T22:33"
     },
     {
       "id": "RV017",
