@@ -1017,11 +1017,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "Le même principe, pas le même prix.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057126500583480"
+          },
+          "published": {
+            "id": "18139600624713632"
+          },
+          "permalink": "https://www.instagram.com/reel/DecmEksjPVI/"
+        },
+        "facebook": {
+          "video_id": "4412555649074481",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113436139486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-13T21:48"
     },
     {
       "id": "KC10",
@@ -1037,12 +1057,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Les hommes organisés n'ont pas de bosse.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122113436169486810",
+          "post_id": "1346239391904480_122113436193486810"
+        }
+      },
+      "publie_le": "2026-10-13T21:48"
     },
     {
       "id": "KF04",

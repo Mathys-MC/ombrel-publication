@@ -299,3 +299,5 @@
 2026-10-13T19:59:13 2026-S3v2.json RW003 {'instagram': 'https://www.instagram.com/reel/DecZlRmFDXJ/', 'facebook': 'erreur : {"message": "Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer pl'}
 2026-10-13T20:33:58 2026-S3v2.json KC08 {'facebook': 'ok'}
 2026-10-13T20:33:58 2026-S3v2.json RV008 {'facebook': 'erreur : {"message": "Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer pl'}
+2026-10-13T21:48:52 2026-S3v2.json RV011 {'instagram': 'https://www.instagram.com/reel/DecmEksjPVI/', 'facebook': 'ok'}
+2026-10-13T21:48:52 2026-S3v2.json KC10 {'facebook': 'ok'}
