@@ -878,12 +878,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Regarde combien de temps il met à payer.",
       "vague": 2,
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AesL0LgezApVo95xumX2-FFdMNvPVNhVH-1WIXx_J1IjbNGWzn_F8F5prRhFdFK6uy4wedHteiA9rUcEh1ZgAdAoupiS4JAryllqGXhympVwNFBPK06LS2ZBeASvTLkLyGcpyMuEOnVlY_eFVk0IKKf2Oago0WKDBnhsl-4LO4otMnnxnh0_nYlHjBoZ2cZWf2KVL"
+        }
+      },
+      "publie_le": "2026-10-13T19:39"
     },
     {
       "id": "RW003",
