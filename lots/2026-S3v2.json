@@ -471,12 +471,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "sac",
       "accroche": "Ton petit sac n'a jamais été aussi rangé.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122113323147486810",
+          "post_id": "1346239391904480_122113323177486810"
+        }
+      },
+      "publie_le": "2026-10-13T14:52"
     },
     {
       "id": "RV022",
@@ -492,12 +499,23 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Ta carte sans contact, elle est protégée ?",
       "vague": 2,
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "video_id": "1155087276862258",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113323243486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-13T14:52"
     },
     {
       "id": "KC05",
