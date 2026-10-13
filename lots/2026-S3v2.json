@@ -590,11 +590,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Story : « Mais j'ai trop de cartes. »",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057044567583480"
+          },
+          "published": {
+            "id": "18091170179694130"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4007068377977809668"
+        }
+      },
+      "publie_le": "2026-10-13T15:57"
     },
     {
       "id": "RW002",
