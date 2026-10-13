@@ -906,11 +906,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "fouille",
       "accroche": "Fini de fouiller au fond du sac.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057104063583480"
+          },
+          "published": {
+            "id": "18006922808995275"
+          },
+          "permalink": "https://www.instagram.com/reel/DecZlRmFDXJ/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aeu8JdhlxDnEz2J2jB32qWWhGG35vWtPTtEJZBxamOrCxJDGl4YPdEWyZKuOoOxk0loK6PZ_tQiloKI6Y0D3iAbGbdIxqKNw4x3xkVCNOZyNtxgMZygyRL1arKlclJAdjSZlSfIAMSAFZS7x9qvZBy4UqZmXsSzv-Ys5fwQQz0PW1B4hD5eRGStPesH7x52nrekD_"
+        }
+      },
+      "publie_le": "2026-10-13T19:59"
     },
     {
       "id": "KC08",
