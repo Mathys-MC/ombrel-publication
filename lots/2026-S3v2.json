@@ -941,12 +941,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Ta carte sans contact, elle est protégée dans ta poche ?",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122113419243486810",
+          "post_id": "1346239391904480_122113419273486810"
+        }
+      },
+      "publie_le": "2026-10-13T20:33"
     },
     {
       "id": "RV008",
@@ -962,12 +969,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Il dit qu'il n'a besoin de rien.",
       "vague": 2,
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aes6scjI_RPw7YZeeHPAKT60uOtbzi42hWWeIEQmkHKv08EMLg0MHw5evMaW8Gn9QMzeOTzMwBqTNEvMvA7FAElbbT-5JZ_gpnwIok8G2va5yG2s1Ug5-ynrOd2ZEFLT2WU2qofTiFabcFjqMMdwl0llneOl9qipnoizmpa1Pn3tSVIu9bGmH1PH1_SfbIstQZ65s"
+        }
+      },
+      "publie_le": "2026-10-13T20:33"
     },
     {
       "id": "S2-2026-10-13-3",
