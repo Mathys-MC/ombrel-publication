@@ -439,11 +439,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "« Mais j'ai trop de cartes. »",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057019058583480"
+          },
+          "published": {
+            "id": "18175258207450409"
+          },
+          "permalink": "https://www.instagram.com/reel/DebxcgqARtb/"
+        }
+      },
+      "publie_le": "2026-10-13T14:08"
     },
     {
       "id": "KF02",
