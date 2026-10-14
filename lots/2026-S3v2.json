@@ -1452,12 +1452,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "comparaison",
       "accroche": "Portefeuille classique ou Carbone ?",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122113662723486810",
+          "post_id": "1346239391904480_122113662753486810"
+        }
+      },
+      "publie_le": "2026-10-14T12:56"
     },
     {
       "id": "RV065",
@@ -1474,11 +1481,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "couleurs",
       "accroche": "9 coloris. Tu prends lequel ?",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057278405583480"
+          },
+          "published": {
+            "id": "18114771893328156"
+          },
+          "permalink": "https://www.instagram.com/reel/DeeOA-JDZMK/"
+        },
+        "facebook": {
+          "video_id": "1464149748955237",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113662945486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-14T12:56"
     },
     {
       "id": "RW005",
