@@ -1269,11 +1269,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Tu caches ton code au distributeur. Et ta carte ?",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057247517583480"
+          },
+          "published": {
+            "id": "17939780784370287"
+          },
+          "permalink": "https://www.instagram.com/reel/Ded7gYZEZT5/"
+        }
+      },
+      "publie_le": "2026-10-14T10:15"
     },
     {
       "id": "KC22",
