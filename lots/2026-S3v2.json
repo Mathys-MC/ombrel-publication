@@ -1906,12 +1906,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Combien de temps tu vas encore le supporter ?",
       "vague": 2,
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeuXEmW9-7AtUoAOqStSiqghzo6r9sr1Zj9vdNO257MZNF7CeJ4fFuRaMGoDTeYBTaogS1R3pqcVwJ1iu6_pn80pTD2pfb28mzhGwPWz3BkRPd-Af4JgkFEMtmqcRIrYPbnmEpXAGy5dS6CZroyNoKnvKJYliaQe-n0z0EvRcG16nKwqwh_iTElCt-IZf9Iqxclt8"
+        }
+      },
+      "publie_le": "2026-10-14T18:01"
     },
     {
       "id": "RV018",
