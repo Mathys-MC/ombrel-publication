@@ -1993,12 +1993,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "organisation",
       "accroche": "Cartes, billets, monnaie, clés : chacun sa place.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122113751859486810",
+          "post_id": "1346239391904480_122113751883486810"
+        }
+      },
+      "publie_le": "2026-10-14T19:09"
     },
     {
       "id": "RV021",
