@@ -2021,12 +2021,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "On doit te dire ce qu'il ne fait pas.",
       "vague": 2,
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevzRvZQ5o83Wr8MmPKFYQbh_hpLPy4t2XUB_fReVepvyVkET3lEQkoiXn1S5keeHXq-NshQAUJ-d-Z8H6KiD8Op3wiJmJ09e5bpjroLpFGd5wBm9aTFV5EKONIF9SAI-b4FXZRm4QXdDUotM_WXQ6-Bohi_slNpDbLi1IATwwhqMKeYKl-_CiBiMQLC_RAyDAo4W"
+        }
+      },
+      "publie_le": "2026-10-14T19:53"
     },
     {
       "id": "RV024",
@@ -2042,11 +2048,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Protégé sans y penser.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057373163583480"
+          },
+          "published": {
+            "id": "17940154476377791"
+          },
+          "permalink": "https://www.instagram.com/reel/Dee9yL-gDAg/"
+        }
+      },
+      "publie_le": "2026-10-14T19:54"
     },
     {
       "id": "KC14",
