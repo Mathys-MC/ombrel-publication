@@ -2256,12 +2256,23 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "couleurs",
       "accroche": "Le coloris dit tout de toi.",
       "vague": 2,
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "video_id": "4089914031311586",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113820541486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-14T22:30"
     },
     {
       "id": "KF08",
