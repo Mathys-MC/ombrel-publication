@@ -2108,12 +2108,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "organisation",
       "accroche": "Chaque chose à sa place.",
       "vague": 2,
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetYp2TkIcox3T1BGr6yaq1s43I9u2B3ejvWuzoim2Q4MbGU6bCkMjWO7HOmQ1hXe13LSAM1pdhgyLqaSG6SKHtcyvpBowwlbv2JTRVGo-ixDc59HHZoYnK81E1WKlaQBkVoE3zJfu84CSnpcWe_5iyJUa0VBTLqRLYqWh9JV69RK6mT9WFXJ0r7fvtRnjKMkpAwO"
+        }
+      },
+      "publie_le": "2026-10-14T20:45"
     },
     {
       "id": "S2-2026-10-14-3",
