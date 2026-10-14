@@ -1622,12 +1622,23 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Pourquoi ta poche arrière est déformée ?",
       "vague": 2,
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "video_id": "1893709671993078",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113692483486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-14T15:06"
     },
     {
       "id": "RV006",
@@ -1644,11 +1655,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "La file derrière toi te remerciera.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057304283583480"
+          },
+          "published": {
+            "id": "17911857654555621"
+          },
+          "permalink": "https://www.instagram.com/reel/Deec5sjDXvI/"
+        },
+        "facebook": {
+          "video_id": "1768622667692386",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113692573486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-14T15:06"
     },
     {
       "id": "KF06",
