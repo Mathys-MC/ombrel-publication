@@ -1782,11 +1782,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Le cadeau qu'il ne s'achètera jamais lui-même.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057327164583480"
+          },
+          "published": {
+            "id": "18105603803199380"
+          },
+          "permalink": "https://www.instagram.com/reel/DeepLgngl55/"
+        }
+      },
+      "publie_le": "2026-10-14T16:54"
     },
     {
       "id": "RV012",
@@ -1802,12 +1814,23 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "49,90 € pour des années de poches légères.",
       "vague": 2,
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "video_id": "1833073881204441",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113716495486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-14T16:54"
     },
     {
       "id": "RW006",
