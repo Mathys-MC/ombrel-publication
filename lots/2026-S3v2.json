@@ -1420,11 +1420,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Une pression. Neuf cartes.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057268733583480"
+          },
+          "published": {
+            "id": "18123153973971014"
+          },
+          "permalink": "https://www.instagram.com/reel/DeeIjq6DTQW/"
+        }
+      },
+      "publie_le": "2026-10-14T12:09"
     },
     {
       "id": "SC08",
