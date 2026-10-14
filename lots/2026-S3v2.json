@@ -1933,11 +1933,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Le portefeuille que tu oublies avoir.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057347717583480"
+          },
+          "published": {
+            "id": "17986444377074095"
+          },
+          "permalink": "https://www.instagram.com/reel/DeeyivaARHy/"
+        }
+      },
+      "publie_le": "2026-10-14T18:15"
     },
     {
       "id": "KC17",
