@@ -1846,11 +1846,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "monnaie",
       "accroche": "Tes pièces restent à part.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057331400583480"
+          },
+          "published": {
+            "id": "18128872246699719"
+          },
+          "permalink": "https://www.instagram.com/reel/DeeqxQCj6UJ/"
+        }
+      },
+      "publie_le": "2026-10-14T17:07"
     },
     {
       "id": "KC13",
