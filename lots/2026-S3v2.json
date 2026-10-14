@@ -1750,11 +1750,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "comparaison",
       "accroche": "Story : Gros portefeuille vs Carbone.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057317843583480"
+          },
+          "published": {
+            "id": "18111886352268759"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4007798549488183970"
+        }
+      },
+      "publie_le": "2026-10-14T16:07"
     },
     {
       "id": "RV009",
