@@ -2155,11 +2155,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Ton portefeuille parle avant toi.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057396542583480"
+          },
+          "published": {
+            "id": "17966315412077171"
+          },
+          "permalink": "https://www.instagram.com/reel/DefKwbEDdO-/"
+        }
+      },
+      "publie_le": "2026-10-14T21:47"
     },
     {
       "id": "RV045",
@@ -2176,11 +2188,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Satisfaisant, non ?",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057396794583480"
+          },
+          "published": {
+            "id": "18130605389507153"
+          },
+          "permalink": "https://www.instagram.com/reel/DefKzrUktmI/"
+        },
+        "facebook": {
+          "video_id": "1086938990777709",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113810917486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-14T21:48"
     },
     {
       "id": "KC12",
