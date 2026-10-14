@@ -1177,12 +1177,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Une pression. Neuf cartes.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122113613037486810",
+          "post_id": "1346239391904480_122113613061486810"
+        }
+      },
+      "publie_le": "2026-10-14T09:36"
     },
     {
       "id": "RW004",
@@ -1198,11 +1205,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Le cadeau pour ta mère qui a « tout ».",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057241553583480"
+          },
+          "published": {
+            "id": "18148329466526243"
+          },
+          "permalink": "https://www.instagram.com/reel/Ded3J4Mjo1n/"
+        }
+      },
+      "publie_le": "2026-10-14T09:36"
     },
     {
       "id": "RV020",
