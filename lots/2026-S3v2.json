@@ -1328,11 +1328,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Story : Le cadeau pour ta mère qui a « tout ».",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057256652583480"
+          },
+          "published": {
+            "id": "17880406386543289"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4007646699904159808"
+        }
+      },
+      "publie_le": "2026-10-14T11:06"
     },
     {
       "id": "RV029",
