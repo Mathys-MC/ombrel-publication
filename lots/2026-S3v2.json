@@ -1521,12 +1521,23 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Le soir, tu prends juste lui.",
       "vague": 2,
-      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 12 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "video_id": "1081565571165928",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113673367486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-14T13:42"
     },
     {
       "id": "RV196",
@@ -1543,11 +1554,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "comparaison",
       "accroche": "Gros portefeuille vs Carbone.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057288143583480"
+          },
+          "published": {
+            "id": "17891665959614639"
+          },
+          "permalink": "https://www.instagram.com/reel/DeeTWFkgsjv/"
+        },
+        "facebook": {
+          "video_id": "1644225367108381",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113673553486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-14T13:43"
     },
     {
       "id": "KC09",
