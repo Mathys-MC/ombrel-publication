@@ -2080,12 +2080,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Ce que ton vieux portefeuille te coûte chaque jour.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122113767027486810",
+          "post_id": "1346239391904480_122113767063486810"
+        }
+      },
+      "publie_le": "2026-10-14T20:12"
     },
     {
       "id": "RW007",
