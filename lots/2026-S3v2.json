@@ -1392,12 +1392,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Il tient dans ta pochette de soirée.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122113642203486810",
+          "post_id": "1346239391904480_122113642227486810"
+        }
+      },
+      "publie_le": "2026-10-14T11:43"
     },
     {
       "id": "RV044",
