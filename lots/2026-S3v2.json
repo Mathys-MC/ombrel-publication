@@ -2490,11 +2490,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "comparaison",
       "accroche": "Story : Avant / après : la poche avant.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057514649583480"
+          },
+          "published": {
+            "id": "18115146884038902"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4008371337022490813"
+        }
+      },
+      "publie_le": "2026-10-15T11:05"
     },
     {
       "id": "KC24",
