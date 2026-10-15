@@ -2419,11 +2419,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "couleurs",
       "accroche": "6 coloris. Lequel te ressemble ?",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057510515583480"
+          },
+          "published": {
+            "id": "18006455198791630"
+          },
+          "permalink": "https://www.instagram.com/reel/Degi8gDk4XN/"
+        },
+        "facebook": {
+          "video_id": "4011908822450412",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113976841486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-15T10:38"
     },
     {
       "id": "RV031",
@@ -2439,11 +2459,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Tu fouilles encore pour ta carte ?",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057510764583480"
+          },
+          "published": {
+            "id": "18131099854766188"
+          },
+          "permalink": "https://www.instagram.com/reel/DegjCFvlPNw/"
+        }
+      },
+      "publie_le": "2026-10-15T10:38"
     },
     {
       "id": "S2-2026-10-15-1",
