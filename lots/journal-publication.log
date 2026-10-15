@@ -342,3 +342,6 @@
 2026-10-14T22:57:11 2026-S3v2.json KF08 {'facebook': 'ok'}
 2026-10-15T09:37:05 2026-S3v2.json RV221 RETENTE (réseau) {'instagram': "erreur : Conteneur Instagram 18057500411583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18057500411583480'}", 'facebook': 'ok'}
 2026-10-15T09:56:16 2026-S3v2.json RV221 RETENTE (réseau) {'instagram': "erreur : Conteneur Instagram 18057504671583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18057504671583480'}", 'facebook': 'ok'}
+2026-10-15T10:16:30 2026-S3v2.json RV221 {'instagram': 'https://www.instagram.com/reel/DeggX86kVkX/', 'facebook': 'ok'}
+2026-10-15T10:16:30 2026-S3v2.json KC16 {'facebook': 'ok'}
+2026-10-15T10:16:30 2026-S3v2.json RV025 {'instagram': 'https://www.instagram.com/reel/DeggfPklUeb/'}

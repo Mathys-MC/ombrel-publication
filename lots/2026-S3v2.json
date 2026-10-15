@@ -2317,14 +2317,20 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "comparaison",
       "accroche": "Avant / après : la poche avant.",
       "vague": 2,
       "resultats": {
         "instagram": {
-          "erreur": "Conteneur Instagram 18057504671583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18057504671583480'}"
+          "container": {
+            "id": "18057506858583480"
+          },
+          "published": {
+            "id": "18088372820261985"
+          },
+          "permalink": "https://www.instagram.com/reel/DeggX86kVkX/"
         },
         "facebook": {
           "video_id": "1098095439753850",
@@ -2335,7 +2341,8 @@
           }
         }
       },
-      "tentatives_reseau": 2
+      "tentatives_reseau": 2,
+      "publie_le": "2026-10-15T10:15"
     },
     {
       "id": "KC16",
@@ -2351,12 +2358,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Il ne fait pas tout. Il fait l'essentiel.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122113971807486810",
+          "post_id": "1346239391904480_122113971831486810"
+        }
+      },
+      "publie_le": "2026-10-15T10:15"
     },
     {
       "id": "RV025",
@@ -2372,11 +2386,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Tu le sens encore quand tu t'assois ?",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057507098583480"
+          },
+          "published": {
+            "id": "18113429663131786"
+          },
+          "permalink": "https://www.instagram.com/reel/DeggfPklUeb/"
+        }
+      },
+      "publie_le": "2026-10-15T10:16"
     },
     {
       "id": "RW008",
