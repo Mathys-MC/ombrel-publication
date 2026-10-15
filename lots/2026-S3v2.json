@@ -2753,11 +2753,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "promo",
       "accroche": "Tu attendais le bon moment ? Le voilà.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057551000583480"
+          },
+          "published": {
+            "id": "18466514776185614"
+          },
+          "permalink": "https://www.instagram.com/reel/Deg6ijMFMYh/"
+        },
+        "facebook": {
+          "video_id": "2197759510803622",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122114026323486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-15T14:04"
     },
     {
       "id": "KC25",
