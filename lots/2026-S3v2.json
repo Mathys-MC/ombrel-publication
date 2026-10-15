@@ -2880,11 +2880,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Story : Tout ce qu'il te faut tient en 9,5 cm.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057584156583480"
+          },
+          "published": {
+            "id": "17913212583494053"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4008526330597841325"
+        }
+      },
+      "publie_le": "2026-10-15T16:13"
     },
     {
       "id": "KF10",
