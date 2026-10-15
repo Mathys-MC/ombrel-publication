@@ -2591,11 +2591,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "Tu dépenses plus en cafés chaque mois.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057526898583480"
+          },
+          "published": {
+            "id": "18637870957037954"
+          },
+          "permalink": "https://www.instagram.com/reel/DegtZNonxs4/"
+        }
+      },
+      "publie_le": "2026-10-15T12:09"
     },
     {
       "id": "KF09",
