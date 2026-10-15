@@ -3052,12 +3052,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Il a déjà tout ? Pas celui-là.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122114158089486810",
+          "post_id": "1346239391904480_122114158125486810"
+        }
+      },
+      "publie_le": "2026-10-15T22:28"
     },
     {
       "id": "KF12",
