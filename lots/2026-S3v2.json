@@ -2551,11 +2551,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Pour l'homme qui a déjà tout.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057523370583480"
+          },
+          "published": {
+            "id": "18122725891998500"
+          },
+          "permalink": "https://www.instagram.com/reel/Degqkf9jXt1/"
+        },
+        "facebook": {
+          "video_id": "28954148440868110",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113995963486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-15T11:44"
     },
     {
       "id": "RV049",
