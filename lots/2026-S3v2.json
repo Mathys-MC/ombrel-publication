@@ -2680,11 +2680,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Ouvre ton portefeuille. Maintenant.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057546647583480"
+          },
+          "published": {
+            "id": "18091817171204111"
+          },
+          "permalink": "https://www.instagram.com/reel/Deg4G7Kj7js/"
+        },
+        "facebook": {
+          "video_id": "1115984597471050",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122114022309486810"
+          }
+        }
+      },
+      "publie_le": "2026-10-15T13:43"
     },
     {
       "id": "RV034",
@@ -2700,11 +2720,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Tout ce qu'il te faut tient en 9,5 cm.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057546923583480"
+          },
+          "published": {
+            "id": "18011813639978202"
+          },
+          "permalink": "https://www.instagram.com/reel/Deg4QwIj-Wb/"
+        }
+      },
+      "publie_le": "2026-10-15T13:44"
     },
     {
       "id": "RW009",
