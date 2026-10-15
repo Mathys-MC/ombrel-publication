@@ -2321,7 +2321,21 @@
       "produit": "carbone",
       "theme": "comparaison",
       "accroche": "Avant / après : la poche avant.",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "erreur": "Conteneur Instagram 18057500411583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18057500411583480'}"
+        },
+        "facebook": {
+          "video_id": "1098095439753850",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122113960491486810"
+          }
+        }
+      },
+      "tentatives_reseau": 1
     },
     {
       "id": "KC16",

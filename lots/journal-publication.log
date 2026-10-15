@@ -340,3 +340,4 @@
 2026-10-14T22:06:28 2026-S3v2.json KC12 {'facebook': 'ok'}
 2026-10-14T22:30:10 2026-S3v2.json RV066 {'facebook': 'ok'}
 2026-10-14T22:57:11 2026-S3v2.json KF08 {'facebook': 'ok'}
+2026-10-15T09:37:05 2026-S3v2.json RV221 RETENTE (réseau) {'instagram': "erreur : Conteneur Instagram 18057500411583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18057500411583480'}", 'facebook': 'ok'}
