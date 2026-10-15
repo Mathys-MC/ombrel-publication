@@ -2793,12 +2793,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Ce qui se passe quand tu appuies.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122114040663486810",
+          "post_id": "1346239391904480_122114040693486810"
+        }
+      },
+      "publie_le": "2026-10-15T15:10"
     },
     {
       "id": "RV046",
@@ -2814,11 +2821,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Et les billets, alors ?",
-      "vague": 2
+      "vague": 2,
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18057569003583480"
+          },
+          "published": {
+            "id": "17968998690172590"
+          },
+          "permalink": "https://www.instagram.com/reel/DehCIy4DPVv/"
+        }
+      },
+      "publie_le": "2026-10-15T15:10"
     },
     {
       "id": "KC44",
