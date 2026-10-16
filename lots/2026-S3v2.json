@@ -3220,12 +3220,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Ce qu'on te promet. Et ce qu'on ne promet pas.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122114393373486810",
+          "post_id": "1346239391904480_122114393457486810"
+        }
+      },
+      "publie_le": "2026-10-16T15:08"
     },
     {
       "id": "KC38",
