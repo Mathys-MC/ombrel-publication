@@ -3276,12 +3276,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "monnaie",
       "accroche": "Les pièces entre les cartes, c'est terminé.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122114428989486810",
+          "post_id": "1346239391904480_122114429025486810"
+        }
+      },
+      "publie_le": "2026-10-16T17:06"
     },
     {
       "id": "KC29",
