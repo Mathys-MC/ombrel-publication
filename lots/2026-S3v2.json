@@ -3976,12 +3976,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "49,90 €. Pour des années de poches légères.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122115132141486810",
+          "post_id": "1346239391904480_122115132171486810"
+        }
+      },
+      "publie_le": "2026-10-18T17:28"
     },
     {
       "id": "KC40",
