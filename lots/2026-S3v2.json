@@ -4088,12 +4088,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Pas de poche monnaie. C'est voulu.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122115193605486810",
+          "post_id": "1346239391904480_122115193629486810"
+        }
+      },
+      "publie_le": "2026-10-18T21:55"
     },
     {
       "id": "KF20",
