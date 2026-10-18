@@ -3920,12 +3920,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Pochette, rouge à lèvres, Croco. C'est tout.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122115097713486810",
+          "post_id": "1346239391904480_122115097737486810"
+        }
+      },
+      "publie_le": "2026-10-18T14:57"
     },
     {
       "id": "KC37",
