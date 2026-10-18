@@ -4060,12 +4060,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "9,5 cm. Tout ce qu'il te faut.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122115164325486810",
+          "post_id": "1346239391904480_122115164379486810"
+        }
+      },
+      "publie_le": "2026-10-18T20:01"
     },
     {
       "id": "KC47",
