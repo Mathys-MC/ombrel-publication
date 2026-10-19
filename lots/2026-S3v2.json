@@ -4200,12 +4200,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "couleurs",
       "accroche": "6 coloris. Lequel te ressemble ?",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122115364731486810",
+          "post_id": "1346239391904480_122115364755486810"
+        }
+      },
+      "publie_le": "2026-10-19T12:13"
     },
     {
       "id": "KC53",
