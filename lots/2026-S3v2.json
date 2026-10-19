@@ -4396,12 +4396,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "sac",
       "accroche": "Grand cabas ou mini sac : même portefeuille.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122115490953486810",
+          "post_id": "1346239391904480_122115490983486810"
+        }
+      },
+      "publie_le": "2026-10-19T19:50"
     },
     {
       "id": "KC52",
