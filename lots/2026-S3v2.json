@@ -4144,12 +4144,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Tu caches ton code. Et ta carte ?",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122115332277486810",
+          "post_id": "1346239391904480_122115332301486810"
+        }
+      },
+      "publie_le": "2026-10-19T09:44"
     },
     {
       "id": "KC49",
