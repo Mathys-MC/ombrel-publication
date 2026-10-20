@@ -353,12 +353,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "On doit vous dire la vérité.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122115894111486810",
+          "post_id": "1346239391904480_122115894135486810"
+        }
+      },
+      "publie_le": "2026-10-20T22:31"
     },
     {
       "id": "SC12",
