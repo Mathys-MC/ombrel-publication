@@ -577,12 +577,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "sac",
       "accroche": "Il passe d'un sac à l'autre en 2 secondes.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122116123293486810",
+          "post_id": "1346239391904480_122116123317486810"
+        }
+      },
+      "publie_le": "2026-10-21T17:36"
     },
     {
       "id": "SC13",
