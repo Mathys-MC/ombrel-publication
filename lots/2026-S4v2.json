@@ -1081,12 +1081,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Le sans contact, sans chercher.",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122116543977486810",
+          "post_id": "1346239391904480_122116544001486810"
+        }
+      },
+      "publie_le": "2026-10-22T22:58"
     },
     {
       "id": "SC11",
