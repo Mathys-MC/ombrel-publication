@@ -1634,12 +1634,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Pour ta mère qui a « tout ».",
       "vague": 2,
-      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage"
+      "instagram_reporte": "Instagram bloque les photos (2207051) depuis le 08/10 ; Facebook seul jusqu'au déblocage",
+      "resultats": {
+        "facebook": {
+          "id": "122117344707486810",
+          "post_id": "1346239391904480_122117344737486810"
+        }
+      },
+      "publie_le": "2026-10-25T13:24"
     },
     {
       "id": "SF06",
