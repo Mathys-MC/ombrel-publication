@@ -529,11 +529,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "promo",
       "accroche": "-15 % sur le Croco jusqu'au 30/11.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067394210583480"
+          },
+          "published": {
+            "id": "18101735054426669"
+          },
+          "permalink": "https://www.instagram.com/p/Dfubc5-lUtn/"
+        },
+        "facebook": {
+          "id": "122123241615486810",
+          "post_id": "1346239391904480_122123241639486810"
+        }
+      },
+      "publie_le": "2026-11-14T15:33"
     },
     {
       "id": "RV055-promo",
