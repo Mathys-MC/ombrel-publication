@@ -635,11 +635,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "couleurs",
       "accroche": "Il n'est pas obligé d'être noir.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067418294583480"
+          },
+          "published": {
+            "id": "18417345742082556"
+          },
+          "permalink": "https://www.instagram.com/reel/Dful7YPgUJn/"
+        },
+        "facebook": {
+          "video_id": "1645297880657116",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123270223486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-14T17:05"
     },
     {
       "id": "RW007",
