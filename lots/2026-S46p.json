@@ -1028,11 +1028,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "sac",
       "accroche": "Change de sac, pas de portefeuille.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067486682583480"
+          },
+          "published": {
+            "id": "18121024933976065"
+          },
+          "permalink": "https://www.instagram.com/reel/DfvK6L0D2rw/"
+        },
+        "facebook": {
+          "video_id": "1880184983166100",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123346393486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-14T22:28"
     },
     {
       "id": "KC08-promo",
