@@ -123,48 +123,6 @@
       "publie_le": "2026-11-14T12:49"
     },
     {
-      "id": "KC02-promo",
-      "date": "2026-11-14T10:09",
-      "type": "photo",
-      "medias": [
-        "https://mathys-mc.github.io/ombrel-medias/images/KC02-promo.jpg"
-      ],
-      "legende": "La file attend. Pas toi.\n\nUne pression sur le levier, et tes cartes sortent en éventail. Tu prends la bonne, tu paies, tu ranges. La file derrière toi n'a même pas le temps de soupirer.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\n-15 % sur le Carbone avec le code OMBREL15, jusqu'au 30 novembre 23h59.\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien en bio.\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
-      "legende_facebook": "La file attend. Pas toi.\n\nUne pression sur le levier, et tes cartes sortent en éventail. Tu prends la bonne, tu paies, tu ranges. La file derrière toi n'a même pas le temps de soupirer.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\n-15 % sur le Carbone avec le code OMBREL15, jusqu'au 30 novembre 23h59.\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nC'est par ici : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=organic&utm_campaign=vague2&utm_content=KC02-promo",
-      "ia": "non",
-      "plateformes": [
-        "instagram",
-        "facebook"
-      ],
-      "trial": false,
-      "statut": "en_retard",
-      "produit": "carbone",
-      "theme": "caisse",
-      "accroche": "La file attend. Pas toi.",
-      "vague": "promo-novembre"
-    },
-    {
-      "id": "SF12",
-      "date": "2026-11-14T10:55",
-      "type": "photo",
-      "medias": [
-        "https://mathys-mc.github.io/ombrel-medias/images/SF12-promo.jpg"
-      ],
-      "legende": "Il tient dans ta pochette de soirée.\n\nTéléphone, rouge à lèvres, Croco. La soirée peut commencer.\n\nLe Croco · format mini · cartes, billets à plat, monnaie zippée, porte-clés intérieur · 6 coloris · 49,90 €\n-15 % sur le Croco avec le code OMBREL15, jusqu'au 30 novembre 23h59.\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien en bio.\n\n#portefeuillefemme #petitportefeuille #accessoiresfemme #maisonombrel",
-      "legende_facebook": "Il tient dans ta pochette de soirée.\n\nTéléphone, rouge à lèvres, Croco. La soirée peut commencer.\n\nLe Croco · format mini · cartes, billets à plat, monnaie zippée, porte-clés intérieur · 6 coloris · 49,90 €\n-15 % sur le Croco avec le code OMBREL15, jusqu'au 30 novembre 23h59.\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nC'est par ici : https://maison-ombrel.com/products/portefeuille-femme-croco-mini?utm_source=facebook&utm_medium=organic&utm_campaign=vague2&utm_content=SF12",
-      "ia": "non",
-      "plateformes": [
-        "facebook"
-      ],
-      "trial": false,
-      "statut": "en_retard",
-      "produit": "croco",
-      "theme": "soiree",
-      "accroche": "Il tient dans ta pochette de soirée.",
-      "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
-    },
-    {
       "id": "SP-2026-11-14-1",
       "date": "2026-11-14T11:18",
       "type": "story",
@@ -328,6 +286,28 @@
       "vague": "promo-novembre"
     },
     {
+      "id": "KC02-promo",
+      "date": "2026-11-14T13:30",
+      "type": "photo",
+      "medias": [
+        "https://mathys-mc.github.io/ombrel-medias/images/KC02-promo.jpg"
+      ],
+      "legende": "La file attend. Pas toi.\n\nUne pression sur le levier, et tes cartes sortent en éventail. Tu prends la bonne, tu paies, tu ranges. La file derrière toi n'a même pas le temps de soupirer.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\n-15 % sur le Carbone avec le code OMBREL15, jusqu'au 30 novembre 23h59.\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien en bio.\n\n#portefeuillehomme #portecartes #minimalisme #maisonombrel",
+      "legende_facebook": "La file attend. Pas toi.\n\nUne pression sur le levier, et tes cartes sortent en éventail. Tu prends la bonne, tu paies, tu ranges. La file derrière toi n'a même pas le temps de soupirer.\n\nLe Carbone · 9,5 × 6,5 cm · 1,7 cm à vide · 9 cartes confortablement · protection RFID intégrée, vérifiée sur cette référence · 9 coloris · 49,90 €\n-15 % sur le Carbone avec le code OMBREL15, jusqu'au 30 novembre 23h59.\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nC'est par ici : https://maison-ombrel.com/products/portefeuille-homme-rfid-texture-carbone?utm_source=facebook&utm_medium=organic&utm_campaign=vague2&utm_content=KC02-promo",
+      "ia": "non",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "trial": false,
+      "statut": "a_publier",
+      "produit": "carbone",
+      "theme": "caisse",
+      "accroche": "La file attend. Pas toi.",
+      "vague": "promo-novembre",
+      "date_initiale": "2026-11-14T10:09"
+    },
+    {
       "id": "RV021-promo",
       "date": "2026-11-14T13:37",
       "type": "reel",
@@ -368,6 +348,28 @@
       "accroche": "Les hommes qui voyagent léger font ça.",
       "vague": "promo-novembre",
       "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+    },
+    {
+      "id": "SF12",
+      "date": "2026-11-14T14:35",
+      "type": "photo",
+      "medias": [
+        "https://mathys-mc.github.io/ombrel-medias/images/SF12-promo.jpg"
+      ],
+      "legende": "Il tient dans ta pochette de soirée.\n\nTéléphone, rouge à lèvres, Croco. La soirée peut commencer.\n\nLe Croco · format mini · cartes, billets à plat, monnaie zippée, porte-clés intérieur · 6 coloris · 49,90 €\n-15 % sur le Croco avec le code OMBREL15, jusqu'au 30 novembre 23h59.\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nLien en bio.\n\n#portefeuillefemme #petitportefeuille #accessoiresfemme #maisonombrel",
+      "legende_facebook": "Il tient dans ta pochette de soirée.\n\nTéléphone, rouge à lèvres, Croco. La soirée peut commencer.\n\nLe Croco · format mini · cartes, billets à plat, monnaie zippée, porte-clés intérieur · 6 coloris · 49,90 €\n-15 % sur le Croco avec le code OMBREL15, jusqu'au 30 novembre 23h59.\nLivraison offerte en France, 6 à 14 jours ouvrés.\n\nC'est par ici : https://maison-ombrel.com/products/portefeuille-femme-croco-mini?utm_source=facebook&utm_medium=organic&utm_campaign=vague2&utm_content=SF12",
+      "ia": "non",
+      "plateformes": [
+        "facebook"
+      ],
+      "trial": false,
+      "statut": "a_publier",
+      "produit": "croco",
+      "theme": "soiree",
+      "accroche": "Il tient dans ta pochette de soirée.",
+      "vague": "promo-novembre",
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "date_initiale": "2026-11-14T10:55"
     },
     {
       "id": "KC04-promo",
