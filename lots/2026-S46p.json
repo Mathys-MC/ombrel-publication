@@ -488,11 +488,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "Ce que tu paies vraiment pour un porte-cartes de marque.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067385297583480"
+          },
+          "published": {
+            "id": "17916735600542537"
+          },
+          "permalink": "https://www.instagram.com/reel/DfuY2FogB9x/"
+        },
+        "facebook": {
+          "video_id": "1411158157767101",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123225085486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-14T15:10"
     },
     {
       "id": "KF01",
