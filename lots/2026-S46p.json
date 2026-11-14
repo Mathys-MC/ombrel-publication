@@ -784,11 +784,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Story : On doit te dire ce qu'il ne fait pas.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067445849583480"
+          },
+          "published": {
+            "id": "18117024995039893"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4030383443309340648"
+        }
+      },
+      "publie_le": "2026-11-14T18:59"
     },
     {
       "id": "RV073-promo",
