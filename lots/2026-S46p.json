@@ -817,11 +817,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Le mécanisme, vu de près.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067452011583480"
+          },
+          "published": {
+            "id": "18114825332589860"
+          },
+          "permalink": "https://www.instagram.com/reel/Dfu1v5TimAx/"
+        },
+        "facebook": {
+          "video_id": "1482126940466943",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123309151486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-14T19:23"
     },
     {
       "id": "RV195-promo",
