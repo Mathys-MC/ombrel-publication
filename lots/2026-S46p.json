@@ -926,12 +926,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Et les billets ? Quelques-uns, pliés.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122123336673486810",
+          "post_id": "1346239391904480_122123336697486810"
+        }
+      },
+      "publie_le": "2026-11-14T20:55"
     },
     {
       "id": "RV026-promo",
