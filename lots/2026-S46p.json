@@ -717,11 +717,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Ce que ta poche ne protège pas.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067435613583480"
+          },
+          "published": {
+            "id": "18113614784138212"
+          },
+          "permalink": "https://www.instagram.com/reel/Dfuty7VgnbX/"
+        },
+        "facebook": {
+          "video_id": "1502055335117802",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123290521486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-14T18:13"
     },
     {
       "id": "KC06-promo",
