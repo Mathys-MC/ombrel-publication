@@ -3,35 +3,8 @@ name: Publication organique
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *'
-    - cron: '23 8 * * *'
-    - cron: '46 8 * * *'
-    - cron: '9 9 * * *'
-    - cron: '55 9 * * *'
-    - cron: '18 10 * * *'
-    - cron: '41 10 * * *'
-    - cron: '4 11 * * *'
-    - cron: '51 11 * * *'
-    - cron: '14 12 * * *'
-    - cron: '37 12 * * *'
-    - cron: '0 13 * * *'
-    - cron: '46 13 * * *'
-    - cron: '9 14 * * *'
-    - cron: '32 14 * * *'
-    - cron: '18 15 * * *'
-    - cron: '41 15 * * *'
-    - cron: '4 16 * * *'
-    - cron: '50 16 * * *'
-    - cron: '13 17 * * *'
-    - cron: '36 17 * * *'
-    - cron: '59 17 * * *'
-    - cron: '22 18 * * *'
-    - cron: '9 19 * * *'
-    - cron: '32 19 * * *'
-    - cron: '55 19 * * *'
-    - cron: '41 20 * * *'
-    - cron: '4 21 * * *'
-    - cron: '27 21 * * *'
+    - cron: '17 * * * *'
+    - cron: '47 * * * *'
 concurrency:
   group: publication
   cancel-in-progress: false
@@ -40,7 +13,7 @@ permissions:
 jobs:
   publier:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 360
     env:
       TZ: Europe/Paris
       META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
@@ -54,7 +27,11 @@ jobs:
         with:
           ref: main
       - run: pip install -q -r requirements.txt
-      - run: git pull -q --rebase origin main && python3 publier.py
+      - run: |
+          git config user.name "publication-ombrel"
+          git config user.email "publication-ombrel@users.noreply.github.com"
+      # boucle continue (~5 h 45, contrôle toutes les 60 s) : publie à l'heure même si GitHub lance le passage en retard
+      - run: git pull -q --rebase origin main && python3 boucle.py
       - name: Enregistrer les statuts
         if: always()
         run: |
