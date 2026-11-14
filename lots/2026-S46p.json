@@ -279,11 +279,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "fouille",
       "accroche": "Fini de fouiller au fond du sac.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067355471583480"
+          },
+          "published": {
+            "id": "18133472894510030"
+          },
+          "permalink": "https://www.instagram.com/reel/DfuLupNDqcS/"
+        },
+        "facebook": {
+          "video_id": "1452986979496619",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123205681486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-14T13:16"
     },
     {
       "id": "KC02-promo",
