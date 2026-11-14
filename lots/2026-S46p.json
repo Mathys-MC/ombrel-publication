@@ -137,7 +137,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "La file attend. Pas toi.",
@@ -157,7 +157,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Il tient dans ta pochette de soirée.",
@@ -251,14 +251,20 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Combien de temps tu vas encore le supporter ?",
       "vague": "promo-novembre",
       "resultats": {
         "instagram": {
-          "erreur": "Conteneur Instagram 18067348244583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18067348244583480'}"
+          "container": {
+            "id": "18067351922583480"
+          },
+          "published": {
+            "id": "18043333961838540"
+          },
+          "permalink": "https://www.instagram.com/reel/DfuKSNpD_mS/"
         },
         "facebook": {
           "video_id": "1640889744244868",
@@ -269,7 +275,8 @@
           }
         }
       },
-      "tentatives_reseau": 1
+      "tentatives_reseau": 1,
+      "publie_le": "2026-11-14T13:03"
     },
     {
       "id": "KC03-promo",
@@ -285,12 +292,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Il ne le remplacera jamais lui-même.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122123203581486810",
+          "post_id": "1346239391904480_122123203605486810"
+        }
+      },
+      "publie_le": "2026-11-14T13:03"
     },
     {
       "id": "RW003",
