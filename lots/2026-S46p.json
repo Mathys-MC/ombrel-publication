@@ -18,7 +18,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Chaque jour, tu t'assois dessus.",
@@ -39,7 +39,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Ton dos te remercie déjà.",
@@ -60,7 +60,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Regarde combien de temps il met à payer.",
@@ -80,7 +80,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "La file attend. Pas toi.",
@@ -101,7 +101,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Il tient dans ta pochette de soirée.",
@@ -121,11 +121,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Story : Ton dos te remercie déjà.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067347668583480"
+          },
+          "published": {
+            "id": "18035258126855816"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4030195168602358871"
+        }
+      },
+      "publie_le": "2026-11-14T12:45"
     },
     {
       "id": "RV008-promo",
@@ -142,11 +154,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Il dit qu'il n'a besoin de rien.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067347914583480"
+          },
+          "published": {
+            "id": "18134977294753121"
+          },
+          "permalink": "https://www.instagram.com/reel/DfuIXJuiap1/"
+        },
+        "facebook": {
+          "video_id": "1709176330653228",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123201523486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-14T12:46"
     },
     {
       "id": "RV015-promo",
@@ -167,7 +199,21 @@
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Combien de temps tu vas encore le supporter ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "erreur": "Conteneur Instagram 18067348244583480 : {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18067348244583480'}"
+        },
+        "facebook": {
+          "video_id": "1640889744244868",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123201547486810"
+          }
+        }
+      },
+      "tentatives_reseau": 1
     },
     {
       "id": "KC03-promo",
