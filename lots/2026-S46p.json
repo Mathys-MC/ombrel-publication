@@ -898,12 +898,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "sac",
       "accroche": "Ton petit sac n'a jamais été aussi rangé.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122123333433486810",
+          "post_id": "1346239391904480_122123333457486810"
+        }
+      },
+      "publie_le": "2026-11-14T20:33"
     },
     {
       "id": "KC07-promo",
