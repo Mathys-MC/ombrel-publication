@@ -430,13 +430,20 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Il tient dans ta pochette de soirée.",
       "vague": "promo-novembre",
       "instagram_limite": "volume Instagram limité à 3 photos/jour",
-      "date_initiale": "2026-11-14T10:55"
+      "date_initiale": "2026-11-14T10:55",
+      "resultats": {
+        "facebook": {
+          "id": "122123217789486810",
+          "post_id": "1346239391904480_122123217813486810"
+        }
+      },
+      "publie_le": "2026-11-14T14:35"
     },
     {
       "id": "KC04-promo",
