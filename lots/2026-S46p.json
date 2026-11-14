@@ -18,11 +18,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Chaque jour, tu t'assois dessus.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067348658583480"
+          },
+          "published": {
+            "id": "18158077570525501"
+          },
+          "permalink": "https://www.instagram.com/p/DfuIld4FgX_/"
+        },
+        "facebook": {
+          "id": "122123201691486810",
+          "post_id": "1346239391904480_122123201799486810"
+        }
+      },
+      "publie_le": "2026-11-14T12:48"
     },
     {
       "id": "RV002-promo",
@@ -39,11 +55,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Ton dos te remercie déjà.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067348703583480"
+          },
+          "published": {
+            "id": "17913258726574850"
+          },
+          "permalink": "https://www.instagram.com/reel/DfuInz4gjKW/"
+        },
+        "facebook": {
+          "video_id": "4758300957827510",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123201949486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-14T12:49"
     },
     {
       "id": "RV005-promo",
@@ -60,11 +96,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Regarde combien de temps il met à payer.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067349009583480"
+          },
+          "published": {
+            "id": "17975363340178971"
+          },
+          "permalink": "https://www.instagram.com/reel/DfuItVpiBVY/"
+        },
+        "facebook": {
+          "video_id": "1677634907293357",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123202051486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-14T12:49"
     },
     {
       "id": "KC02-promo",
