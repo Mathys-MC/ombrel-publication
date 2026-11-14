@@ -987,11 +987,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Payer en 3 secondes, c'est possible.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067482662583480"
+          },
+          "published": {
+            "id": "18398350675160189"
+          },
+          "permalink": "https://www.instagram.com/reel/DfvITKMjj3l/"
+        },
+        "facebook": {
+          "video_id": "2514829682374986",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123344191486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-14T22:05"
     },
     {
       "id": "RW010",
