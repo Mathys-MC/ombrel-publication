@@ -459,12 +459,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "Le principe des porte-cartes à 90 €. À 49,90 €.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122123219619486810",
+          "post_id": "1346239391904480_122123219643486810"
+        }
+      },
+      "publie_le": "2026-11-14T14:46"
     },
     {
       "id": "RV050-promo",
