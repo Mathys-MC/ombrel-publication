@@ -566,11 +566,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Il y a ceux qui fouillent. Et les autres.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067407674583480"
+          },
+          "published": {
+            "id": "17998869996058254"
+          },
+          "permalink": "https://www.instagram.com/reel/DfugqfNEjsc/"
+        },
+        "facebook": {
+          "video_id": "3663269483831355",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123249931486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-14T16:19"
     },
     {
       "id": "KC05-promo",
