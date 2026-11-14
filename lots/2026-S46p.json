@@ -676,11 +676,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "organisation",
       "accroche": "Chaque chose à sa place.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067429187583480"
+          },
+          "published": {
+            "id": "17977178333948254"
+          },
+          "permalink": "https://www.instagram.com/reel/DfurL2xFKSx/"
+        },
+        "facebook": {
+          "video_id": "1779295723149480",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123276637486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-14T17:50"
     },
     {
       "id": "RV070-promo",
