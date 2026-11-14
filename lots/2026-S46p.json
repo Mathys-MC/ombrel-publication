@@ -18,7 +18,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "en_retard",
+      "statut": "a_publier",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Chaque jour, tu t'assois dessus.",
@@ -39,7 +39,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "en_retard",
+      "statut": "a_publier",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Ton dos te remercie déjà.",
@@ -60,7 +60,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "en_retard",
+      "statut": "a_publier",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Regarde combien de temps il met à payer.",
@@ -80,7 +80,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "en_retard",
+      "statut": "a_publier",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "La file attend. Pas toi.",
@@ -101,7 +101,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "en_retard",
+      "statut": "a_publier",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Il tient dans ta pochette de soirée.",

@@ -20,7 +20,7 @@ sys.path.insert(0, ICI)
 LOTS = os.path.join(ICI, "lots")
 JOURNAL = os.path.join(LOTS, "journal-publication.log")
 PAUSE = os.path.join(LOTS, "PAUSE")
-MAX_RETARD, MAX_ENVOIS = 90, 3
+MAX_RETARD, MAX_ENVOIS = 360, 3  # GitHub déclenche parfois avec plusieurs heures de retard (nov. 2026)
 ECHECS_AVANT_PAUSE = 4  # frein : 4 éléments en erreur d'affilée → le robot se met en pause (fichier lots/PAUSE)
 
 
