@@ -1147,11 +1147,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Le ticket de 2019 est toujours là, avoue.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067610780583480"
+          },
+          "published": {
+            "id": "17891764791477714"
+          },
+          "permalink": "https://www.instagram.com/reel/DfwYlyIAWtx/"
+        },
+        "facebook": {
+          "video_id": "1631551101304889",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123443299486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-15T09:46"
     },
     {
       "id": "KC10-promo",
