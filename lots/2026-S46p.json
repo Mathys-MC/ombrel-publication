@@ -1965,12 +1965,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Le moment gênant à la caisse, c'est fini.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122123604153486810",
+          "post_id": "1346239391904480_122123604177486810"
+        }
+      },
+      "publie_le": "2026-11-15T20:55"
     },
     {
       "id": "RV039-promo",
