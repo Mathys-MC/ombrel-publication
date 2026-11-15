@@ -1994,11 +1994,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "L'idée cadeau qu'il utilisera vraiment.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067771004583480"
+          },
+          "published": {
+            "id": "18127505387317365"
+          },
+          "permalink": "https://www.instagram.com/reel/DfxqY4xFTYO/"
+        },
+        "facebook": {
+          "video_id": "1675923407461093",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123610279486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-15T21:41"
     },
     {
       "id": "RV042-promo",
