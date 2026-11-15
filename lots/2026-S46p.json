@@ -1467,11 +1467,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Le détail qui fait la différence à table.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067664363583480"
+          },
+          "published": {
+            "id": "18080916770437082"
+          },
+          "permalink": "https://www.instagram.com/reel/Dfw1oMvlOfg/"
+        },
+        "facebook": {
+          "video_id": "1451865069696264",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123491221486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-15T14:00"
     },
     {
       "id": "KC22-promo",
