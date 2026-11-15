@@ -1937,12 +1937,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "monnaie",
       "accroche": "Tes pièces restent à part.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122123601639486810",
+          "post_id": "1346239391904480_122123601669486810"
+        }
+      },
+      "publie_le": "2026-11-15T20:32"
     },
     {
       "id": "KC11-promo",
