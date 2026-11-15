@@ -1393,12 +1393,23 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Elle le sortira tous les jours.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "video_id": "1806063190633117",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123484153486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-15T13:15"
     },
     {
       "id": "RV051-promo",
