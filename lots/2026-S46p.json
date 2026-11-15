@@ -1242,11 +1242,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Story : Son portefeuille a 15 ans. Toi aussi tu l'as remarqué ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067630397583480"
+          },
+          "published": {
+            "id": "18018180731976092"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4030876322524568443"
+        }
+      },
+      "publie_le": "2026-11-15T11:19"
     },
     {
       "id": "RV047-promo",
