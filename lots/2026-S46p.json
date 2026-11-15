@@ -2076,11 +2076,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "promo",
       "accroche": "Un code, une vraie date de fin.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067777877583480"
+          },
+          "published": {
+            "id": "17995195476115463"
+          },
+          "permalink": "https://www.instagram.com/reel/DfxvztWj98g/"
+        },
+        "facebook": {
+          "video_id": "1437284365140204",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123629491486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-15T22:29"
     },
     {
       "id": "KC13-promo",
