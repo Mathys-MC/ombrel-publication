@@ -2035,11 +2035,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Ce que ton vieux portefeuille dit de toi.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067775222583480"
+          },
+          "published": {
+            "id": "18474584422189850"
+          },
+          "permalink": "https://www.instagram.com/reel/DfxtG_XlFe9/"
+        },
+        "facebook": {
+          "video_id": "1806434137101897",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123624691486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-15T22:05"
     },
     {
       "id": "RW015",
