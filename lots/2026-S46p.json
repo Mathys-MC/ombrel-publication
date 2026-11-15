@@ -1106,11 +1106,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Son portefeuille a 15 ans. Toi aussi tu l'as remarqué ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067606559583480"
+          },
+          "published": {
+            "id": "17930392344430029"
+          },
+          "permalink": "https://www.instagram.com/reel/DfwV-jIAUDF/"
+        },
+        "facebook": {
+          "video_id": "1024811480649614",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123439831486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-15T09:24"
     },
     {
       "id": "RV041-promo",
