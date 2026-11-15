@@ -1069,11 +1069,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Ta carte sans contact, elle est protégée dans ta poche ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067604114583480"
+          },
+          "published": {
+            "id": "18092356712262643"
+          },
+          "permalink": "https://www.instagram.com/p/DfwTZxmGx25/"
+        },
+        "facebook": {
+          "id": "122123437395486810",
+          "post_id": "1346239391904480_122123437419486810"
+        }
+      },
+      "publie_le": "2026-11-15T09:01"
     },
     {
       "id": "RV038-promo",
