@@ -1645,12 +1645,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "comparaison",
       "accroche": "Portefeuille classique ou Carbone ?",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122123534193486810",
+          "post_id": "1346239391904480_122123534277486810"
+        }
+      },
+      "publie_le": "2026-11-15T16:41"
     },
     {
       "id": "RV074-promo",
