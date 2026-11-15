@@ -1797,11 +1797,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Ton dos te dira merci.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067735748583480"
+          },
+          "published": {
+            "id": "18475939663191574"
+          },
+          "permalink": "https://www.instagram.com/p/DfxVQZ_ndiH/"
+        },
+        "facebook": {
+          "id": "122123581029486810",
+          "post_id": "1346239391904480_122123581053486810"
+        }
+      },
+      "publie_le": "2026-11-15T18:36"
     },
     {
       "id": "SP-2026-11-15-2",
