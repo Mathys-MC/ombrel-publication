@@ -1275,11 +1275,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Avant d'acheter un porte-cartes, regarde ça.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067635665583480"
+          },
+          "published": {
+            "id": "18116343728132686"
+          },
+          "permalink": "https://www.instagram.com/reel/Dfwlwv7D6Sw/"
+        },
+        "facebook": {
+          "video_id": "1174662555000017",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123459907486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-15T11:41"
     },
     {
       "id": "RV036-promo",
