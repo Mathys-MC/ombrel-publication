@@ -1715,11 +1715,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Il tient dans ta pochette de soirée.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067725164583480"
+          },
+          "published": {
+            "id": "18120045485327701"
+          },
+          "permalink": "https://www.instagram.com/reel/DfxP_JFgRFa/"
+        },
+        "facebook": {
+          "video_id": "1676467787458555",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123556981486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-15T17:51"
     },
     {
       "id": "RV222-promo",
