@@ -1507,12 +1507,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "couleurs",
       "accroche": "9 coloris. Lequel est le tien ?",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122123498841486810",
+          "post_id": "1346239391904480_122123498865486810"
+        }
+      },
+      "publie_le": "2026-11-15T14:47"
     },
     {
       "id": "RV130-promo",
