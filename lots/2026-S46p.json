@@ -1756,11 +1756,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "comparaison",
       "accroche": "Lequel tu as dans ta poche en ce moment ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067733030583480"
+          },
+          "published": {
+            "id": "18055184636810595"
+          },
+          "permalink": "https://www.instagram.com/reel/DfxT7uBmbPq/"
+        },
+        "facebook": {
+          "video_id": "1133708689367955",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123579001486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-15T18:25"
     },
     {
       "id": "KC09-promo",
