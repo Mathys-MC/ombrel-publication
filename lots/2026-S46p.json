@@ -2441,12 +2441,23 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "monnaie",
       "accroche": "Les pièces entre les cartes, c'est terminé.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "video_id": "1421477786689803",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123773719486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-16T13:14"
     },
     {
       "id": "RV131-promo",
