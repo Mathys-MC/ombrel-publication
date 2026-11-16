@@ -2653,11 +2653,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Arrête de t'asseoir sur ton portefeuille.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067993865583480"
+          },
+          "published": {
+            "id": "18021583892953207"
+          },
+          "permalink": "https://www.instagram.com/reel/DfzqX7bEhBU/"
+        },
+        "facebook": {
+          "video_id": "2632668640565587",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123801571486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-16T16:20"
     },
     {
       "id": "KC16-promo",
