@@ -3124,11 +3124,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "fouille",
       "accroche": "Tu cherches encore tes clés ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068085029583480"
+          },
+          "published": {
+            "id": "18146742472718971"
+          },
+          "permalink": "https://www.instagram.com/reel/Df0UdxuDV-n/"
+        },
+        "facebook": {
+          "video_id": "1135983348914929",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123880525486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-16T22:27"
     },
     {
       "id": "KC25-promo",
