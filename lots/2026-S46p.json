@@ -2804,11 +2804,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Noël arrive plus vite que tu crois.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068031197583480"
+          },
+          "published": {
+            "id": "18118389209269331"
+          },
+          "permalink": "https://www.instagram.com/reel/Dfz3g-HmthA/"
+        },
+        "facebook": {
+          "video_id": "3231104907084663",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123824365486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-16T18:14"
     },
     {
       "id": "KC24-promo",
