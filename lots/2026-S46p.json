@@ -2154,11 +2154,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Pas de poche monnaie. Voilà pourquoi.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067893887583480"
+          },
+          "published": {
+            "id": "17893778418459284"
+          },
+          "permalink": "https://www.instagram.com/reel/Dfy6ve2DBTn/"
+        },
+        "facebook": {
+          "video_id": "4528371577419262",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123729889486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-16T09:23"
     },
     {
       "id": "RV076-promo",
