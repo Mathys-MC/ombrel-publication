@@ -2722,11 +2722,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Le moment le plus gênant à la caisse.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068009927583480"
+          },
+          "published": {
+            "id": "18173189569475953"
+          },
+          "permalink": "https://www.instagram.com/reel/DfzviIvmMkt/"
+        },
+        "facebook": {
+          "video_id": "1498129865557682",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123809113486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-16T17:05"
     },
     {
       "id": "RW033",
