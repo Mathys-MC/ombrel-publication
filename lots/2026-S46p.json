@@ -2263,12 +2263,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "organisation",
       "accroche": "Cartes, billets, monnaie, clés : chacun sa place.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122123748483486810",
+          "post_id": "1346239391904480_122123748549486810"
+        }
+      },
+      "publie_le": "2026-11-16T10:55"
     },
     {
       "id": "SP-2026-11-16-1",
