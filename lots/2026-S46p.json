@@ -3013,12 +3013,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Le détail qu'on remarque en premier.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122123870631486810",
+          "post_id": "1346239391904480_122123870655486810"
+        }
+      },
+      "publie_le": "2026-11-16T20:56"
     },
     {
       "id": "RV077-promo",
