@@ -3083,11 +3083,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "49,90 € pour des années de poches légères.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068081423583480"
+          },
+          "published": {
+            "id": "17917420080491963"
+          },
+          "permalink": "https://www.instagram.com/reel/Df0R2XXlOnS/"
+        },
+        "facebook": {
+          "video_id": "1151179230938794",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123878137486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-16T22:05"
     },
     {
       "id": "RW011",
