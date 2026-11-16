@@ -3042,11 +3042,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Moins dans les poches, plus dans la tête.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068076551583480"
+          },
+          "published": {
+            "id": "18081412973743536"
+          },
+          "permalink": "https://www.instagram.com/reel/Df0POmdj1b6/"
+        },
+        "facebook": {
+          "video_id": "1848642346162816",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123875893486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-16T21:42"
     },
     {
       "id": "RV095-promo",
