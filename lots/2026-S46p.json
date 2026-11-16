@@ -2405,11 +2405,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Ce que ton vieux portefeuille te coûte chaque jour.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067937576583480"
+          },
+          "published": {
+            "id": "18035830148911058"
+          },
+          "permalink": "https://www.instagram.com/p/DfzSmPhGw_c/"
+        },
+        "facebook": {
+          "id": "122123767317486810",
+          "post_id": "1346239391904480_122123767341486810"
+        }
+      },
+      "publie_le": "2026-11-16T12:51"
     },
     {
       "id": "RW016",
