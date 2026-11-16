@@ -2763,11 +2763,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "couleurs",
       "accroche": "Rose ou violet ? Dis-le en commentaire.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068024030583480"
+          },
+          "published": {
+            "id": "18484005709117283"
+          },
+          "permalink": "https://www.instagram.com/reel/Dfz0yghlDyj/"
+        },
+        "facebook": {
+          "video_id": "1609229093692709",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123817843486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-16T17:51"
     },
     {
       "id": "RV061-promo",
