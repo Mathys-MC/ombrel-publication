@@ -2880,11 +2880,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "couleurs",
       "accroche": "Story : Il n'est pas obligé d'être noir.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068042522583480"
+          },
+          "published": {
+            "id": "18033666563911701"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4031833032804557829"
+        }
+      },
+      "publie_le": "2026-11-16T19:00"
     },
     {
       "id": "RV067-promo",
