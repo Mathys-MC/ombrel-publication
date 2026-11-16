@@ -2693,12 +2693,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Il ne fait pas tout. Il fait l'essentiel.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122123803941486810",
+          "post_id": "1346239391904480_122123803965486810"
+        }
+      },
+      "publie_le": "2026-11-16T16:41"
     },
     {
       "id": "RV052-promo",
