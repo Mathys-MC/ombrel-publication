@@ -2117,11 +2117,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Ton père dit qu'il n'a besoin de rien.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067890746583480"
+          },
+          "published": {
+            "id": "18111279623212482"
+          },
+          "permalink": "https://www.instagram.com/p/Dfy4Lfum7SK/"
+        },
+        "facebook": {
+          "id": "122123726499486810",
+          "post_id": "1346239391904480_122123726523486810"
+        }
+      },
+      "publie_le": "2026-11-16T09:01"
     },
     {
       "id": "RV048-promo",
