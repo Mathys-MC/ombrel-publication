@@ -2913,11 +2913,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Ton portefeuille te coûte plus que tu crois.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068048564583480"
+          },
+          "published": {
+            "id": "18167944015521966"
+          },
+          "permalink": "https://www.instagram.com/reel/Dfz_Tw8guWV/"
+        },
+        "facebook": {
+          "video_id": "4604434019839570",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123839617486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-16T19:23"
     },
     {
       "id": "RV079-promo",
