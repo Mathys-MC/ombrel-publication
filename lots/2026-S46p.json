@@ -2624,12 +2624,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "couleurs",
       "accroche": "6 coloris. Lequel te ressemble ?",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122123794029486810",
+          "post_id": "1346239391904480_122123794059486810"
+        }
+      },
+      "publie_le": "2026-11-16T15:32"
     },
     {
       "id": "RV058-promo",
