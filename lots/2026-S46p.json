@@ -2845,11 +2845,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Sans contact, sans souci.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068036162583480"
+          },
+          "published": {
+            "id": "18117799022274652"
+          },
+          "permalink": "https://www.instagram.com/p/Dfz6AarmDn8/"
+        },
+        "facebook": {
+          "id": "122123829603486810",
+          "post_id": "1346239391904480_122123829627486810"
+        }
+      },
+      "publie_le": "2026-11-16T18:36"
     },
     {
       "id": "SP-2026-11-16-2",
