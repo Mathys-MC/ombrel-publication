@@ -2584,11 +2584,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Regarde ce qui se passe quand j'appuie.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18067973423583480"
+          },
+          "published": {
+            "id": "18454030267122141"
+          },
+          "permalink": "https://www.instagram.com/reel/DfziZs7DRgh/"
+        },
+        "facebook": {
+          "video_id": "4586956651581557",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123791317486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-16T15:10"
     },
     {
       "id": "KF08",
