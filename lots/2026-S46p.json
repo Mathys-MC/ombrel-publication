@@ -4014,12 +4014,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "fouille",
       "accroche": "Tu cherches tes clés ? Elles sont accrochées.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124098571486810",
+          "post_id": "1346239391904480_122124098595486810"
+        }
+      },
+      "publie_le": "2026-11-17T20:32"
     },
     {
       "id": "KC32-promo",
