@@ -3544,11 +3544,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Regarde combien de temps il met à payer.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068249414583480"
+          },
+          "published": {
+            "id": "18173197411474599"
+          },
+          "permalink": "https://www.instagram.com/reel/Df1_PS7H20P/"
+        },
+        "facebook": {
+          "video_id": "1497634855571053",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124003765486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T14:00"
     },
     {
       "id": "KC20-promo",
