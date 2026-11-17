@@ -3165,11 +3165,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Ce qui se passe quand tu appuies.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068191988583480"
+          },
+          "published": {
+            "id": "17888078304522867"
+          },
+          "permalink": "https://www.instagram.com/p/Df1c6PdFT_7/"
+        },
+        "facebook": {
+          "id": "122123960349486810",
+          "post_id": "1346239391904480_122123960373486810"
+        }
+      },
+      "publie_le": "2026-11-17T09:00"
     },
     {
       "id": "RV085-promo",
