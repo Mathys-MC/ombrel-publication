@@ -3311,7 +3311,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "croco",
       "theme": "promo",
       "accroche": "Le moment de te faire plaisir.",
@@ -3331,7 +3331,7 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Story : On remarque ça chez un homme.",
@@ -3352,11 +3352,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Protégé sans y penser.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068243432583480"
+          },
+          "published": {
+            "id": "17882699829631045"
+          },
+          "permalink": "https://www.instagram.com/reel/Df17tjwnGJ_/"
+        },
+        "facebook": {
+          "video_id": "1882067806110564",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123999109486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T13:30"
     },
     {
       "id": "RV103-promo",
@@ -3373,11 +3393,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Une pression. Neuf cartes.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068243690583480"
+          },
+          "published": {
+            "id": "18131629693843076"
+          },
+          "permalink": "https://www.instagram.com/reel/Df17y_oklZ-/"
+        },
+        "facebook": {
+          "video_id": "1671428147859936",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123999223486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T13:30"
     },
     {
       "id": "SC21-promo",
@@ -3394,11 +3434,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "comparaison",
       "accroche": "Gros portefeuille ou Carbone ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068243858583480"
+          },
+          "published": {
+            "id": "18095120642229593"
+          },
+          "permalink": "https://www.instagram.com/p/Df1737EkVtW/"
+        },
+        "facebook": {
+          "id": "122123999265486810",
+          "post_id": "1346239391904480_122123999295486810"
+        }
+      },
+      "publie_le": "2026-11-17T13:31"
     },
     {
       "id": "RW013",
