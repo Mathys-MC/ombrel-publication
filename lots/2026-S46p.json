@@ -3874,11 +3874,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Il a déjà tout ? Pas celui-là.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068314043583480"
+          },
+          "published": {
+            "id": "18122637077003011"
+          },
+          "permalink": "https://www.instagram.com/p/Df2e6BiCeIg/"
+        },
+        "facebook": {
+          "id": "122124062295486810",
+          "post_id": "1346239391904480_122124062319486810"
+        }
+      },
+      "publie_le": "2026-11-17T18:37"
     },
     {
       "id": "SP-2026-11-17-2",
