@@ -3682,11 +3682,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "3 signes que ton portefeuille a fait son temps.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068283152583480"
+          },
+          "published": {
+            "id": "18647836582005180"
+          },
+          "permalink": "https://www.instagram.com/reel/Df2PJGSjJD7/"
+        },
+        "facebook": {
+          "video_id": "2009660619993093",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124024123486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T16:19"
     },
     {
       "id": "KC18-promo",
