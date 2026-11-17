@@ -3243,11 +3243,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "couleurs",
       "accroche": "9 coloris. Tu prends lequel ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068201273583480"
+          },
+          "published": {
+            "id": "18244375060316008"
+          },
+          "permalink": "https://www.instagram.com/reel/Df1iO1AGdkf/"
+        },
+        "facebook": {
+          "video_id": "1067586829688587",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123965947486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T09:47"
     },
     {
       "id": "KC44-promo",
