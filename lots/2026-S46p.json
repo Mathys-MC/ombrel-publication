@@ -4153,11 +4153,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Idée cadeau pour ta sœur : trouvée.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068353799583480"
+          },
+          "published": {
+            "id": "17946360102379721"
+          },
+          "permalink": "https://www.instagram.com/reel/Df25cqejR6t/"
+        },
+        "facebook": {
+          "video_id": "1161533096469694",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124122781486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T22:29"
     },
     {
       "id": "KC23-promo",
