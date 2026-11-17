@@ -3202,11 +3202,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "On remarque ça chez un homme.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068196434583480"
+          },
+          "published": {
+            "id": "18112561406184039"
+          },
+          "permalink": "https://www.instagram.com/reel/Df1fmvxiphd/"
+        },
+        "facebook": {
+          "video_id": "1538325818442906",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122123963427486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T09:24"
     },
     {
       "id": "RV132-promo",
