@@ -3792,11 +3792,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "sac",
       "accroche": "Les mini sacs, c'est enfin possible.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068304812583480"
+          },
+          "published": {
+            "id": "18185204617428924"
+          },
+          "permalink": "https://www.instagram.com/reel/Df2ZkSlGfgq/"
+        },
+        "facebook": {
+          "video_id": "2248437775707060",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124038811486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T17:50"
     },
     {
       "id": "RV078-promo",
