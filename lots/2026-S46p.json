@@ -3584,12 +3584,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Poche arrière : interdit.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124010797486810",
+          "post_id": "1346239391904480_122124010845486810"
+        }
+      },
+      "publie_le": "2026-11-17T14:46"
     },
     {
       "id": "RV062-promo",
