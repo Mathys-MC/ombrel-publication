@@ -3503,11 +3503,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Ton dos te remercie déjà.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068244863583480"
+          },
+          "published": {
+            "id": "18099530954391395"
+          },
+          "permalink": "https://www.instagram.com/reel/Df18pJRiYwa/"
+        },
+        "facebook": {
+          "video_id": "1682186239941369",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124000651486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T13:38"
     },
     {
       "id": "RV053-promo",
