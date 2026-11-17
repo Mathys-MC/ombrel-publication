@@ -3751,11 +3751,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Il ne fait pas tout. Et c'est voulu.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068296538583480"
+          },
+          "published": {
+            "id": "18119416457085549"
+          },
+          "permalink": "https://www.instagram.com/reel/Df2UTF6IxcP/"
+        },
+        "facebook": {
+          "video_id": "1144632671598476",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124033369486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T17:04"
     },
     {
       "id": "RW017",
