@@ -4071,11 +4071,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "couleurs",
       "accroche": "Le coloris dit tout de toi.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068348975583480"
+          },
+          "published": {
+            "id": "18442203979177045"
+          },
+          "permalink": "https://www.instagram.com/reel/Df2z_pJjPkV/"
+        },
+        "facebook": {
+          "video_id": "2405472063322611",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124109407486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T21:41"
     },
     {
       "id": "RV113-promo",
