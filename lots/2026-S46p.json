@@ -3909,11 +3909,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Story : Ton dos te remercie déjà.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068322251583480"
+          },
+          "published": {
+            "id": "17946243015381850"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4032558011691724821"
+        }
+      },
+      "publie_le": "2026-11-17T19:00"
     },
     {
       "id": "RV096-promo",
