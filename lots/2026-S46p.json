@@ -3613,11 +3613,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Tu ne sais jamais quoi lui offrir ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068265815583480"
+          },
+          "published": {
+            "id": "18392117263235959"
+          },
+          "permalink": "https://www.instagram.com/reel/Df2HKHNiLUo/"
+        },
+        "facebook": {
+          "video_id": "1134102166033809",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124014805486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T15:10"
     },
     {
       "id": "KF10",
