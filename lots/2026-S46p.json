@@ -3942,11 +3942,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "Tu dépenses plus en cafés chaque mois.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068327309583480"
+          },
+          "published": {
+            "id": "18102268814423206"
+          },
+          "permalink": "https://www.instagram.com/reel/Df2kJeTgQaD/"
+        },
+        "facebook": {
+          "video_id": "29433960712956143",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124074145486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T19:23"
     },
     {
       "id": "RV086-promo",
