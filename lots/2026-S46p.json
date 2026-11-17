@@ -4042,12 +4042,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "Moins cher qu'un resto. Utilisé tous les jours.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124102939486810",
+          "post_id": "1346239391904480_122124102963486810"
+        }
+      },
+      "publie_le": "2026-11-17T20:56"
     },
     {
       "id": "RV161-promo",
