@@ -3833,11 +3833,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Le portefeuille que tu oublies avoir.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068308247583480"
+          },
+          "published": {
+            "id": "18155847925551361"
+          },
+          "permalink": "https://www.instagram.com/reel/Df2cLdgATdi/"
+        },
+        "facebook": {
+          "video_id": "1472674510948599",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124056331486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-17T18:13"
     },
     {
       "id": "KC21-promo",
