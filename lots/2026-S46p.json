@@ -5119,11 +5119,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Tu le sens encore quand tu t'assois ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068576459583480"
+          },
+          "published": {
+            "id": "18291544666292774"
+          },
+          "permalink": "https://www.instagram.com/reel/Df5YzPRmHCN/"
+        },
+        "facebook": {
+          "video_id": "1191059773271430",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124350943486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T21:41"
     },
     {
       "id": "RV082-promo",
