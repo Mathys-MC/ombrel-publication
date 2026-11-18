@@ -4592,11 +4592,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "On doit te dire ce qu'il ne fait pas.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068486135583480"
+          },
+          "published": {
+            "id": "18147099040516351"
+          },
+          "permalink": "https://www.instagram.com/reel/Df4kGlrCLZH/"
+        },
+        "facebook": {
+          "video_id": "1509446887771823",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124248307486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T14:01"
     },
     {
       "id": "KC38-promo",
