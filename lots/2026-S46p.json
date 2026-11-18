@@ -5090,12 +5090,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "couleurs",
       "accroche": "Lequel tu prends ?",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124341991486810",
+          "post_id": "1346239391904480_122124342015486810"
+        }
+      },
+      "publie_le": "2026-11-18T20:55"
     },
     {
       "id": "RV097-promo",
