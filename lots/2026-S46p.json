@@ -4367,11 +4367,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Story : Satisfaisant, non ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068453699583480"
+          },
+          "published": {
+            "id": "18145209865720809"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4033050607900029025"
+        }
+      },
+      "publie_le": "2026-11-18T11:19"
     },
     {
       "id": "RV054-promo",
