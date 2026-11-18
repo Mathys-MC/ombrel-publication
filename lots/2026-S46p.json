@@ -4441,11 +4441,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Il dit qu'il n'a besoin de rien.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068459918583480"
+          },
+          "published": {
+            "id": "17940056943405860"
+          },
+          "permalink": "https://www.instagram.com/reel/Df4Wv_5gnur/"
+        },
+        "facebook": {
+          "video_id": "2319402712341383",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124230445486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T12:04"
     },
     {
       "id": "KC27-promo",
