@@ -4231,11 +4231,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Satisfaisant, non ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068434382583480"
+          },
+          "published": {
+            "id": "18225022243341481"
+          },
+          "permalink": "https://www.instagram.com/reel/Df4EV2ujXvj/"
+        },
+        "facebook": {
+          "video_id": "1503258171758214",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124208731486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T09:23"
     },
     {
       "id": "RV060-promo",
