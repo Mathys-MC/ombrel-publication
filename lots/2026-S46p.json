@@ -4957,11 +4957,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Story : Combien de temps tu vas encore le supporter ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068551787583480"
+          },
+          "published": {
+            "id": "18120113942071340"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4033282653239247056"
+        }
+      },
+      "publie_le": "2026-11-18T19:00"
     },
     {
       "id": "RV114-promo",
