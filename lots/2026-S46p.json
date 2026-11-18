@@ -4770,12 +4770,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Tu peux juger un homme à son portefeuille.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124284163486810",
+          "post_id": "1346239391904480_122124284193486810"
+        }
+      },
+      "publie_le": "2026-11-18T16:41"
     },
     {
       "id": "RV087-promo",
