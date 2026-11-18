@@ -4701,12 +4701,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "monnaie",
       "accroche": "Les pièces entre les cartes, c'est terminé.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124275337486810",
+          "post_id": "1346239391904480_122124275361486810"
+        }
+      },
+      "publie_le": "2026-11-18T15:32"
     },
     {
       "id": "RV133-promo",
