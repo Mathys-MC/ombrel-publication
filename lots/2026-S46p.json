@@ -4661,11 +4661,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Tout ce qu'il te faut tient en 9,5 cm.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068500148583480"
+          },
+          "published": {
+            "id": "18353862817266906"
+          },
+          "permalink": "https://www.instagram.com/reel/Df4r-_aHGbq/"
+        },
+        "facebook": {
+          "video_id": "1487138286952976",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124258789486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T15:10"
     },
     {
       "id": "KF16",
