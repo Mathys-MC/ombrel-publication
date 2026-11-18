@@ -5062,12 +5062,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "organisation",
       "accroche": "Ce qu'il y a dedans.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124337515486810",
+          "post_id": "1346239391904480_122124337539486810"
+        }
+      },
+      "publie_le": "2026-11-18T20:32"
     },
     {
       "id": "KC56-promo",
