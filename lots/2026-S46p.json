@@ -4632,12 +4632,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Ta carte bancaire mérite mieux qu'une poche.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124254349486810",
+          "post_id": "1346239391904480_122124254373486810"
+        }
+      },
+      "publie_le": "2026-11-18T14:46"
     },
     {
       "id": "RV100-promo",
