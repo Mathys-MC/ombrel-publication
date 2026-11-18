@@ -4922,11 +4922,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "La cartouche aluminium, vue de près.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068546723583480"
+          },
+          "published": {
+            "id": "18130850620869577"
+          },
+          "permalink": "https://www.instagram.com/p/Df5Dm_wGgyI/"
+        },
+        "facebook": {
+          "id": "122124318477486810",
+          "post_id": "1346239391904480_122124318525486810"
+        }
+      },
+      "publie_le": "2026-11-18T18:36"
     },
     {
       "id": "SP-2026-11-18-2",
