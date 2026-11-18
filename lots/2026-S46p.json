@@ -5160,11 +5160,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Tu fouilles encore pour ta carte ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068580140583480"
+          },
+          "published": {
+            "id": "18584645890073886"
+          },
+          "permalink": "https://www.instagram.com/reel/Df5baP8AFUR/"
+        },
+        "facebook": {
+          "video_id": "2235544187000030",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124353631486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T22:04"
     },
     {
       "id": "RW023",
