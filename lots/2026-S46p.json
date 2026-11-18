@@ -4272,11 +4272,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Pourquoi ta poche arrière est déformée ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068439671583480"
+          },
+          "published": {
+            "id": "17919603936534616"
+          },
+          "permalink": "https://www.instagram.com/reel/Df4HHJAggnQ/"
+        },
+        "facebook": {
+          "video_id": "4561470434182409",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124211971486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T09:48"
     },
     {
       "id": "KC26-promo",
