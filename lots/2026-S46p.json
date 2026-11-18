@@ -4400,11 +4400,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "La file derrière toi te remerciera.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068456261583480"
+          },
+          "published": {
+            "id": "18091335158289064"
+          },
+          "permalink": "https://www.instagram.com/reel/Df4UIgKmZEo/"
+        },
+        "facebook": {
+          "video_id": "1796276534960266",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124228171486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T11:41"
     },
     {
       "id": "RV063-promo",
