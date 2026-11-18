@@ -4551,11 +4551,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Combien de temps tu vas encore le supporter ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068479862583480"
+          },
+          "published": {
+            "id": "18032109734874638"
+          },
+          "permalink": "https://www.instagram.com/reel/Df4he80jJ0k/"
+        },
+        "facebook": {
+          "video_id": "3922515087913331",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124245055486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T13:38"
     },
     {
       "id": "RV081-promo",
