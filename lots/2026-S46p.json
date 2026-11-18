@@ -4340,12 +4340,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Idée cadeau : trouvée.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124222135486810",
+          "post_id": "1346239391904480_122124222159486810"
+        }
+      },
+      "publie_le": "2026-11-18T10:55"
     },
     {
       "id": "SP-2026-11-18-1",
