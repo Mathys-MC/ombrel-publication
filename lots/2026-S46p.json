@@ -4840,11 +4840,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "promo",
       "accroche": "Le moment de te faire plaisir.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068537318583480"
+          },
+          "published": {
+            "id": "18200292286397314"
+          },
+          "permalink": "https://www.instagram.com/reel/Df4-b_XEcFF/"
+        },
+        "facebook": {
+          "video_id": "1133010675805719",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124304833486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T17:51"
     },
     {
       "id": "RV162-promo",
