@@ -5201,11 +5201,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "monnaie",
       "accroche": "Ton appoint, toujours sous la main.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068583590583480"
+          },
+          "published": {
+            "id": "17998678689028941"
+          },
+          "permalink": "https://www.instagram.com/reel/Df5eIPZjdSE/"
+        },
+        "facebook": {
+          "video_id": "2068159497175971",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124356247486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T22:28"
     },
     {
       "id": "KC33-promo",
