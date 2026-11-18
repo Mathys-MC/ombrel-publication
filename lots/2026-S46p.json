@@ -4990,11 +4990,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Ta carte sans contact, elle est protégée ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068557445583480"
+          },
+          "published": {
+            "id": "17975642760171040"
+          },
+          "permalink": "https://www.instagram.com/reel/Df5I64MCjeA/"
+        },
+        "facebook": {
+          "video_id": "4599582233644713",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124326223486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T19:23"
     },
     {
       "id": "RV105-promo",
