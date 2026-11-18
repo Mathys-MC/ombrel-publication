@@ -4881,11 +4881,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "couleurs",
       "accroche": "Orange ou noir ? Dis-le en commentaire.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068541728583480"
+          },
+          "published": {
+            "id": "18437262661145397"
+          },
+          "permalink": "https://www.instagram.com/reel/Df5BG_fE06s/"
+        },
+        "facebook": {
+          "video_id": "1499362988716173",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124311817486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T18:14"
     },
     {
       "id": "KC35-promo",
