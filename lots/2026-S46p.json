@@ -4482,11 +4482,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Ce qu'on te promet. Et ce qu'on ne promet pas.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068473934583480"
+          },
+          "published": {
+            "id": "18506404966103282"
+          },
+          "permalink": "https://www.instagram.com/p/Df4e7pim7fi/"
+        },
+        "facebook": {
+          "id": "122124241551486810",
+          "post_id": "1346239391904480_122124241575486810"
+        }
+      },
+      "publie_le": "2026-11-18T13:15"
     },
     {
       "id": "RW022",
@@ -4502,12 +4518,23 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Téléphone, rouge à lèvres, Croco. C'est tout.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "video_id": "1150600921272488",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124241779486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-18T13:16"
     },
     {
       "id": "RV069-promo",
