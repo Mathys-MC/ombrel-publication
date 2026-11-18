@@ -4194,11 +4194,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Le jour où ta poche arrière se déchire.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068430380583480"
+          },
+          "published": {
+            "id": "18023871536731957"
+          },
+          "permalink": "https://www.instagram.com/p/Df4ByPnkc7Z/"
+        },
+        "facebook": {
+          "id": "122124206505486810",
+          "post_id": "1346239391904480_122124206529486810"
+        }
+      },
+      "publie_le": "2026-11-18T09:01"
     },
     {
       "id": "RV104-promo",
