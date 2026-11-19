@@ -5599,11 +5599,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "Pourquoi payer 90 € pour un porte-cartes ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068710283583480"
+          },
+          "published": {
+            "id": "18098939801136583"
+          },
+          "permalink": "https://www.instagram.com/reel/Df7GQV6iDd6/"
+        },
+        "facebook": {
+          "video_id": "1862105811585292",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124466929486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-19T13:38"
     },
     {
       "id": "RV121-promo",
