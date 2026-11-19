@@ -5818,12 +5818,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "3 signes que ton portefeuille a fait son temps.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124504897486810",
+          "post_id": "1346239391904480_122124504927486810"
+        }
+      },
+      "publie_le": "2026-11-19T16:41"
     },
     {
       "id": "RV127-promo",
