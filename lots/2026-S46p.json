@@ -5415,11 +5415,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Story : Le cadeau qu'il ne s'achètera jamais lui-même.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068686847583480"
+          },
+          "published": {
+            "id": "17978162031214629"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4033775307370020472"
+        }
+      },
+      "publie_le": "2026-11-19T11:18"
     },
     {
       "id": "RV106-promo",
