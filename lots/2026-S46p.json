@@ -5970,11 +5970,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Fin. Rangé. Toujours là.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068787800583480"
+          },
+          "published": {
+            "id": "18130297747657483"
+          },
+          "permalink": "https://www.instagram.com/p/Df7oZBVnDzW/"
+        },
+        "facebook": {
+          "id": "122124532575486810",
+          "post_id": "1346239391904480_122124532599486810"
+        }
+      },
+      "publie_le": "2026-11-19T18:36"
     },
     {
       "id": "SP-2026-11-19-2",
