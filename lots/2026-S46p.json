@@ -6110,12 +6110,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "promo",
       "accroche": "OMBREL15, jusqu'au 30 novembre.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124564915486810",
+          "post_id": "1346239391904480_122124564939486810"
+        }
+      },
+      "publie_le": "2026-11-19T20:32"
     },
     {
       "id": "KC36-promo",
