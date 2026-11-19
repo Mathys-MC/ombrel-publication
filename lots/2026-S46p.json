@@ -5847,11 +5847,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Ce qui rentre vraiment dedans.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068771240583480"
+          },
+          "published": {
+            "id": "17935296975423022"
+          },
+          "permalink": "https://www.instagram.com/reel/Df7d688Am9T/"
+        },
+        "facebook": {
+          "video_id": "1692875132195989",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124508395486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-19T17:05"
     },
     {
       "id": "RW019",
