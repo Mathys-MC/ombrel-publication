@@ -6005,11 +6005,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "Story : Pourquoi payer 90 € pour un porte-cartes ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068791661583480"
+          },
+          "published": {
+            "id": "18180553711451708"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4034007466726410146"
+        }
+      },
+      "publie_le": "2026-11-19T19:00"
     },
     {
       "id": "RV083-promo",
