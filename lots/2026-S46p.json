@@ -6249,11 +6249,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "organisation",
       "accroche": "Le petit portefeuille qui range tout.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068825705583480"
+          },
+          "published": {
+            "id": "18034094303683610"
+          },
+          "permalink": "https://www.instagram.com/reel/Df8C66bCqxb/"
+        },
+        "facebook": {
+          "video_id": "1026300270503918",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124579453486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-19T22:28"
     },
     {
       "id": "KC57-promo",
