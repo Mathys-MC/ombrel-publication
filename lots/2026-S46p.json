@@ -5778,11 +5778,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Tu caches ton code au distributeur. Et ta carte ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068759555583480"
+          },
+          "published": {
+            "id": "18024118925934072"
+          },
+          "permalink": "https://www.instagram.com/reel/Df7YplFicND/"
+        },
+        "facebook": {
+          "video_id": "2020885828868857",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124499779486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-19T16:19"
     },
     {
       "id": "KC31-promo",
