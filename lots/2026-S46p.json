@@ -5929,11 +5929,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Le geste que font tous les hommes… et qu'ils regrettent.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068784080583480"
+          },
+          "published": {
+            "id": "17883474672545147"
+          },
+          "permalink": "https://www.instagram.com/reel/Df7lx-_gl7U/"
+        },
+        "facebook": {
+          "video_id": "1153796500634411",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124528237486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-19T18:13"
     },
     {
       "id": "KC34-promo",
