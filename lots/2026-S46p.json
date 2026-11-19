@@ -5448,11 +5448,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Et les billets, alors ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068690426583480"
+          },
+          "published": {
+            "id": "18650564851047832"
+          },
+          "permalink": "https://www.instagram.com/reel/Df646eBEje-/"
+        },
+        "facebook": {
+          "video_id": "3152924775046174",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124444963486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-19T11:41"
     },
     {
       "id": "RV101-promo",
