@@ -5489,11 +5489,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Les hommes qui voyagent léger font ça.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068693807583480"
+          },
+          "published": {
+            "id": "17921870916460157"
+          },
+          "permalink": "https://www.instagram.com/reel/Df67h9ykuxC/"
+        },
+        "facebook": {
+          "video_id": "1690506886059805",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124447249486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-19T12:04"
     },
     {
       "id": "KC30-promo",
