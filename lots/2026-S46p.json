@@ -5530,11 +5530,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Un pour lui. Un pour son père.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068705042583480"
+          },
+          "published": {
+            "id": "18201868003376517"
+          },
+          "permalink": "https://www.instagram.com/p/Df7DGKOHJ9D/"
+        },
+        "facebook": {
+          "id": "122124457569486810",
+          "post_id": "1346239391904480_122124457593486810"
+        }
+      },
+      "publie_le": "2026-11-19T13:10"
     },
     {
       "id": "RW049",
