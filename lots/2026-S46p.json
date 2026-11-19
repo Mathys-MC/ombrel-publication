@@ -5680,12 +5680,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "Ce que tu ne paies pas : la livraison.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124480633486810",
+          "post_id": "1346239391904480_122124480657486810"
+        }
+      },
+      "publie_le": "2026-11-19T14:46"
     },
     {
       "id": "RV241-promo",
