@@ -5888,11 +5888,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "fouille",
       "accroche": "Ta carte de transport, du premier coup.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068779706583480"
+          },
+          "published": {
+            "id": "17869076529680110"
+          },
+          "permalink": "https://www.instagram.com/reel/Df7jKvjjrh_/"
+        },
+        "facebook": {
+          "video_id": "1817734886225190",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124519681486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-19T17:51"
     },
     {
       "id": "RV098-promo",
