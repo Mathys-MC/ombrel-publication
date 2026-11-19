@@ -5279,11 +5279,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Le cadeau qu'il ne s'achètera jamais lui-même.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068669408583480"
+          },
+          "published": {
+            "id": "18101078954474085"
+          },
+          "permalink": "https://www.instagram.com/reel/Df6pI_7E3Ny/"
+        },
+        "facebook": {
+          "video_id": "29732149403055542",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124428739486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-19T09:23"
     },
     {
       "id": "RV091-promo",
