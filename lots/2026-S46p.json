@@ -5749,12 +5749,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Le soir, tu prends juste lui.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124486861486810",
+          "post_id": "1346239391904480_122124486885486810"
+        }
+      },
+      "publie_le": "2026-11-19T15:32"
     },
     {
       "id": "RV163-promo",
