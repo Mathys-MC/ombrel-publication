@@ -6967,11 +6967,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Ce que ton vieux portefeuille dit de toi.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069016643583480"
+          },
+          "published": {
+            "id": "18066555932523703"
+          },
+          "permalink": "https://www.instagram.com/reel/Df-KjqHmYGC/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aet247agqndpd0GtqNoUrwXH746FGRigwhEeVqWOC61wMZtAIgnL-XShreJdSH5Pk-K5yKCSE8Py8-WMXCcUQmVNgqsx4gLM7jq4imLOFUQqSB0lRADjhj3KTzhvOIZ3iCm-LRxUqCLhI34mj2Q4VMeMbJaDZWe0F14LScU2VE3XlKgUW-v4ExBCmMRS_Vm9ncjKN"
+        }
+      },
+      "publie_le": "2026-11-20T18:13"
     },
     {
       "id": "KC39-promo",
