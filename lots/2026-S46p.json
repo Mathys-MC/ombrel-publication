@@ -6368,11 +6368,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "Le même principe, pas le même prix.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068917733583480"
+          },
+          "published": {
+            "id": "17964966258253187"
+          },
+          "permalink": "https://www.instagram.com/reel/Df9QpMEk3Ai/"
+        },
+        "facebook": {
+          "video_id": "1608683174620241",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124677391486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-20T09:47"
     },
     {
       "id": "KC41-promo",
