@@ -7071,11 +7071,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Pas de poche monnaie. Voilà pourquoi.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069031670583480"
+          },
+          "published": {
+            "id": "18115528571174909"
+          },
+          "permalink": "https://www.instagram.com/reel/Df-SlD-gSQE/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetQHTZGHcGOUXQmsVMsMhnqPjZWCrkbOw_asSYVnyDLqc429trT46bex4Xak5nJugCBc-gisxc8dnuRaWHWNZHtCwDTkpi5sjB_dnBUrRhV0EWKs83-92Ymzn3ibQsXDRfate0QTzDhye7dFTZKAge7ZfuZ39bQtIxQY0GQJvIT0aALMOzukYywscDu1biEB8qUh"
+        }
+      },
+      "publie_le": "2026-11-20T19:23"
     },
     {
       "id": "RV124-promo",
