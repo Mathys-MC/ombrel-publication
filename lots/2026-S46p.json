@@ -6757,11 +6757,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Poche arrière : la pire place pour un portefeuille.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068974748583480"
+          },
+          "published": {
+            "id": "18158444884525847"
+          },
+          "permalink": "https://www.instagram.com/reel/Df91id4jINa/"
+        },
+        "facebook": {
+          "video_id": "4081760745449722",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124724245486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-20T15:10"
     },
     {
       "id": "KF19",
