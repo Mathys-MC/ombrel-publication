@@ -7161,12 +7161,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Anniversaire, fête des pères, Noël : réglé.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124815499486810",
+          "post_id": "1346239391904480_122124815529486810"
+        }
+      },
+      "publie_le": "2026-11-20T20:55"
     },
     {
       "id": "RV167-promo",
