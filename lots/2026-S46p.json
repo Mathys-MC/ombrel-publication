@@ -6866,12 +6866,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Assieds-toi droit.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124751821486810",
+          "post_id": "1346239391904480_122124751845486810"
+        }
+      },
+      "publie_le": "2026-11-20T16:41"
     },
     {
       "id": "RV090-promo",
