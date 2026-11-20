@@ -6436,12 +6436,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "sac",
       "accroche": "Les petits sacs, c'est enfin possible.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124687453486810",
+          "post_id": "1346239391904480_122124687477486810"
+        }
+      },
+      "publie_le": "2026-11-20T10:55"
     },
     {
       "id": "SP-2026-11-20-1",
