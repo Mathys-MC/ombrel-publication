@@ -6647,11 +6647,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Protégé sans y penser.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068955251583480"
+          },
+          "published": {
+            "id": "18050282540830569"
+          },
+          "permalink": "https://www.instagram.com/reel/Df9rDOuCmlO/"
+        },
+        "facebook": {
+          "video_id": "1114484434801304",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124711459486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-20T13:38"
     },
     {
       "id": "RV128-promo",
