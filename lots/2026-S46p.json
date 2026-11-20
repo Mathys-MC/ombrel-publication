@@ -6728,12 +6728,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "couleurs",
       "accroche": "Il n'est pas obligé d'être noir.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124720219486810",
+          "post_id": "1346239391904480_122124720243486810"
+        }
+      },
+      "publie_le": "2026-11-20T14:46"
     },
     {
       "id": "RV099-promo",
