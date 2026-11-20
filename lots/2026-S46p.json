@@ -7003,11 +7003,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Tu fouilles. Il appuie.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069022049583480"
+          },
+          "published": {
+            "id": "18104490266547637"
+          },
+          "permalink": "https://www.instagram.com/p/Df-NQ_qlqwt/"
+        },
+        "facebook": {
+          "id": "122124767595486810",
+          "post_id": "1346239391904480_122124767619486810"
+        }
+      },
+      "publie_le": "2026-11-20T18:36"
     },
     {
       "id": "SP-2026-11-20-2",
