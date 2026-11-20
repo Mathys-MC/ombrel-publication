@@ -6797,12 +6797,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "fouille",
       "accroche": "Ta carte de transport, du premier coup.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124727221486810",
+          "post_id": "1346239391904480_122124727245486810"
+        }
+      },
+      "publie_le": "2026-11-20T15:32"
     },
     {
       "id": "RV084-promo",
