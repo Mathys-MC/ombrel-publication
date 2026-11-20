@@ -6496,11 +6496,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Les hommes organisés ont tous ce détail.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068935253583480"
+          },
+          "published": {
+            "id": "18108869645298685"
+          },
+          "permalink": "https://www.instagram.com/reel/Df9dwzwDpf7/"
+        },
+        "facebook": {
+          "video_id": "2256151954929588",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124692025486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-20T11:42"
     },
     {
       "id": "RV242-promo",
