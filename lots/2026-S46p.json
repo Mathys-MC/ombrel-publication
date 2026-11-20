@@ -7190,11 +7190,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "49,90 € pour des années de poches légères.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069048587583480"
+          },
+          "published": {
+            "id": "18127079873295113"
+          },
+          "permalink": "https://www.instagram.com/reel/Df-idTCE4AW/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aes8i8kDrt36SUGZia882hAcs2KOEOW1NbaIsQlnKu_NHnnw37NGNGKYcyrEcjdYC3HLy3uqXHTOAQxOwGRbZZwKjR4JeJIhFy5LJPJU4STXRE4Su4fQxPNVqRRNJzGuhDMsmyhSzoPn8rBs48PLIddvLGHipf7qoxZA4R2WZ5edvdk0Z7AlJPHOGocQ8973AqxbB"
+        }
+      },
+      "publie_le": "2026-11-20T21:42"
     },
     {
       "id": "RV123-promo",
