@@ -6578,11 +6578,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Le Carbone, en 3 gestes.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068945207583480"
+          },
+          "published": {
+            "id": "18151511317653970"
+          },
+          "permalink": "https://www.instagram.com/p/Df9lw82m1lm/"
+        },
+        "facebook": {
+          "id": "122124703539486810",
+          "post_id": "1346239391904480_122124703563486810"
+        }
+      },
+      "publie_le": "2026-11-20T12:51"
     },
     {
       "id": "RW025",
