@@ -7262,11 +7262,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Le soir, tu prends juste lui.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069056462583480"
+          },
+          "published": {
+            "id": "18099259574662024"
+          },
+          "permalink": "https://www.instagram.com/reel/Df-n02fmTjH/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aevp9-9-_u1fS97k4oKdcrFZZWKOjHKTr1Y8ggCdUXFqBK400GLOXD3snfWVpbT3-hsxaDsrouBC-GjrdC9tBsy5gHUBOsuwby9qhlQ05u8O0Pg0SW-ErilvqSlf6rUDd11rnpriYHgBL12nryKH7s2Y8YJHj0UPWibuht4XmjMUu4qeUcel-fHcwUXevPnDX1PEh"
+        }
+      },
+      "publie_le": "2026-11-20T22:29"
     }
   ]
 }
