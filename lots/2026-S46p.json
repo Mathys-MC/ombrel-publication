@@ -6931,11 +6931,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Pour les fêtes, prends de l'avance.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069009302583480"
+          },
+          "published": {
+            "id": "17931294366185372"
+          },
+          "permalink": "https://www.instagram.com/reel/Df-H8slnF-2/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetF_82I3UInLIVF4XnRd28DH4YALznLdh2JRqkbBL2mkoC795V9E5fRaORyhlacOErEoEIYYb9jHs2p9Xl-2ItKK3agtRSjb-xy5zu2UOEmpdYqfjBXCWvptcfM2JNPT9KcED__qagXgJTALtG0zYByL3dA5FXZ6ndm2VNnC3iy62V_6KU8SAKLZFxufnOFffo20"
+        }
+      },
+      "publie_le": "2026-11-20T17:50"
     },
     {
       "id": "RV093-promo",
