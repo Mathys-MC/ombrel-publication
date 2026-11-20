@@ -6290,11 +6290,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Protégé, sans y penser.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068911169583480"
+          },
+          "published": {
+            "id": "18112453949580700"
+          },
+          "permalink": "https://www.instagram.com/p/Df9LVl_G3ls/"
+        },
+        "facebook": {
+          "id": "122124668505486810",
+          "post_id": "1346239391904480_122124668529486810"
+        }
+      },
+      "publie_le": "2026-11-20T09:00"
     },
     {
       "id": "RV102-promo",
