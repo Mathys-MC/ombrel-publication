@@ -6826,11 +6826,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Le geste qui change ta caisse.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068987552583480"
+          },
+          "published": {
+            "id": "18159387511517231"
+          },
+          "permalink": "https://www.instagram.com/reel/Df99c8BgM9e/"
+        },
+        "facebook": {
+          "video_id": "2228604444748244",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124747189486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-20T16:19"
     },
     {
       "id": "KC46-promo",
