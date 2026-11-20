@@ -6327,11 +6327,31 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Moins. Mais mieux.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18068914400583480"
+          },
+          "published": {
+            "id": "17963810406079979"
+          },
+          "permalink": "https://www.instagram.com/reel/Df9N6WODF2p/"
+        },
+        "facebook": {
+          "video_id": "1000751992494737",
+          "finish": {
+            "success": true,
+            "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/video-api/guides/reels-publishing#get-the-upload-status.",
+            "post_id": "122124672177486810"
+          }
+        }
+      },
+      "publie_le": "2026-11-20T09:23"
     },
     {
       "id": "RV135-promo",
