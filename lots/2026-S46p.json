@@ -7133,12 +7133,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Pour ta sœur, ta mère, ta meilleure amie.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124812529486810",
+          "post_id": "1346239391904480_122124812553486810"
+        }
+      },
+      "publie_le": "2026-11-20T20:32"
     },
     {
       "id": "KC37-promo",
