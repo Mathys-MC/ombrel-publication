@@ -578,11 +578,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "Tu dépenses plus en cafés chaque mois.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069244703583480"
+          },
+          "published": {
+            "id": "17966909136213671"
+          },
+          "permalink": "https://www.instagram.com/reel/DgAp5ghlyXU/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeuQOQSfbHmBkTSMvAOQxJas3bPhFqF2NLBmfaa8-EMdccb7khdxKZeGUAqIEa1H14T8XtqFoE2M_PAJgK3cYEK4ujJ1MECMsbUcoZXsCVjyY7SCQSLVJh0j8FKU1z0CW3Z0YxHE_UdVd56F3qjKT3eQ4evQkKRgX1gpxb1NCcLVZroW0a3w0KFqp3IL-Wl6qFgWo"
+        }
+      },
+      "publie_le": "2026-11-21T17:25"
     },
     {
       "id": "RW030",
