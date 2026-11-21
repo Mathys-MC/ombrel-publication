@@ -909,11 +909,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Regarde combien de temps il met à payer.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069291647583480"
+          },
+          "published": {
+            "id": "17977010556179276"
+          },
+          "permalink": "https://www.instagram.com/reel/DgBJzIyFDA9/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aevm0zHFXwuKqj8ZuNgKyFewNeMV7vuE6fhk8nF86XLLJ3LoLmUZ-d30E81pW6YSAjPRhNB6rSRhLk0_QCIebnyLHtWfS-9oit8V35AZ3ybnABzb4kRZ2Pc79O53rAze8g1Mk3Klz9_IEPOPaHHRbFr9UrGycH4-FODhOC-nH1pfVS3z3zFl073FX7ODD4ZbjG3-g"
+        }
+      },
+      "publie_le": "2026-11-21T22:04"
     },
     {
       "id": "RW026",
