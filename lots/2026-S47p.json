@@ -55,11 +55,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Ce que ta poche ne protège pas.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069147200583480"
+          },
+          "published": {
+            "id": "18108302621371354"
+          },
+          "permalink": "https://www.instagram.com/reel/Df_yy-9FETE/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aesc0DYGmpsb7E8ePEAfTW74ThP9cnTPL0nuoSSWhvV4hsGsd4ckGy6hvB5np6LsLytJOTE-xqFPo-IFzRjdWacnNfbiUTHCCCwPCmks-QEOHwQ3uAHHGA2_cIPl0CtX9AnnyWlIhuq83xjLR7DuXr57HieDpjvD7Q2Y3OqoDqT6CoVj6r8QKufwlki6oJ8sX-PZr"
+        }
+      },
+      "publie_le": "2026-11-21T09:24"
     },
     {
       "id": "RV129-promo",
