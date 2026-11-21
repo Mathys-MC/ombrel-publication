@@ -721,11 +721,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Story : L'idée cadeau qu'il utilisera vraiment.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069265055583480"
+          },
+          "published": {
+            "id": "18134829623512731"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4035457266995040079"
+        }
+      },
+      "publie_le": "2026-11-21T19:00"
     },
     {
       "id": "RV214-promo",
