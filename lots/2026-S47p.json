@@ -250,11 +250,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Le moment le plus gênant à la caisse.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069174953583480"
+          },
+          "published": {
+            "id": "17929201035442930"
+          },
+          "permalink": "https://www.instagram.com/reel/DgAFOETjPTQ/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aev0toD5Bf7gJtle8ixUDyV3XjK1KzzolUd8No81n6bg8WR7pU2ObQSQ0XLIWMO4o-UhKnc4m8J0eptWnB3vS9TtEYVIvDrHhk7hOcP-M6dlgXP4GiJXWIfWWF6iEO0YH1ZG0jw2uGQIMntcPpv06QrH8dKrCh56mFU5ZzlPzzy009T_q-ipc5cZiAsTds38r3NX5"
+        }
+      },
+      "publie_le": "2026-11-21T12:05"
     },
     {
       "id": "KC42-promo",
