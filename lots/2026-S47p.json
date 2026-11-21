@@ -650,11 +650,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Ton portefeuille parle avant toi.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069254111583480"
+          },
+          "published": {
+            "id": "17918811750518479"
+          },
+          "permalink": "https://www.instagram.com/reel/DgAvXYZD__l/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeufTE9GK3yy76oJLz35EkO1KF3MnPfLxlLvtkaWJ-2V_Pa9ngrUP70s-HWiPwwYUqDbONIcy7Nz60dLV2WkkD9SSrhoQKaK2JIvkGBLp_agx8IraTzdUBI_--dDJOcTm38lfYbk3b6qarb4iiVkqVpD244Sp0tohIygma75rvEHVhKb5LlcFvnUNytcVqqzpoMUr"
+        }
+      },
+      "publie_le": "2026-11-21T18:13"
     },
     {
       "id": "KC49-promo",
