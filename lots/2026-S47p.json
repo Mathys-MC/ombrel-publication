@@ -18,11 +18,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "prix",
       "accroche": "49,90 €. Pour des années de poches légères.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069144083583480"
+          },
+          "published": {
+            "id": "17993858592075800"
+          },
+          "permalink": "https://www.instagram.com/p/Df_wHWklbc9/"
+        },
+        "facebook": {
+          "id": "122124932949486810",
+          "post_id": "1346239391904480_122124932991486810"
+        }
+      },
+      "publie_le": "2026-11-21T09:00"
     },
     {
       "id": "RV213-promo",
