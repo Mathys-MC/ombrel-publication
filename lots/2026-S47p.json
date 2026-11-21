@@ -945,11 +945,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "fouille",
       "accroche": "3 signes qu'il est temps de changer.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069294065583480"
+          },
+          "published": {
+            "id": "18363789577222799"
+          },
+          "permalink": "https://www.instagram.com/reel/DgBMgeYDywT/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetOB1lC4HCc11PeAfNrAIuMxCb-w8h1N9un-k4E1fMmjOok6nuj2vgldLG2cCRqjRJIksKbAvojb8bbV_EoP9EwlJgaFcpzoBOFlhSiwl39m8vXsKRvwCTrMl1-isbILRTvHaL2h64GYQW_6ZNCHLC6N1iIZWV3q86Q4gxXBpHSEUBarPpHcuW25kllOWGYmzz_T"
+        }
+      },
+      "publie_le": "2026-11-21T22:28"
     },
     {
       "id": "KC58-promo",
