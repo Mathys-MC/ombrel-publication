@@ -181,11 +181,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Story : Ce que ta poche ne protège pas.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069168866583480"
+          },
+          "published": {
+            "id": "18501713926108626"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4035225095711321250"
+        }
+      },
+      "publie_le": "2026-11-21T11:19"
     },
     {
       "id": "RV136-promo",
