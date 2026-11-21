@@ -322,12 +322,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "promo",
       "accroche": "OMBREL15 : garde ce code.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aeu5iSOe9l8q8XQqT8h_0rUq1kLWw8KZD5m7hhIZsiDyVHJJpyiI2TEjLDRKZQmCQNEiB0-Ir6eo44fwUn655dEa1VZE6GRBnzUJcfqA1dnjyKgQrKCttDuhwy_KkN0PWNWbD6sJBp1B21FPBiGKhf-CYzY96lE9FcWLyn6eHHB17kjfDsVVtY7VJ2PaDvBs6PyNi"
+        }
+      },
+      "publie_le": "2026-11-21T13:14"
     },
     {
       "id": "RV109-promo",
