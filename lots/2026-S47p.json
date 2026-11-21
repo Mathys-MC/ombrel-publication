@@ -789,12 +789,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Satisfaisant, non ?",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetWMDuBjguM6Q8GaKzngaTuSjGnmrpGo8beqRQgNHSi6o6hJNWm2OxZHGrGUPJvXnLzc6zIZOLgV7Jh06amY8JqlQcO-i9h0yTH8oGBF3U_v12sPFRlxojYFZvi_BP3lSLcEMvGXmg_ETqEzLEhhSwE0Wj-TtuGl0mmx3_6fAB0lbbIfLUKsjFiybkAFre5FAt4B"
+        }
+      },
+      "publie_le": "2026-11-21T20:09"
     },
     {
       "id": "SF14",
