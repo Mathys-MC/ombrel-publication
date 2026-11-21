@@ -126,12 +126,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Les tickets de 2019 n'ont plus rien à faire là.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124944841486810",
+          "post_id": "1346239391904480_122124944865486810"
+        }
+      },
+      "publie_le": "2026-11-21T10:09"
     },
     {
       "id": "KF23",
