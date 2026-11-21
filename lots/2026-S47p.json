@@ -286,11 +286,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "9,5 cm. Tout ce qu'il te faut.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069183731583480"
+          },
+          "published": {
+            "id": "17919898326544125"
+          },
+          "permalink": "https://www.instagram.com/p/DgAKkVUFO_H/"
+        },
+        "facebook": {
+          "id": "122124970119486810",
+          "post_id": "1346239391904480_122124970143486810"
+        }
+      },
+      "publie_le": "2026-11-21T12:51"
     },
     {
       "id": "RW028",
