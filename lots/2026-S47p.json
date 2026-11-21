@@ -873,11 +873,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Ton dos te remercie déjà.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069288110583480"
+          },
+          "published": {
+            "id": "17997816711022698"
+          },
+          "permalink": "https://www.instagram.com/reel/DgBHMufD7wA/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aeu-R4cZAZl4aapBgxIHyzu1-jIs-F6quTL4mfXvovVlLcke106sAmDw5DBfXaPmVm5cQKMR8vdHch0xMUuOsDUhk4CmSSJxGdZXYHGRp7MxNaiA4RMIpGjlHWlfW4sWSkF-qwLhAQE1c1_Uf5B6KcG9t-HlfM2_XZu7O_RWI-SIJiPQY4wNpFHP5dkYX9Yqrx_m_"
+        }
+      },
+      "publie_le": "2026-11-21T21:42"
     },
     {
       "id": "RV116-promo",
