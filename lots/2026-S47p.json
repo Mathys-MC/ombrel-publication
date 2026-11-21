@@ -421,12 +421,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Pas de poche monnaie. C'est voulu.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122124990795486810",
+          "post_id": "1346239391904480_122124990819486810"
+        }
+      },
+      "publie_le": "2026-11-21T14:46"
     },
     {
       "id": "RV139-promo",
