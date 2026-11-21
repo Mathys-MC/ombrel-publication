@@ -450,11 +450,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "« Mais j'ai trop de cartes. »",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069216497583480"
+          },
+          "published": {
+            "id": "18020281643974489"
+          },
+          "permalink": "https://www.instagram.com/reel/DgAaXrck8Df/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevT6H5bmTT30BoKlbR_5snFgYjL3fliNz8f-8CeKhDlZlrppBAgSqabtKCwow3D5aZ5ud5w_qh4R4e_PRUMrvd9zzb2ewIrkI5cQLc-zZ28-mNC9wl_eepc03zum99jrp8Js1-YtlH68ZjgEsNmxL5dIwIiqZh4hEzFBLk3qZf4dFLn3Tjl_ihE6r5vI1ZiH-SZW"
+        }
+      },
+      "publie_le": "2026-11-21T15:10"
     },
     {
       "id": "KF20",
