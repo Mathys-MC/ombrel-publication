@@ -514,11 +514,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Moins dans les poches, plus dans la tête.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069231902583480"
+          },
+          "published": {
+            "id": "17954684214325603"
+          },
+          "permalink": "https://www.instagram.com/reel/DgAiPWijxL0/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetehNqVeeo8CjVrz1kCnaQcCh4gAuN8FOF5az65bffDhAvA3ZsJvwZDaGeb0Hfiwu62Yy_VAhIuwHb6bxCVDXSb2WeJwgh5M4HVoWBlv7PJvQArZrQnia4rsMp22DoNIXRDAinV5CwxYDJ2okVMFcawm7Y-LfmHuIQntZIzYtk79Gw7YfCQF1Uf8L_9e01fKoekE"
+        }
+      },
+      "publie_le": "2026-11-21T16:18"
     },
     {
       "id": "SC17-promo",
