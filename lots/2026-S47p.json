@@ -686,11 +686,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Ton portefeuille parle avant toi.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069259244583480"
+          },
+          "published": {
+            "id": "18503506861103737"
+          },
+          "permalink": "https://www.instagram.com/p/DgAyETfHT7Q/"
+        },
+        "facebook": {
+          "id": "122125046319486810",
+          "post_id": "1346239391904480_122125046343486810"
+        }
+      },
+      "publie_le": "2026-11-21T18:37"
     },
     {
       "id": "SP-2026-11-21-2",
