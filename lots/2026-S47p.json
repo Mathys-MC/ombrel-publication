@@ -614,11 +614,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "monnaie",
       "accroche": "Tes pièces restent à part.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069248786583480"
+          },
+          "published": {
+            "id": "18122031050281484"
+          },
+          "permalink": "https://www.instagram.com/reel/DgAsx9XCvOh/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aeud8vfwIe1hUxrEB7IPZ_l-U8WUFdrIJnG9NYaQjGJeE2zzsATSRXB2bkde1mDnY7jbd6JgIfVcH0c2tqBfHY-MiE1FxkqKXBINivI0VuecHsgw_H72zLXQdPGPj-JgJOFGeCCrvGfR0578Xqu_lbWbqfnWuchcqu5PjkBrerTSM0-g-CQ9kMrKNrIL-LDdVVLkE"
+        }
+      },
+      "publie_le": "2026-11-21T17:51"
     },
     {
       "id": "RV145-promo",
