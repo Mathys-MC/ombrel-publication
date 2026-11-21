@@ -816,12 +816,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "couleurs",
       "accroche": "6 coloris. Lequel te ressemble ?",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125091517486810",
+          "post_id": "1346239391904480_122125091541486810"
+        }
+      },
+      "publie_le": "2026-11-21T20:32"
     },
     {
       "id": "KC53-promo",
