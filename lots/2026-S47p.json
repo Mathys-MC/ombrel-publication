@@ -214,11 +214,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Arrête de t'asseoir sur ton portefeuille.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069172115583480"
+          },
+          "published": {
+            "id": "18172151056465247"
+          },
+          "permalink": "https://www.instagram.com/reel/DgACjikDZVN/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AettW_qjCgkrM6mPmHk2KVuMIvRvtaecBQv4Ps5F_6I8YNDGblM3mY9Fm7-vSOMuf5YmGY-K1s4X3JjYIGnpcX5rP7OFMJq60XuYRW6EtnOW03M3gs43AaewjxpG1FPr75nSSQgyCSqHgCxhreGg23a62HFXJt3UOAQDPQUIYPO3a76oADiHNLcUA3p4k-P2FcZsP"
+        }
+      },
+      "publie_le": "2026-11-21T11:42"
     },
     {
       "id": "RV115-promo",
