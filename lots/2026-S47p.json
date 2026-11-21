@@ -91,11 +91,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Une pression. Neuf cartes.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069152624583480"
+          },
+          "published": {
+            "id": "18108455120209937"
+          },
+          "permalink": "https://www.instagram.com/reel/Df_1ZHyAfI4/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aes52UQXtTPsESkru7uXw5BV2LEKVBvL2d7Apg3hsdUfLpgMR35d4uZg07Z43n5BfR9L5F_9vmVBj7fG49QWUk6oJNg98JNVk_kehSnpSi4dRRra2nDNkHnNOKalw8ASE_Xl6CRaKNvCKQVefGHwpSQ6G1vKcaaM3sMmTvk7zldBGAhdyM3jSGhCA1MSx53ZsQXdq"
+        }
+      },
+      "publie_le": "2026-11-21T09:47"
     },
     {
       "id": "KC40-promo",
