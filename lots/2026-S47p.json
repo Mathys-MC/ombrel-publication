@@ -754,11 +754,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Ta carte sans contact, elle est protégée ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069269063583480"
+          },
+          "published": {
+            "id": "18124196482963433"
+          },
+          "permalink": "https://www.instagram.com/reel/DgA3WTrifir/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetDFMI57VVwQup7PLbpMsdu5tF0FYd7W3spGZx0jNyUkriNQe1Ho8XvWHgyakppm9i2CARxkAC7Wx3fQruu6LZRnuX66C8w0SPcRHAhxEUHKy4qvRdEtDDjzh-nzUs0nBY861sNamLwUbUIYsinkU07Uhf4bBJjA6ancBd-Vl1KfI7oISKXVmqswXkorCL7THy4g"
+        }
+      },
+      "publie_le": "2026-11-21T19:23"
     },
     {
       "id": "RV155-promo",
