@@ -1384,12 +1384,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Chaque matin, la même bosse.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125263969486810",
+          "post_id": "1346239391904480_122125263993486810"
+        }
+      },
+      "publie_le": "2026-11-22T14:46"
     },
     {
       "id": "RV156-promo",
