@@ -1717,11 +1717,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Combien de temps tu vas encore le supporter ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069508328583480"
+          },
+          "published": {
+            "id": "17983143924136172"
+          },
+          "permalink": "https://www.instagram.com/reel/DgDcIvIitZe/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aev9uQuZwo-zOo167BFvZtBe6R_wxfeHlgTyZru-e4NpDnC0W0qzl_wYn9DsQHRt7fztaSvavZwQauDd4oT90Ncv33jJ3v14fEPVxGVE_bS1u7oWYtUhdlyipsbExinCCO3DuTqdd66_HIHlfpi7DfLma7AwifQRVBZCKju2pF6B6gseF2aASuXqR-eRXswdX___3"
+        }
+      },
+      "publie_le": "2026-11-22T19:23"
     },
     {
       "id": "RV141-promo",
