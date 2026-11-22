@@ -1213,11 +1213,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Le portefeuille que tu oublies avoir.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069419642583480"
+          },
+          "published": {
+            "id": "18389428561236271"
+          },
+          "permalink": "https://www.instagram.com/reel/DgCqIvhCX7y/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetIxSJbKRXpoC5diVZRXrqJP-kUXbwlLQE8x6WpAFKPITWhXyHxZou0M_zb9Lwu3xnGzUddDyptFarBisyDazRjmtG65K75rnP54MluUBMzFvGgD6B3-ftDKOO7nvYP3bSSZoZSn8BAxdSsfsLmBGBKQddjAx4kkFfwolOHgwcG6lXM-s8GvSkjih41TKs4aFGrZ"
+        }
+      },
+      "publie_le": "2026-11-22T12:06"
     },
     {
       "id": "KC48-promo",
