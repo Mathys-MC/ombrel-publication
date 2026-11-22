@@ -1512,12 +1512,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Ce qui compte tient en 9,5 cm.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125292895486810",
+          "post_id": "1346239391904480_122125292919486810"
+        }
+      },
+      "publie_le": "2026-11-22T16:42"
     },
     {
       "id": "RV117-promo",
