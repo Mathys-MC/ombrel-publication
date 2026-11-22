@@ -1872,11 +1872,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Le détail qui fait la différence à table.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069531695583480"
+          },
+          "published": {
+            "id": "17965429152000570"
+          },
+          "permalink": "https://www.instagram.com/reel/DgDurgAmXLG/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevM9wMldeuj9pTUUMGfFaj82d-HTvGoD2X1DoxduVluRCsJuLEYAYOIhqPce4utzsxB_zo8YUfHGdz9ZXOSHk5QklbEK3yDj-82GGvVfKfVrHlHln-MOx661XPy8b2U_vH-sjtDLOFhSOZOzZDy80wf2zhP3e9Ft9jnjmruHvUMD2hCPQly28M8NBfAWbO7nj99t"
+        }
+      },
+      "publie_le": "2026-11-22T22:05"
     },
     {
       "id": "RW031",
