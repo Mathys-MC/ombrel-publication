@@ -1836,11 +1836,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Tout ce qu'il te faut tient en 9,5 cm.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069528257583480"
+          },
+          "published": {
+            "id": "17973751737233717"
+          },
+          "permalink": "https://www.instagram.com/reel/DgDr9coAvcI/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AesSzfybM6roclWg-Wr4_hOcVInC3_QZuv9PmBHv7syYYCh-1UTo2OKus1ySnVeYp7vCGGuFLZbNW7XRZpSe-2rgAhfeWio_ZNcrEziE9tETlJrAW5DXQ-YG3pIRgSjaC7bI6drGouvHFyR4wNz3xJC8NI32LUZWe49kUhB_ZjoEM9uafO7eEd5YCBqwDkhC0NmJv"
+        }
+      },
+      "publie_le": "2026-11-22T21:41"
     },
     {
       "id": "RV147-promo",
