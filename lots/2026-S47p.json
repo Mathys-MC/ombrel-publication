@@ -1752,12 +1752,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "On doit te dire ce qu'il ne fait pas.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aeu8y__p38dPxbtlUiS3NWhSsIRn61gBGFEIavsBfLGjCZsq9MPV5BUWGy01hle0bGpl3VWYC0p6WMxN_rb1Lp4i468h2jTc3W0fxB4Bvmh7HcD7GDGMcqneuDzTHMlUaRpvcmSupgzxWM1MtTWG-WSUQfzvIx-UfW8atPX5cFjgjwA9Iju7fOqJdtv-tqoqkMaG0"
+        }
+      },
+      "publie_le": "2026-11-22T20:09"
     },
     {
       "id": "KF25",
