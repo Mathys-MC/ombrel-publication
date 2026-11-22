@@ -1349,11 +1349,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Tu caches ton code au distributeur. Et ta carte ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069438782583480"
+          },
+          "published": {
+            "id": "18321082090304439"
+          },
+          "permalink": "https://www.instagram.com/reel/DgC3YAYj1Lw/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aetkq6y2jYTX3jHKqrqIaPDhxs-FyMtxpLvYyoAhYw9AJdtaIsDOcxoyaJVn4Wd3OjOVemIwircMHZZXfr7hLChcEmIIc3S9UNZz6USDBk24TSSKcM6RZJWOzZKfr_zqeXjD_tAnVwQU7ph3lUgmeEafS_1ykxIrnVUGbFlDTKZ3KYLfQ9YN__OagVbl8XiL7gPTG"
+        }
+      },
+      "publie_le": "2026-11-22T14:02"
     },
     {
       "id": "KC50-promo",
