@@ -981,11 +981,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Le portefeuille arrière, c'est fini.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069388883583480"
+          },
+          "published": {
+            "id": "18172745224477554"
+          },
+          "permalink": "https://www.instagram.com/p/DgCU7uIERAT/"
+        },
+        "facebook": {
+          "id": "122125204011486810",
+          "post_id": "1346239391904480_122125204035486810"
+        }
+      },
+      "publie_le": "2026-11-22T09:00"
     },
     {
       "id": "RV110-promo",
