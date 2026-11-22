@@ -1649,11 +1649,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Trop petit ? Fais le test.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069499205583480"
+          },
+          "published": {
+            "id": "17988033539896100"
+          },
+          "permalink": "https://www.instagram.com/p/DgDW3XVoY1F/"
+        },
+        "facebook": {
+          "id": "122125322589486810",
+          "post_id": "1346239391904480_122125322613486810"
+        }
+      },
+      "publie_le": "2026-11-22T18:37"
     },
     {
       "id": "SP-2026-11-22-2",
