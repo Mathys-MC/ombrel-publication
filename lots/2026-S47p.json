@@ -1577,11 +1577,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "sac",
       "accroche": "Ton petit sac va enfin respirer.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069491270583480"
+          },
+          "published": {
+            "id": "17971337823189962"
+          },
+          "permalink": "https://www.instagram.com/reel/DgDRkB9iFfS/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeuNffpSmuSM6Y5LRWBxMbrSbKjjZj-0ndx0IEU_e3YIB5VGYuLe7ZAtqtPhHB6amUz7FXyMr2fqzJcksQ_DKOjyt7k2Pqn7v1aw4l4LPn6PIxUYLIpuq_v8J48KgbBQO3nZ8Ql-YYr3C1-hEQ7A8MXEiba8VRR6iRTskF3Ypm58mbBea52HAnKquMF_UPk8J9Mat"
+        }
+      },
+      "publie_le": "2026-11-22T17:51"
     },
     {
       "id": "RV111-promo",
