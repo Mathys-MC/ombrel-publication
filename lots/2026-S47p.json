@@ -1613,11 +1613,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Tu ne sais jamais quoi lui offrir ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069495170583480"
+          },
+          "published": {
+            "id": "18190124812423407"
+          },
+          "permalink": "https://www.instagram.com/reel/DgDUKPYijTZ/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AesEE9gfe7IUDBvEY1Nbs08CyErv0ddDUfEfENJ_JF_NHNzkpJH6yWmgVQQZQTtbb9uD3ql7QmrI20ntD7qIqh7kB-ylmXeOodYUKxtB_7cZnNMjUK1BF24Yo6BkC77nPH0VQ84Xxhu2ZVQRXVQmR7C9PGYMOfPxPCQ3RLIEPhkZ2UPbGS6p_eJgJiN8OjT_d-P7g"
+        }
+      },
+      "publie_le": "2026-11-22T18:13"
     },
     {
       "id": "KC55-promo",
