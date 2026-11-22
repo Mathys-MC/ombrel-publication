@@ -1117,12 +1117,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Pochette, rouge à lèvres, Croco. C'est tout.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125227507486810",
+          "post_id": "1346239391904480_122125227531486810"
+        }
+      },
+      "publie_le": "2026-11-22T11:19"
     },
     {
       "id": "SP-2026-11-22-1",
@@ -1137,11 +1144,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Story : Noël arrive plus vite que tu crois.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069410252583480"
+          },
+          "published": {
+            "id": "18040119650889970"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4035950262627850641"
+        }
+      },
+      "publie_le": "2026-11-22T11:20"
     },
     {
       "id": "RV140-promo",
