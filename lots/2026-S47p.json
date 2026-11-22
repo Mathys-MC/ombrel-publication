@@ -1413,11 +1413,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Le mécanisme, vu de près.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069453293583480"
+          },
+          "published": {
+            "id": "17930395365435361"
+          },
+          "permalink": "https://www.instagram.com/reel/DgC_I-KHKeJ/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetdTEdrQ-rRDmEMXqGWgAV67hOt_239gDdbLQ6Fu1zL2q2-QKKoJCvGpk7zgJ1QnCevwoyE6jTTKFpMeWJfwQfYvWi6mcrJy0bz25GDxlkWHiQMphl-svwj1QqX1gNyGQVOpRU_iyI_jucQf-s3Qm_EmxrjRlRZGgouUpU1KrsWVWZuquOLzNfHWKAVzhtMg-7GG"
+        }
+      },
+      "publie_le": "2026-11-22T15:10"
     },
     {
       "id": "KF21",
