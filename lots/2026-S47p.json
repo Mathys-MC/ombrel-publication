@@ -1908,11 +1908,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Le cadeau pour ta mère qui a « tout ».",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069536195583480"
+          },
+          "published": {
+            "id": "18117854666048490"
+          },
+          "permalink": "https://www.instagram.com/reel/DgDxSDwga5c/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevP7RB5pJ_YkzlCVxuqOxZ1RYH935kw2ePI086HWZ4P0NOWsC6HuXrBiTmRsBppFW4_tBHHKv6yMA9oJenZCDY9q4A_8UfcXXpEH9LODf-TMzwLCQ_39YqlmImNORDPlQ8IvXR5_HMQevFJnlTVHvLUyYHnyWDqtRe72eiV_FnH9sfNCbA8pxele5RB4YQopyJot"
+        }
+      },
+      "publie_le": "2026-11-22T22:28"
     },
     {
       "id": "KC60-promo",
