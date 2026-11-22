@@ -1285,12 +1285,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "organisation",
       "accroche": "Chaque chose à sa place.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevnOg28q_6eOeRB0l0zZv1MlC5wD5NYRyrxzsV_kwXQcc6ZJkvOAz2czHS0soZgcTRQjbnLSt4l5vm-MMkjc4jtDjsNg2ZTUHQwSkzwjqZizZmuVz74HB74Ixj2jaj1__VzJSBh1rKiPBDTXDXOzid8dmxq-ji4T8S7XWabF5cQTNgZeH762B4D-6TToA0ChdAi8"
+        }
+      },
+      "publie_le": "2026-11-22T13:14"
     },
     {
       "id": "RV146-promo",
