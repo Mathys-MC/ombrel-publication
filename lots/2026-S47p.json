@@ -1981,11 +1981,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Protégé sans y penser.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069625322583480"
+          },
+          "published": {
+            "id": "17927039586217788"
+          },
+          "permalink": "https://www.instagram.com/reel/DgE8XxtGfY9/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeueW-05yA97gQOpGmVC_vpBxfNrLMxH-R9CY1CJUrzc7aPr3DoUSsgdtu-QTPAckfEz85CiZXWngafJUJeZ73G4BbYe4fa4aAeUl5dUKxBOlmG60epGhWBRNyiSlLNPg0m-1Cn2zFDE6LlrgK_tSc5rS9gabGtwZawdtA8_aA39c0ysz3qIBkD6Vo-v3OIvMtx3p"
+        }
+      },
+      "publie_le": "2026-11-23T09:24"
     },
     {
       "id": "RV173-promo",
