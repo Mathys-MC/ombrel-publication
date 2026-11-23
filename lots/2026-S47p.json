@@ -2725,11 +2725,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Le ticket de 2019 est toujours là, avoue.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069756857583480"
+          },
+          "published": {
+            "id": "18110242691640627"
+          },
+          "permalink": "https://www.instagram.com/reel/DgGTlHdk0dq/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevwIQauPOBG4gOfrDvMVMIsScr-zOMRENVXywR4pw_DuEO4GV4h34MKj-Ft_ZAb4wqZQYctWNH8FP2r_hJ96CuUmRt90UoXr1zSw0QHBJMW97b3IHWcFJIRiFww_pM-Vr86RI45V5SVVEbeD0BmG-cPd9TeQLS4I_bv35Jj-X9_Ta_93s-OiC_BlhszBg2IlIqtr"
+        }
+      },
+      "publie_le": "2026-11-23T22:06"
     },
     {
       "id": "RW046",
