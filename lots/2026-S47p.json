@@ -2107,11 +2107,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "rfid",
       "accroche": "Story : Protégé sans y penser.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069644129583480"
+          },
+          "published": {
+            "id": "18036111413884890"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4036674203725713443"
+        }
+      },
+      "publie_le": "2026-11-23T11:18"
     },
     {
       "id": "RV165-promo",
