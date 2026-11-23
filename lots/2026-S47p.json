@@ -2212,11 +2212,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Ta poche arrière va te dire merci.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069661382583480"
+          },
+          "published": {
+            "id": "17960846280295578"
+          },
+          "permalink": "https://www.instagram.com/p/DgFUID7lQDs/"
+        },
+        "facebook": {
+          "id": "122125491369486810",
+          "post_id": "1346239391904480_122125491393486810"
+        }
+      },
+      "publie_le": "2026-11-23T12:51"
     },
     {
       "id": "RW040",
