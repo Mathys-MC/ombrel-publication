@@ -2276,11 +2276,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Il dit qu'il n'a besoin de rien.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069668591583480"
+          },
+          "published": {
+            "id": "18122360744079703"
+          },
+          "permalink": "https://www.instagram.com/reel/DgFZWlpCH8L/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeunPxJcDewN-QISBGjQ6qHVCH8I4xjcrtfOkLYaPp1B_OHMXnWhDxfuR4mXeInZmx0oP2UmmYdripO7meHG92nyP-hDa3zyMebZrDYivPsYwPIePfQ6ryJ1nvWhFxCQLSeAP8khKpGiZ_1cOQtDzypwPU1jt6rbmR3ijajetLKp8DNxPNXQnKMcnS8EpQaZ8zEw9"
+        }
+      },
+      "publie_le": "2026-11-23T13:37"
     },
     {
       "id": "RV148-promo",
