@@ -2761,11 +2761,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "monnaie",
       "accroche": "Les pièces entre les cartes, c'est terminé.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069759791583480"
+          },
+          "published": {
+            "id": "17873641131685023"
+          },
+          "permalink": "https://www.instagram.com/reel/DgGWEANjTmC/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeuqtKLRAWsy_UXfa4vaVdvAdZfNG4XqSKJHbALYYFBdVq-L8o24pUvkb6IG0VvQVTsJtNDvQQXZ2o-hYUP8VxrqvOo-83a71pkNK_GOWN-K9tHaL9MTeofir0kBUigdrQko4mCg1q59gLwf7UzIFsppZxAnS5DDS6NrF3v5wRvanwpkyS2sElgOKnpKd0Nw3i0X3"
+        }
+      },
+      "publie_le": "2026-11-23T22:28"
     },
     {
       "id": "SC06-promo",
