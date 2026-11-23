@@ -2052,12 +2052,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Tout ce qui rentre dedans.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125466187486810",
+          "post_id": "1346239391904480_122125466211486810"
+        }
+      },
+      "publie_le": "2026-11-23T10:09"
     },
     {
       "id": "KF26",
