@@ -2411,12 +2411,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Elle le sortira tous les jours.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125514661486810",
+          "post_id": "1346239391904480_122125514685486810"
+        }
+      },
+      "publie_le": "2026-11-23T15:32"
     },
     {
       "id": "RV154-promo",
