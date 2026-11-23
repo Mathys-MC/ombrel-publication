@@ -2440,7 +2440,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Les hommes qui voyagent léger font ça.",
@@ -2460,7 +2460,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Pas d'idée pour Noël ? On en a une.",
@@ -2482,7 +2482,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Les hommes organisés ont tous ce détail.",
@@ -2503,7 +2503,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "croco",
       "theme": "promo",
       "accroche": "-15 % sur le Croco, jusqu'au 30 novembre.",
@@ -2524,7 +2524,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Regarde ce qui se passe quand j'appuie.",
@@ -2545,7 +2545,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Combien de temps tu vas encore le supporter ?",
@@ -2564,7 +2564,7 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Story : Il dit qu'il n'a besoin de rien.",
@@ -2585,7 +2585,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Le geste que font tous les hommes… et qu'ils regrettent.",
@@ -2605,12 +2605,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Payer en 3 secondes, c'est possible.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AesKDMXObT1u1DT5GICvCin_2xHzpiq9e69jMCL-p34R2zobPsHqEtbwZXsmZ38UQqUQMRgPva0ieUwoypK_2_6UNvbobAjLruH1hd9V0xGm8vgw9sfUfaLoo4LfNBPBOFvuqmeUfLWs2UHnj8ArDzEtkGjuStXhQLXqbn85COK3Okwicwgza-e9wMO3OdODGea4U"
+        }
+      },
+      "publie_le": "2026-11-23T21:34"
     },
     {
       "id": "KF30",
@@ -2626,12 +2632,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "monnaie",
       "accroche": "Ton appoint, toujours sous la main.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125616319486810",
+          "post_id": "1346239391904480_122125616349486810"
+        }
+      },
+      "publie_le": "2026-11-23T21:34"
     },
     {
       "id": "KC64-promo",
@@ -2647,12 +2660,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Léger comme 100 g.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125616409486810",
+          "post_id": "1346239391904480_122125616451486810"
+        }
+      },
+      "publie_le": "2026-11-23T21:34"
     },
     {
       "id": "RV143-promo",
