@@ -1944,11 +1944,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Il y a ceux qui fouillent. Et les autres.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069620801583480"
+          },
+          "published": {
+            "id": "18148446697599427"
+          },
+          "permalink": "https://www.instagram.com/p/DgE5r-7lkBV/"
+        },
+        "facebook": {
+          "id": "122125456719486810",
+          "post_id": "1346239391904480_122125456743486810"
+        }
+      },
+      "publie_le": "2026-11-23T09:00"
     },
     {
       "id": "RV246-promo",
