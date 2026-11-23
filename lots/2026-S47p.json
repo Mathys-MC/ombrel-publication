@@ -2312,11 +2312,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Ouvre ton portefeuille. Maintenant.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069672683583480"
+          },
+          "published": {
+            "id": "18586113430073000"
+          },
+          "permalink": "https://www.instagram.com/reel/DgFcFRtFWy9/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetGCVwfR0fNuaWXOelb35PPo51ZMMs9yZ1zz1tt-Q9C-x3NLIpQ17seU0pBhzBJ0ERkGMlsKYnrkpCgKVeGfGF31s3zyjWA2qy9BwfkGHS9XNgk5xOe543tOTYbh0-_HN8pXWRUiAkcs4MLG0GycJAzFHmPkIl3GgezjPE-EPT982bHU4kaYVYez4nzRFoJiCLVV"
+        }
+      },
+      "publie_le": "2026-11-23T14:01"
     },
     {
       "id": "KC65-promo",
