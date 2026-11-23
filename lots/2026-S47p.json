@@ -2376,11 +2376,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Et les billets, alors ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069688106583480"
+          },
+          "published": {
+            "id": "18127188623290551"
+          },
+          "permalink": "https://www.instagram.com/reel/DgFj8uPlNjL/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetnwEOjHy7V8QLaG4Idf8-lMFyhnUcmbV557QgfwvU9lLNoDNNgwfn2cZ5ONso32VocSm6otwDvUFJHD3HIGBWsV_xVcOjvLtPjm8iYuX73I6lFRgfa4UsO81FPCzblUxrrVwjODh4PV6UdSLNAd37XYJu6KsQniNBc0zBCGphErCb7Y3uMXaVni7yafUomC_0W-"
+        }
+      },
+      "publie_le": "2026-11-23T15:10"
     },
     {
       "id": "KF24",
