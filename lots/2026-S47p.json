@@ -3342,11 +3342,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Pas de poche monnaie. Voilà pourquoi.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069931265583480"
+          },
+          "published": {
+            "id": "18134653286492985"
+          },
+          "permalink": "https://www.instagram.com/reel/DgIYq0Ej5D4/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevEuERRzUdwwsFY5P2-qxZcbadiCDbS351gCBWLszy1GC93KzEeN-fX05zkVtpI4cH3CIQM8xE7dG_q6FemovCR50ziNd2aGd8w69MG3MI32U8_eeplgnD2ZG-fNR5Tqss4EYNGy3N4k8txlMbYnZnFL8K_04WWgZI42oGjcG79tN2VG1DO0N_uFmi9DJJ7meWps"
+        }
+      },
+      "publie_le": "2026-11-24T17:29"
     },
     {
       "id": "RW035",
