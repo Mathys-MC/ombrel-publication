@@ -3229,7 +3229,7 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "en_retard",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Pour l'homme qui a déjà tout.",
@@ -3249,12 +3249,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Le mini qui suit tes soirées.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125780581486810",
+          "post_id": "1346239391904480_122125780605486810"
+        }
+      },
+      "publie_le": "2026-11-24T17:26"
     },
     {
       "id": "RV150-promo",
@@ -3271,11 +3278,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Ce que ton vieux portefeuille dit de toi.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069930860583480"
+          },
+          "published": {
+            "id": "17999042831841520"
+          },
+          "permalink": "https://www.instagram.com/reel/DgIYZ_LIIvv/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AesuHl1zWE4x-di-Ig74Kyri17HcPLMDF3wy6dzZTtSwD9rc5P6PFQWefN80PV-on4pOfhcA6lUZA6VLZ-ZNVqd3P7kVxk94IgIx0XsjIQGrj1ciObD91v_CT31AYUmYuqMaiXx0reZmwbxFU1mlRdlC-G1oSRbUGeTlfnBI7iWTZS2W3kubpvBvtoqsIOo4iifoc"
+        }
+      },
+      "publie_le": "2026-11-24T17:27"
     },
     {
       "id": "SC02-promo",
@@ -3291,12 +3313,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "À la caisse, tu appuies. C'est tout.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125780737486810",
+          "post_id": "1346239391904480_122125780767486810"
+        }
+      },
+      "publie_le": "2026-11-24T17:27"
     },
     {
       "id": "RV191-promo",
