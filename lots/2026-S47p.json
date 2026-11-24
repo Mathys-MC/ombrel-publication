@@ -2960,11 +2960,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Story : Avant d'acheter un porte-cartes, regarde ça.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069864590583480"
+          },
+          "published": {
+            "id": "17918359596514364"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4037399316536306119"
+        }
+      },
+      "publie_le": "2026-11-24T11:19"
     },
     {
       "id": "RV170-promo",
