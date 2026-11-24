@@ -3065,11 +3065,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Une pression. Neuf cartes.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069878945583480"
+          },
+          "published": {
+            "id": "18103909358533468"
+          },
+          "permalink": "https://www.instagram.com/p/DgH4_bmke2g/"
+        },
+        "facebook": {
+          "id": "122125738077486810",
+          "post_id": "1346239391904480_122125738101486810"
+        }
+      },
+      "publie_le": "2026-11-24T12:52"
     },
     {
       "id": "RW042",
