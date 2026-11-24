@@ -3518,11 +3518,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Ton portefeuille parle avant toi.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069950501583480"
+          },
+          "published": {
+            "id": "18079913177780835"
+          },
+          "permalink": "https://www.instagram.com/reel/DgIlw7eE44j/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevKtsxX5woKgdtatOtmZ3b1GfNfE5GGtWKwkKZAmfawneZ12E2qbbSR28Q6PjnSkOrUukwKzH5C9nNmYsvG8Zv0Fd-Qx6D7pOs1vklFhhTe4WCHGbVn-rSvTKo8v8HDOLL-XYQMLtsPsGqDeNT-vANN6fMgyNwAhmgAbbbO1HkfqeHUCZkPZXFJReUULDeZd-GDj"
+        }
+      },
+      "publie_le": "2026-11-24T19:23"
     },
     {
       "id": "RV212-promo",
