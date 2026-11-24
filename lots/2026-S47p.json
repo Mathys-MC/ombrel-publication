@@ -3378,11 +3378,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "organisation",
       "accroche": "Ce qu'il y a dans mon mini portefeuille.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069935720583480"
+          },
+          "published": {
+            "id": "18107288015643268"
+          },
+          "permalink": "https://www.instagram.com/reel/DgIbJoujmQk/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aesw8CYTuHW5DYa4mQMXQx-NfI-a0_x1pL25W5J8jmyZfeGN85dLIRCu039sK0cgPomQr-g9V0GzHyU9-LX1_Nk94xbZ-SExpt25tHWmImgazueBq8tX-0PXahhJu8kErRPuXKNG6KfOlJ1Q9nHD_RltqPWbFsXwDwvMSbkejUZw1SWuUnEsl3JkwNLk94HeQEK0M"
+        }
+      },
+      "publie_le": "2026-11-24T17:50"
     },
     {
       "id": "RV178-promo",
