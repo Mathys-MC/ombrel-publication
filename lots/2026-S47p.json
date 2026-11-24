@@ -2933,12 +2933,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "organisation",
       "accroche": "Le motif croco cache les petites marques.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125710717486810",
+          "post_id": "1346239391904480_122125710741486810"
+        }
+      },
+      "publie_le": "2026-11-24T10:55"
     },
     {
       "id": "SP-2026-11-24-1",
