@@ -3200,12 +3200,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Ici, ça fait une bosse.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125757181486810",
+          "post_id": "1346239391904480_122125757205486810"
+        }
+      },
+      "publie_le": "2026-11-24T14:47"
     },
     {
       "id": "RV144-promo",
