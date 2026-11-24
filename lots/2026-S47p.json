@@ -3414,11 +3414,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Clés, téléphone, Carbone. Rien d'autre.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069939605583480"
+          },
+          "published": {
+            "id": "17971370004235158"
+          },
+          "permalink": "https://www.instagram.com/reel/DgId2OIjZ_i/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AesF2AnHMsWIkRxqPybTEF_VpuX02lPKdP9YrLGKdVopPXymJQeJ0Xuth-5oIgY6kPj8vKRimdjIeTrPDXjn-voSoCPIzyDc0jGq4CPPGYrJpLIiIiO3ihpYzu_f1OYmCE3I6gg1pJylH3e_Ym03xROFnhkPXnV9OT8S7f9NgukKZ2QhF5uLJW_XzGON_0B76tpMV"
+        }
+      },
+      "publie_le": "2026-11-24T18:14"
     },
     {
       "id": "KC63-promo",
