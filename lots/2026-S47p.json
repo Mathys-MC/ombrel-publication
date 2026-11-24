@@ -2797,11 +2797,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "On doit vous dire la vérité.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069842087583480"
+          },
+          "published": {
+            "id": "18188118376426332"
+          },
+          "permalink": "https://www.instagram.com/p/DgHedCTnAdK/"
+        },
+        "facebook": {
+          "id": "122125699179486810",
+          "post_id": "1346239391904480_122125699203486810"
+        }
+      },
+      "publie_le": "2026-11-24T09:00"
     },
     {
       "id": "RV160-promo",
