@@ -3450,11 +3450,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Pour l'homme qui garde le même depuis 15 ans.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069942929583480"
+          },
+          "published": {
+            "id": "18181582624442838"
+          },
+          "permalink": "https://www.instagram.com/p/DgIgbwaltlM/"
+        },
+        "facebook": {
+          "id": "122125800585486810",
+          "post_id": "1346239391904480_122125800609486810"
+        }
+      },
+      "publie_le": "2026-11-24T18:36"
     },
     {
       "id": "SP-2026-11-24-2",
