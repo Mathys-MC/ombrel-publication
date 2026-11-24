@@ -3637,11 +3637,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Arrête de t'asseoir sur ton portefeuille.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069969557583480"
+          },
+          "published": {
+            "id": "17960489844270593"
+          },
+          "permalink": "https://www.instagram.com/reel/DgI1pOvErir/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetvX_D3AxBFMFDf3wYcYd1GvrZ6AMFpXg4Aw6p_CH0_fBOxXXSykjq3Oh8C9etLBELwCYNaG87dscy3rjiEbdrN-wPGKsp2D7vRtqnN-jGNDXN8SdvXK4hzcEKA7R3tgyxInEQDd6Y3AodFAFzn6ooh39bSbMvilYFue6INq1sz2wTKg8FRb4g7Iba-LjnOoQZYr"
+        }
+      },
+      "publie_le": "2026-11-24T21:42"
     },
     {
       "id": "RV180-promo",
