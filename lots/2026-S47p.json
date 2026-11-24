@@ -3029,11 +3029,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Une pression. Neuf cartes.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069870734583480"
+          },
+          "published": {
+            "id": "18103861178393194"
+          },
+          "permalink": "https://www.instagram.com/reel/DgHzoi9jGeq/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aevv5CGpUxg7tx4JrsyznyyigJmo0Qr1YVSzNHDI617hasuvATqee4I6J2Hn_ixJoW_Jd5RItvaT2iZVlV-BIZFatUjcvvsUoL80iVlB6cK9foMk4545FAotw7tp-O0vAXR290T5soNt-R9AqG0TE8XHnfGHe9FkKK_4QMirU7R7IST8p6iYfDoCDV6MOwfF0C65q"
+        }
+      },
+      "publie_le": "2026-11-24T12:05"
     },
     {
       "id": "SC16-promo",
