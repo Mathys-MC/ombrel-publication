@@ -3129,11 +3129,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Poche arrière : la pire place pour un portefeuille.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069888092583480"
+          },
+          "published": {
+            "id": "18099293132445785"
+          },
+          "permalink": "https://www.instagram.com/reel/DgH-OPolL81/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aes0AtSOPBlBYjDdSOb5h_bSCYif39v3L9LMubawge2XrP3kOdf3_UMr9KflTYeKAzrn7ZhnBHfbiSX6vBRiO1wpwTrC-EUHr2ONXz3WICQuLhutuIPJMf8oSGxE_Gvg63nYU9u0ntFq0shymKC334X5LqPssY_3beYrfdCeaxDu6fZmJ5mO71TVyyNgM7EGfdpgp"
+        }
+      },
+      "publie_le": "2026-11-24T13:38"
     },
     {
       "id": "RV179-promo",
