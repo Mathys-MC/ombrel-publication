@@ -3485,11 +3485,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Story : Poche arrière : la pire place pour un portefeuille.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069946028583480"
+          },
+          "published": {
+            "id": "18400108732162600"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4037631030449919708"
+        }
+      },
+      "publie_le": "2026-11-24T18:59"
     },
     {
       "id": "RV203-promo",
