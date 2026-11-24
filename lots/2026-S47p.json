@@ -2993,11 +2993,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "On remarque ça chez un homme.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069868097583480"
+          },
+          "published": {
+            "id": "18063762656548988"
+          },
+          "permalink": "https://www.instagram.com/reel/DgHw625Ac14/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevY7oxUQk65L9mv_u81ifPbN8RWoCiGCOy63ufbA6C_sYX5gn7Z6cGI1-IS5s1k1Dg1pd-U66mvdy_t-voGIcko44wHakaI8HGN2PYJqJ5Vk0DV-hSaMBXJwQVRo6vNIFWZ2jmlm_Rn9021HEF7AlyeSu_0OUssYCG9caR-tLWwQ4MWi2qluRedMeRO6XmIGsJSW"
+        }
+      },
+      "publie_le": "2026-11-24T11:41"
     },
     {
       "id": "RV211-promo",
