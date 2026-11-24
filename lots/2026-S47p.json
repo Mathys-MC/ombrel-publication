@@ -3709,11 +3709,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "sac",
       "accroche": "Change de sac, pas de portefeuille.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069976796583480"
+          },
+          "published": {
+            "id": "18055219604604401"
+          },
+          "permalink": "https://www.instagram.com/reel/DgI69M8Dfnd/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeuoNZxSD6A9EnkO9rLLAn_ypw2Vnm2DkU8lWQO42Ug0yrE_LHgzzLmrlLTEeW__sHBzM-7QXqvagTLCk4YyNMbG0eITSKArCRC-OnAxH7UrZOPK-MC8QqtwJEbGQX8BH6mDXRQBwVRig1r6gX_04JArwpmZbw0klaCz-g2Ni-xbqsy5wbYJTbdHEXm4oX9YtHQ-z"
+        }
+      },
+      "publie_le": "2026-11-24T22:28"
     },
     {
       "id": "SC03-promo",
