@@ -2834,11 +2834,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Avant d'acheter un porte-cartes, regarde ça.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18069845630583480"
+          },
+          "published": {
+            "id": "17941204488404345"
+          },
+          "permalink": "https://www.instagram.com/reel/DgHhRMWlCIx/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AesTqEf62H5EtiXWmlWZ2EwheAXUUsz4d_BupX54u8WJbYyz6rP0OWCfX7wH5lBrYknACJ6Zw5ncYzbV2RmndXxTR27v5NL5JmdCWoh2T9usNEjKp5yHDYtW7-q4zQ26qcY8pueX-m5XQqVRzFoGPQkyCC8AoYZCWrh2PyjIqrZ3d3GNYEumOEfBsS7bGMSll6he3"
+        }
+      },
+      "publie_le": "2026-11-24T09:25"
     },
     {
       "id": "RV177-promo",
