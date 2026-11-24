@@ -3101,12 +3101,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "fouille",
       "accroche": "Fini de fouiller au fond du sac.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetxnPMCeGTV_CZcR85Bqxw8AtqRrZg9Ihf3TTq_lo9PHI7PrDMbp2oTP-OecmnHYdwyx4zWlSM2TV35pPt6jAYvf3-tvZUZxhUc1Rt-IkqSEv9kXBralRbcMvQ-cBCogj2e6DZRfGHlZepNWBGaWRANi6rQESmaJwY7VhizpV4_lviTQgEQ-LZdUwsgaj9RBLgen"
+        }
+      },
+      "publie_le": "2026-11-24T13:14"
     },
     {
       "id": "RV181-promo",
