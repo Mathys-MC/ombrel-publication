@@ -4305,11 +4305,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "L'idée cadeau qu'il utilisera vraiment.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070143095583480"
+          },
+          "published": {
+            "id": "17916186987560383"
+          },
+          "permalink": "https://www.instagram.com/reel/DgK6tGHAJ-B/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetSe6Rq1Idv5YSrP2it4zgUe4mejIfwrr-pWFZ9y019EbflelaARqn-uoVnH5a8xCENUTj56GfUWC7-NyBdPA-tT3oT4UxKYgDyAhH-qztr2W28t2SpD4CedQmKZhQZoRNLJg-DMclJrZQcpawACvovJguYZM-xjB3xHoOZPY4XR27mLeNxLPRa5iNdnOQVvvwMr"
+        }
+      },
+      "publie_le": "2026-11-25T17:05"
     },
     {
       "id": "RW047",
