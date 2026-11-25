@@ -3881,12 +3881,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "sac",
       "accroche": "Il passe d'un sac à l'autre en 2 secondes.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125925691486810",
+          "post_id": "1346239391904480_122125925715486810"
+        }
+      },
+      "publie_le": "2026-11-25T11:29"
     },
     {
       "id": "SP-2026-11-25-1",
@@ -3901,11 +3908,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Story : Son portefeuille a 15 ans. Toi aussi tu l'as remarqué ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070078757583480"
+          },
+          "published": {
+            "id": "17972178447215779"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4038129937071693106"
+        }
+      },
+      "publie_le": "2026-11-25T11:30"
     },
     {
       "id": "RV192-promo",
