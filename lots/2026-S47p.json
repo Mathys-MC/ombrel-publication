@@ -4212,12 +4212,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "fouille",
       "accroche": "Fini de fouiller au fond du sac.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125956999486810",
+          "post_id": "1346239391904480_122125957023486810"
+        }
+      },
+      "publie_le": "2026-11-25T15:32"
     },
     {
       "id": "RV183-promo",
