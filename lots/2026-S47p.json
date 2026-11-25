@@ -4113,11 +4113,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Le mécanisme, vu de près.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070106681583480"
+          },
+          "published": {
+            "id": "18342694045258116"
+          },
+          "permalink": "https://www.instagram.com/reel/DgKlnbHTWpE/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aevvnps-UAWgekaqEPkCsMUlmLDk_EKX8wdsXZWgsIFqAoeCU5zjCa3fKGEIO-HBnwDTKnyodOA38yETQqHjpM33JnaKX15-nnyuqGVcHWtld282SVQ5A8Hme6jD1PkVh06DeUFWsNu1_0BF8H2faIzqu5kfmobDhXHQI8CPgwkDnNg5cMybKfweh_B-93UJhiYlT"
+        }
+      },
+      "publie_le": "2026-11-25T14:00"
     },
     {
       "id": "SC24-promo",
