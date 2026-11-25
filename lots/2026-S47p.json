@@ -4672,11 +4672,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "promo",
       "accroche": "Tu attendais le bon moment ? Le voilà.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070185479583480"
+          },
+          "published": {
+            "id": "18120599080821775"
+          },
+          "permalink": "https://www.instagram.com/reel/DgLfoSkh0XL/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetjJ3B4OQX71nyDZADNqIlqeGIHvp_DmqUZRFn0GPhMiB29WqfTpuXTRs0VVBph9zEmDQWFTxhGC9imGMZBz_I-hAy9kWHV9-MD49R5x_8DROVO-9AV9KXyq8qvNo-4qwb2QVdZuD6YS9CDK4QgyxVSGYvPIvlDsEcVH7yXs2rNngqJl-H3dItuNnfyUf1v2XLGS"
+        }
+      },
+      "publie_le": "2026-11-25T22:27"
     },
     {
       "id": "SC22-promo",
