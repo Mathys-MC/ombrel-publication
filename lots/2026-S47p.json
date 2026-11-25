@@ -3941,11 +3941,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "« Mais j'ai trop de cartes. »",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070079957583480"
+          },
+          "published": {
+            "id": "18654889969019779"
+          },
+          "permalink": "https://www.instagram.com/reel/DgKVxpYuN3D/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeuZxPTDSTI7-1Ehyzr5991qnaQIUx_er4fluykWYIl9sLa-BFf8xrozMWLSVpdog6SrRAuKggtH2eSqEo2Gt2fFbBpnRi6-yrkd5jC9BRIg8rcLWmzLHn-gNUs98souL5V_DFPoiw19WDf8O4128dfnnXGkmB4sbIMfYYLMFaEi7sg7qI1xao2fCsbvrgt5YG4pc"
+        }
+      },
+      "publie_le": "2026-11-25T11:42"
     },
     {
       "id": "RV185-promo",
