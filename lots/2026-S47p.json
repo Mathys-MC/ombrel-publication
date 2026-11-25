@@ -4077,11 +4077,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Il y a ceux qui fouillent. Et les autres.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070102004583480"
+          },
+          "published": {
+            "id": "18197543059404184"
+          },
+          "permalink": "https://www.instagram.com/reel/DgKjBzWoFP-/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AesX1l26pfanwU6nsCuxDrdD-ITbvM3hn59RFrsqbjACWgGDYteZKQCiV_YZhHxTBf1Tz-q1D24qN-bcDImd1NachDkCeNV51I24I7fMMRhXaHIqajzdaneQkysFvSsJ5XsBRBLcwMBMKb2tbz3Mp2A_PAiOEfPjZcBFFIVHwxOOBvmo_V33fsKf7DqJ28eZh2j8V"
+        }
+      },
+      "publie_le": "2026-11-25T13:38"
     },
     {
       "id": "RV227-promo",
