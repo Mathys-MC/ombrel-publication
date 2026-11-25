@@ -4341,11 +4341,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Téléphone, rouge à lèvres, Croco. C'est tout.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070150793583480"
+          },
+          "published": {
+            "id": "18478014952137305"
+          },
+          "permalink": "https://www.instagram.com/reel/DgK_-LUSucD/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevHtQz3EDIYGwgXL1jmotrm2QDF4HVsAMY53XqIFNqXxLYX-yFzt_IP4J_9NRo0toeBDqeH6fQScmY8-DsPtKgAVo8GafusdNqvfAhqj9iW-ey9KO1ZFWpKdEuPnmzx30BD_7jAmJieEEuo_kIikVrbjiYSlMk1aeUidVWL7wCWOPcO8pYmMLauG4HH5irD7nO3t"
+        }
+      },
+      "publie_le": "2026-11-25T17:51"
     },
     {
       "id": "RV172-promo",
