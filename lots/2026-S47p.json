@@ -4448,11 +4448,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Story : Il y a ceux qui fouillent. Et les autres.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070160246583480"
+          },
+          "published": {
+            "id": "18132042283799890"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4038355941717319098"
+        }
+      },
+      "publie_le": "2026-11-25T18:59"
     },
     {
       "id": "RV231-promo",
