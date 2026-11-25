@@ -4013,11 +4013,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Les hommes organisés n'ont pas de bosse.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070093325583480"
+          },
+          "published": {
+            "id": "18121493092965539"
+          },
+          "permalink": "https://www.instagram.com/p/DgKdr_AkUju/"
+        },
+        "facebook": {
+          "id": "122125935129486810",
+          "post_id": "1346239391904480_122125935153486810"
+        }
+      },
+      "publie_le": "2026-11-25T12:51"
     },
     {
       "id": "RW039",
