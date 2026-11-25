@@ -4481,11 +4481,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "Il ne fait pas tout. Et c'est voulu.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070162784583480"
+          },
+          "published": {
+            "id": "17930683359430328"
+          },
+          "permalink": "https://www.instagram.com/reel/DgLKiZBMauh/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevIQjINQBXqM8eZXq6hKQw0bViQBb1GAeBNTLIOxZjIi96CoCc0MT1k8y4-r5frispJZMqMsUYXvvz8MxsoABwkn5eRJjW6eBrqf-dkBDYeaX74gIEIg4GRSbtSXB_2LfCyJgFngOiDrC9GXQtoDjKwXJyvu-zQMKZxwxN5iWTEzKAWrlpYLA5INXwFE-VYMp4yX"
+        }
+      },
+      "publie_le": "2026-11-25T19:23"
     },
     {
       "id": "RV186-promo",
