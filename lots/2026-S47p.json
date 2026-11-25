@@ -4413,11 +4413,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "La file attend. Pas toi.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070157546583480"
+          },
+          "published": {
+            "id": "18036429893863348"
+          },
+          "permalink": "https://www.instagram.com/p/DgLFRDklNHn/"
+        },
+        "facebook": {
+          "id": "122125985901486810",
+          "post_id": "1346239391904480_122125985937486810"
+        }
+      },
+      "publie_le": "2026-11-25T18:37"
     },
     {
       "id": "SP-2026-11-25-2",
