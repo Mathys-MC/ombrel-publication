@@ -3745,11 +3745,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Tout ce qu'il faut. Rien de plus.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070057136583480"
+          },
+          "published": {
+            "id": "17867199459695305"
+          },
+          "permalink": "https://www.instagram.com/p/DgKDWVUliei/"
+        },
+        "facebook": {
+          "id": "122125904769486810",
+          "post_id": "1346239391904480_122125904799486810"
+        }
+      },
+      "publie_le": "2026-11-25T09:01"
     },
     {
       "id": "RV157-promo",
