@@ -4516,12 +4516,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Le portefeuille que tu oublies avoir.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeuOxWr5Vcc0VJLlYvnB0THL5YiVaDRvW54xCM1LBz9nScvg9Fr3WFTQCQkRpdi7QQKn6jZ6zTqRn8kKHEm9TKDpKcTU_jpA7VEtHy9E5rvt43fmfFYDRvw_M9L7FCM6kvrSDbn4QRpfebN-LWRuuQTYLwhyOOPSotx33kr0c37X7sdgDlCfZcpXjDDqf51P2_NgD"
+        }
+      },
+      "publie_le": "2026-11-25T20:09"
     },
     {
       "id": "KF31",
