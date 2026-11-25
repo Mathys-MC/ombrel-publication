@@ -3782,11 +3782,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Son portefeuille a 15 ans. Toi aussi tu l'as remarqué ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070060730583480"
+          },
+          "published": {
+            "id": "17972020818211093"
+          },
+          "permalink": "https://www.instagram.com/reel/DgKF6BmBmDa/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevNmaOUpfgO-6V1wiRpaM0p-MQGnThSdJgNP7NMomyW5JmVweDcdlviijMlPag2O7Zn1T3gLg1CZ2Lcnwdf9KH1GlX6YUj5llzRWfEcSPbM0MxVrWZcEpcxB3CwiEPM9C548kMiXdr1K013vOc5ekGiiVz-L_8w7zRmd2a8bkZqGoaodhsMDGXBeeTuXAXut5jNg"
+        }
+      },
+      "publie_le": "2026-11-25T09:23"
     },
     {
       "id": "RV171-promo",
