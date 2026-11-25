@@ -4049,12 +4049,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Elle le sortira tous les jours.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeusI4dgn6fHsso28UhBr1o_QSxTrg88MQ5RdJ0h2NBvm41EF2R5AafOg1asa0N163Shc11F_HcXyT0x4r76Vj5F7DSsxIFZD5YBnZsNNOlO7F5U1PRHyElt04GMYQ9aAWs4y7g7ZJpSLPAFgZotZuOFues86Bgn4L5eHD425dry4VflPGb6o9Mbp9Z0LEJ-spmCD"
+        }
+      },
+      "publie_le": "2026-11-25T13:14"
     },
     {
       "id": "RV204-promo",
