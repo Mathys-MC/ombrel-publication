@@ -4148,12 +4148,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Ce qui rentre dedans.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122125951857486810",
+          "post_id": "1346239391904480_122125951881486810"
+        }
+      },
+      "publie_le": "2026-11-25T14:46"
     },
     {
       "id": "RV189-promo",
