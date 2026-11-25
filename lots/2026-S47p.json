@@ -4636,11 +4636,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Ce qui rentre vraiment dedans.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070183517583480"
+          },
+          "published": {
+            "id": "18121376252111350"
+          },
+          "permalink": "https://www.instagram.com/reel/DgLdCPcyJVD/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeshcQGPxmrBJg60t9eVidccBHbdrv570HuBAOPs-5m0JsAijoy8eNXyG9YSiys0W4AtTyNdRtfKEQwK_YaPtnGUUXyAhfYoKcRPQ7hRUVbz6QG1KEDf6uNHlLgag0-joVRb-wG1g9NcScsL9WeJ0U3UKQgqd3MWXQzf9Ry-q-ehzfkFTLwo8JnFVaKZRPT3gZiVg"
+        }
+      },
+      "publie_le": "2026-11-25T22:05"
     },
     {
       "id": "RW036",
