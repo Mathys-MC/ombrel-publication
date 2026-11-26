@@ -4940,11 +4940,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Combien de temps tu vas encore le supporter ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070275701583480"
+          },
+          "published": {
+            "id": "18013989533771010"
+          },
+          "permalink": "https://www.instagram.com/reel/DgM9IA8B52C/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aeue3XZxOswEZEGgdkAWDEfNDLLOu4nQD3xKXQRCQAMTAjNDtIwJ3YhToisPTXmob52lpD-XzcM0kVQ_uknLoH6pAZlOomDxNhKjjcDqhJNQtqTNDZl1Jnm1vdFhW11pSqEhPZsAY0lw2QUt9F41r1gvXQuBNMFDp2pRXVf8ugvG8xXTSSUdedFOL1j6aNK8ygM6Y"
+        }
+      },
+      "publie_le": "2026-11-26T12:04"
     },
     {
       "id": "SC34-promo",
