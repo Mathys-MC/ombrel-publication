@@ -5040,11 +5040,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "objection",
       "accroche": "On doit te dire ce qu'il ne fait pas.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070290899583480"
+          },
+          "published": {
+            "id": "17887372797652360"
+          },
+          "permalink": "https://www.instagram.com/reel/DgNH0RhBLVC/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeuRLXctYZ2TlB9A1SyenDmHrGiroxGCePbzQ0WXtAedgL9O4BOca8dp7lwjO11f5se-eJKj45-4XCK9gQMGakYcO_FXq0BHplofoiy_Q8hquGNxgtuOOvXd6qUGBrEgCAx1RXF7mC8Fxg2tg4y5ZsqLS979cSEtRvL0x5ztCNCTWvQDETHnTHQEIZoV-wp6Xvmef"
+        }
+      },
+      "publie_le": "2026-11-26T13:38"
     },
     {
       "id": "RV187-promo",
