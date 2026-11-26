@@ -5012,12 +5012,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "fouille",
       "accroche": "Tu cherches encore tes clés ?",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aesk91cdzEf4C17qejCtNxmf0Fb6e9hXNunIPpGWDxWW-1FZhoeqievo5EK_Uj1YwjlJVncA_wATV0i9dJ0I2ToFYkFH4vaQQbR0Q9sOQdcteaZQMtToNcpPd8XFUb-yZN7iAduxWmGEXLFWfRMHI3lOhJ0xqmifwXaLNtpbmCtWDL8wml-JFDYhJbAMKhiKLOcoa"
+        }
+      },
+      "publie_le": "2026-11-26T13:14"
     },
     {
       "id": "RV232-promo",
