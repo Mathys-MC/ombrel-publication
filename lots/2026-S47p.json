@@ -5444,11 +5444,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Tu ne sais jamais quoi lui offrir ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070352957583480"
+          },
+          "published": {
+            "id": "18108780683637645"
+          },
+          "permalink": "https://www.instagram.com/reel/DgNvR3hqyWA/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aev66_dluVIDpc4ff0YMiof2DlGIUNKnfy1n1hYpGL_CWLG68GSPzUBEuJvOsbJoB7E3w9AUz0d0BFYcOLS7-RRPHRf2HhlO5WtRd3bxa4I3F7xIg0IczFq0hiMrgEOWagTf0ZO3HsintMvMppE8Mpj7guJN8AXAXc2BixwBScSurYlmVZ8qbHq6xt8MVlZeQ3K6q"
+        }
+      },
+      "publie_le": "2026-11-26T19:23"
     },
     {
       "id": "RV206-promo",
