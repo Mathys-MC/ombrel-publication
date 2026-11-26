@@ -5140,11 +5140,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "identite",
       "accroche": "Les hommes organisés ont tous ce détail.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070308029583480"
+          },
+          "published": {
+            "id": "18359931823172277"
+          },
+          "permalink": "https://www.instagram.com/reel/DgNSW7vJ3GJ/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetPOwDFP5B2DODL5VHPBqHVPJFld5daPKy5gDWx7sRXw55XJGlEg8QGDBo7S2jYD4Mn7zRfcvTzgaXMADG4UVHTB0gvJFW3C_3imb0Ss19lnsV2cC51lPua_Mo8_Uv6ROpzFSCnWEZurjrxW5uE0W3ZHBmxtqNYrJ1NbNII-xB6fQhAJb9cxSL0XjcRnsmyXSgIz"
+        }
+      },
+      "publie_le": "2026-11-26T15:10"
     },
     {
       "id": "KF35",
