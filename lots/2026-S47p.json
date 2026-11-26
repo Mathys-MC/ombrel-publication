@@ -4781,11 +4781,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "La file derrière toi te remerciera.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070257347583480"
+          },
+          "published": {
+            "id": "18119935508041305"
+          },
+          "permalink": "https://www.instagram.com/reel/DgMtT2yCqB9/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetqKQWEVH0vuMti53wz_RmJmC8KmuQbQyhuy7s6ACr-lsj4Zo9VZ1037twdMkgk_nuuoVDZtYzv4e9vp04prjk2JNaPVHf0Jt2hWPp5QvLd6gf0CJWlwG3gyFFxkrzU9bLsz0L1SoUfDjLh3P6QfSgUS6KoPegQ8UKfo5nLSOaUlgEJAi4SbIMK_0fMyXkCooiL1"
+        }
+      },
+      "publie_le": "2026-11-26T09:46"
     },
     {
       "id": "SC04-promo",
