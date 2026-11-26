@@ -5506,12 +5506,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "soiree",
       "accroche": "Le soir, juste lui.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122126217075486810",
+          "post_id": "1346239391904480_122126217099486810"
+        }
+      },
+      "publie_le": "2026-11-26T20:32"
     },
     {
       "id": "SC32-promo",
