@@ -5599,11 +5599,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Une pression. Neuf cartes.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070387628583480"
+          },
+          "published": {
+            "id": "17954081859056746"
+          },
+          "permalink": "https://www.instagram.com/reel/DgOMRyKvk85/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aevep7mFq8XWfg-1yyU820vkiV9E4xW5NAwlscSyzxOAO1mlhmd1RtbCUYIt-xhD-aGcbReE1NaGHXk6q1_rU4tTWtZUN4lILdOvJjh_qzQoaA3460QhMT6X4lby_luLx5BJCSDtUzuoV_v_Jp9SoVl5GX9FchyPb9lV3xHOSQKlLFyk5HJHnwRN1uiEpxEyngBPf"
+        }
+      },
+      "publie_le": "2026-11-26T23:36"
     },
     {
       "id": "RW043",
@@ -5620,11 +5635,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "sac",
       "accroche": "Les mini sacs, c'est enfin possible.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070387658583480"
+          },
+          "published": {
+            "id": "18392887447235843"
+          },
+          "permalink": "https://www.instagram.com/reel/DgOMV3FpY-i/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aetqq5cj4eV_GCLwn9-uEu1UhUzcgHsuDsHxUZJvC0eOGkxh4XBaQVNRljDmShsvrkxlD3VvrTtSfpFVNZf99n_DAR-_SrPG8GFIMWgcPzDHhdKduL4mfQzAPlhJ20aWlbGm5V9fvQBbxq3uBlkKrrXmbbJ8GntpUtKUaW-D0azccZWII3AgTDhR_N8Vmua-eptPz"
+        }
+      },
+      "publie_le": "2026-11-26T23:37"
     },
     {
       "id": "SC10-promo",
