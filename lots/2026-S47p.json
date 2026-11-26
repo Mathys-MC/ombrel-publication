@@ -4871,11 +4871,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Story : Pourquoi ta poche arrière est déformée ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070270823583480"
+          },
+          "published": {
+            "id": "17915274516568541"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4038848980359899064"
+        }
+      },
+      "publie_le": "2026-11-26T11:19"
     },
     {
       "id": "RV175-promo",
