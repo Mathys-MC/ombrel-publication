@@ -4816,12 +4816,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Léger. Partout.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122126119419486810",
+          "post_id": "1346239391904480_122126119449486810"
+        }
+      },
+      "publie_le": "2026-11-26T10:09"
     },
     {
       "id": "SF11",
