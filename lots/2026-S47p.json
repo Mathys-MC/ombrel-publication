@@ -5534,12 +5534,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Combien de temps tu vas encore le supporter ?",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122126221209486810",
+          "post_id": "1346239391904480_122126221233486810"
+        }
+      },
+      "publie_le": "2026-11-26T20:55"
     },
     {
       "id": "RV188-promo",
