@@ -5204,11 +5204,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Regarde ce qui se passe quand j'appuie.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070321028583480"
+          },
+          "published": {
+            "id": "18115661750195738"
+          },
+          "permalink": "https://www.instagram.com/reel/DgNaKu6tQjd/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AesZNmfBAq9E0xTZ8NnOqMj086JfqJENtSwb6N_y38-rUkqiqepvTwJTtKlYhsmmUHG0dKqTtnndu_3w3FA6BjNPHJRK3p0Eprg7EjzcyaSOrEknllTlWv8AP1lkwpcva-A8NufQBCpmyx-B4HYySwYOO5dS7pc3Ja_srF2W1Kwy4fncUCFUE53lgaVlKXIFqCEIV"
+        }
+      },
+      "publie_le": "2026-11-26T16:18"
     },
     {
       "id": "SC28-promo",
