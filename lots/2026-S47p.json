@@ -4976,11 +4976,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "demo",
       "accroche": "Regarde-le s'ouvrir.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070282811583480"
+          },
+          "published": {
+            "id": "18089231267339446"
+          },
+          "permalink": "https://www.instagram.com/p/DgNCe4GFUut/"
+        },
+        "facebook": {
+          "id": "122126142093486810",
+          "post_id": "1346239391904480_122126142117486810"
+        }
+      },
+      "publie_le": "2026-11-26T12:51"
     },
     {
       "id": "RW048",
