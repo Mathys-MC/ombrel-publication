@@ -5376,11 +5376,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Noël : idée trouvée.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070346549583480"
+          },
+          "published": {
+            "id": "18380165848240174"
+          },
+          "permalink": "https://www.instagram.com/p/DgNp_clEdQy/"
+        },
+        "facebook": {
+          "id": "122126197785486810",
+          "post_id": "1346239391904480_122126197815486810"
+        }
+      },
+      "publie_le": "2026-11-26T18:36"
     },
     {
       "id": "SP-2026-11-26-2",
