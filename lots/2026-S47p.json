@@ -5340,11 +5340,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Tu fouilles encore pour ta carte ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070343486583480"
+          },
+          "published": {
+            "id": "18503133688098616"
+          },
+          "permalink": "https://www.instagram.com/reel/DgNnZ0OoKvY/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeumPzsOlF-3EsI5f9KSxoaEa3dIWR9Oz4wK1jrflHjgj3qNTnqlNWsdouFQivg3Lij3-v9WTdynMXQUThkgFHcjST7hEDNOGXPlSMliaPWqz_iVcEhwcqDJA4ChCCZEqSNKATj0M9Lz7PZTSKWY9RU66D41tNoB_h_-Z6esC783KFcHbBLNcH1r14KU3wj_esmP1"
+        }
+      },
+      "publie_le": "2026-11-26T18:14"
     },
     {
       "id": "SC11-promo",
