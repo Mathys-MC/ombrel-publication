@@ -5304,11 +5304,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "organisation",
       "accroche": "Le petit portefeuille qui range tout.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070338614583480"
+          },
+          "published": {
+            "id": "18657244717049422"
+          },
+          "permalink": "https://www.instagram.com/reel/DgNkyt6Bxzt/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aes3sTpbwf600j23VEyDsXyrOZgwKsmtNEpBmIXZ8Kmg3A5jolT9vm1jLVmo9Vx1Urpn3qH4C4xn3FFNcvNziKpx86Ra0YGb1hyTk_HvkIt79pejyAqF3AI_g2RLLJGDvFkYoyFR9Yl619VsTAmkHxqvmWUgzXK6bCpMfdH8mKOVhmb71gXgcpacfZpoLMhaOelc6"
+        }
+      },
+      "publie_le": "2026-11-26T17:51"
     },
     {
       "id": "RV209-promo",
