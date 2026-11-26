@@ -5175,12 +5175,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "organisation",
       "accroche": "Le petit portefeuille qui range tout.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122126162883486810",
+          "post_id": "1346239391904480_122126162907486810"
+        }
+      },
+      "publie_le": "2026-11-26T15:32"
     },
     {
       "id": "RV247-promo",
