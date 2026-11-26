@@ -5479,12 +5479,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Ouvre ton portefeuille. Maintenant.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aes0zfjxiAtnWVcij3h739CevRb5MAqIGxbg8Q5uxSq_1bezBU2fBEphVqVlROO4wYM9t14cV9fGT8W17Od3CFM_Z9cGkQ6nUN9EwWI-J6bQ2BYrz69e-PJkXZe6n6dw6RYoRjkqT76nyO-qIge2z0E_t5sinwmVv8yZWwhScKy0G-9H_YOfFFzjaw63JmoO62I7l"
+        }
+      },
+      "publie_le": "2026-11-26T20:09"
     },
     {
       "id": "SF05",
