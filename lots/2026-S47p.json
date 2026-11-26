@@ -5268,11 +5268,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Tu le sens encore quand tu t'assois ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070329692583480"
+          },
+          "published": {
+            "id": "17945439633374403"
+          },
+          "permalink": "https://www.instagram.com/reel/DgNfbpDNMdq/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetdWRfMBb1w-QRo0jbQaXj6MKwsTODivxXUdjECkOlz6KL-kKFuHXBmeKmh9q3S4-I-bxxfXPB57RQUXQTsdv4jtLDaaEKHgyp2aZyVFwvg18Wz38go1Bg0wsfZPYFYIr8GrXPCb_T3_DKKnFk7bZK3zkl4ckAbXg5c3tWjwdSR8BOslEbwiaAzDn-rPEjKFyNDQ"
+        }
+      },
+      "publie_le": "2026-11-26T17:04"
     },
     {
       "id": "RW038",
