@@ -4844,12 +4844,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "monnaie",
       "accroche": "Tes pièces restent à part.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122126126511486810",
+          "post_id": "1346239391904480_122126126535486810"
+        }
+      },
+      "publie_le": "2026-11-26T10:55"
     },
     {
       "id": "SP-2026-11-26-1",
