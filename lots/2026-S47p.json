@@ -4904,11 +4904,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Noël arrive plus vite que tu crois.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070273448583480"
+          },
+          "published": {
+            "id": "18134787454682406"
+          },
+          "permalink": "https://www.instagram.com/reel/DgM6iNkh8wV/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetNnw4awEAW-UvZk5f3Xkpo2-w5yu0kyUrzJ8lvtoc_eSur-EjPumwGiMYnHsNOjNDkJzkjCarj4EwTbRSlDAIvW9NJc7Rw3bb3Me2sHOQWenXZTHIlsxAsuWrjsK24zXowV5dk9mK15NnpRa86lcItZX-VK9murWeZxj95D4xpt6rly7ja6PQzet4bj1DAbeVOD"
+        }
+      },
+      "publie_le": "2026-11-26T11:42"
     },
     {
       "id": "RV205-promo",
