@@ -4708,11 +4708,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Chaque jour, tu t'assois dessus.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070253495583480"
+          },
+          "published": {
+            "id": "18104256791071427"
+          },
+          "permalink": "https://www.instagram.com/p/DgMoJEXFfTS/"
+        },
+        "facebook": {
+          "id": "122126111235486810",
+          "post_id": "1346239391904480_122126111271486810"
+        }
+      },
+      "publie_le": "2026-11-26T09:01"
     },
     {
       "id": "RV190-promo",
