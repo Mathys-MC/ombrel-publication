@@ -5708,11 +5708,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Le geste que font tous les hommes… et qu'ils regrettent.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070451255583480"
+          },
+          "published": {
+            "id": "18127265210297352"
+          },
+          "permalink": "https://www.instagram.com/reel/DgPPkQJzMpE/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevTfcL-NZ8sP-2vWtyIkALTTuzURe4aL9qxQ7MbAHi9xiP8oVGopQgvtIGffUFopuTmwp6unWaDpepWkbNEiR8-GaQaBqgNzzzq2qhOoL_FD6LBNiaMrY73Sb3Ga8SThytwBkT5cJkyNOErdM-97phJ3MFcBuVzEBrg_A6xCbDkiG7J_nU3f0-VFcJ1CCjGLW-Bo"
+        }
+      },
+      "publie_le": "2026-11-27T09:24"
     },
     {
       "id": "RV210-promo",
