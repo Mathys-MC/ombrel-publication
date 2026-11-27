@@ -6167,11 +6167,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Le cadeau qu'il ne s'achètera jamais lui-même.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070516391583480"
+          },
+          "published": {
+            "id": "18087108149364367"
+          },
+          "permalink": "https://www.instagram.com/reel/DgP_BLzyh5F/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeteIuvuRF_qB-18hD29cGb0DXHtpf-S3otYMm-GY_oOsofLLF4f4wHY8rFPxXYiHGqcpm4wn4xhIeEvF0cO972l0ohXme9X2AZyXBtCj6as_ebdmkzGPMLZD5UW3uQMEcB_--HKrwTsDRlw257c5xlf8xqR7ra9MZXUzV_rzsMf76WsVDsj8I8_SBcxcoUN8Ilhx"
+        }
+      },
+      "publie_le": "2026-11-27T16:19"
     },
     {
       "id": "SC27-promo",
