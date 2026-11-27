@@ -6374,11 +6374,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Story : Moins. Mais mieux.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070542266583480"
+          },
+          "published": {
+            "id": "18111607472213756"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4039805802685516468"
+        }
+      },
+      "publie_le": "2026-11-27T19:00"
     },
     {
       "id": "RV216-promo",
