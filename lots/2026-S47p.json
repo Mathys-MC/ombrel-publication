@@ -6103,11 +6103,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Le geste qui change ta caisse.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070503755583480"
+          },
+          "published": {
+            "id": "18360765400172405"
+          },
+          "permalink": "https://www.instagram.com/reel/DgP3InsBzVk/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AevKiGK0nfxCipQGoqmjS4Sah9DzMCwdt8oeu7MYaqy8EsGIK3aJ7T0eDVsqoNcMAEs8d4Okte2apph2sBOHc2RtOVW7Btg2C4ceLMpHAowPh0UhI7RdyXmGhVuAppMv6VoBoWJTnzPDRwWAJuQ9NqE3sKxyLxzEbJQQ-4PY_3w0iLi7rR3_gJ6V1-olD1xL8JawB"
+        }
+      },
+      "publie_le": "2026-11-27T15:10"
     },
     {
       "id": "SF02",
