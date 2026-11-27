@@ -6598,11 +6598,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "organisation",
       "accroche": "Chaque chose à sa place.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070568177583480"
+          },
+          "published": {
+            "id": "17917884258506850"
+          },
+          "permalink": "https://www.instagram.com/reel/DgQpO-RyqcJ/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AesNF2LqCML-rQ9coX55WUsj8uZMpAdrWID1ZUM1VxSwT0LxzIp-xaVbwox2L4RGGNEb_Z6AAwiUEVY8IhueHxCoABXo_qbb9ogeLNl-7DPSISAFsSlkXS2AIfnneX2qGUwc4kzCQAIs4NuCOin3gjgoRLCYYfxsSYX3yVBPmRCcwwFHvYHgP4hjyKZtmJMCgj5US"
+        }
+      },
+      "publie_le": "2026-11-27T22:27"
     }
   ]
 }
