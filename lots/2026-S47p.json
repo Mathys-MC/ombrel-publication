@@ -6003,11 +6003,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Moins. Mais mieux.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070486985583480"
+          },
+          "published": {
+            "id": "17915252382603618"
+          },
+          "permalink": "https://www.instagram.com/reel/DgPspt-tT4M/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aev1yJ6ODFvdDwQyfJzQxEs_3oXNZ6VPzwQXUCWJb7SzRfaIfJnBjQgcx1HSRviI-2-RVgNt11mUceKvlBzGgetMj19LwPpUjEUBrkmVpqoU7Y-4tAaruV0xxCH0EibrgQ7v_zCqXbAuiJAWoapnd8O2hW2yGHBeeaFMRu-oF7633oeQY3njfU8qsx4R6EHn85Xqe"
+        }
+      },
+      "publie_le": "2026-11-27T13:38"
     },
     {
       "id": "RV215-promo",
