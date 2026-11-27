@@ -6562,11 +6562,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Ton portefeuille te coûte plus que tu crois.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070566233583480"
+          },
+          "published": {
+            "id": "18361274485168252"
+          },
+          "permalink": "https://www.instagram.com/reel/DgQmu-rhFjA/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeuFUDb9yQaau46GLI1yBkSkxG4xfC-5qku20Vs_27EjkbzCBjongi0oQ8zoe0kvWEomscRPJ3aYmRjDbxUBvcp7yPQXooO6oshxjIZXdqrC5nw25pTlMnOwBoKtGJVVw0yP88q5RWAhYCZcPFR5ebsiQ3msmLjPiK_MGF4h0zjky2zVb5O2EBj02ZStrCuJyd6Zs"
+        }
+      },
+      "publie_le": "2026-11-27T22:06"
     },
     {
       "id": "RW041",
