@@ -6267,11 +6267,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "promo",
       "accroche": "Un code, une vraie date de fin.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070531646583480"
+          },
+          "published": {
+            "id": "17959545687271216"
+          },
+          "permalink": "https://www.instagram.com/reel/DgQJnt5Tu0n/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aev8__NdRRUfl7KnrW6xfBUS65yQxEHwFOeyVNIHsLvBA9JGXMfnowQwe0GkHD4TGmecdRX07Wx1mO4iKfBblZ4NAtnZp6mSuzDs8ZomtGr5RGVajdSxiWBoDiUig6jHpeHim_EmmLmXk15BUXXGy74pi1kjMy1BszLPfjAb9VLB6Pgc9sMwGucXOIzQf4bFT6tyr"
+        }
+      },
+      "publie_le": "2026-11-27T17:51"
     },
     {
       "id": "RV200-promo",
