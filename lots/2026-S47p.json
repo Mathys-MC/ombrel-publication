@@ -5975,12 +5975,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Idée cadeau pour ta sœur : trouvée.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aet-YEL3KaI-s45KwjBXQ9_50es2qmUMzVJR9j__OAuAK4d6qA634g5bfYmUWf5mTK9SJfmSc6TF1pecehVHgfG1OmZmQEKKSyOBtLcxlXQI7qQI44sSOGJOXqsQgNMivzIEpEBF1BUk6eZipJCa2bq4Dxj5yD-sHqRWrArqpjuOxhbOOQQWFpem0gBSIdyRSUpeq"
+        }
+      },
+      "publie_le": "2026-11-27T13:14"
     },
     {
       "id": "RV199-promo",
