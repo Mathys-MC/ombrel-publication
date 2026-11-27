@@ -6138,12 +6138,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "sac",
       "accroche": "Ton petit sac va respirer.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122126356599486810",
+          "post_id": "1346239391904480_122126356623486810"
+        }
+      },
+      "publie_le": "2026-11-27T15:32"
     },
     {
       "id": "RV194-promo",
