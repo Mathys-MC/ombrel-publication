@@ -6303,11 +6303,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Clés, téléphone, Carbone. Rien d'autre.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070535333583480"
+          },
+          "published": {
+            "id": "18134561797896386"
+          },
+          "permalink": "https://www.instagram.com/reel/DgQMN8mNIrD/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aeu245Z2vnte_f1DUY4sv7K-OScqyf7L5DchgmXz0ouT7CDbjjs19GAz2IGjsJng6iw7lSvUGgsVsAssg7DosdDX5m0t5Kc-upCcFOL-oDFGOq28Zqa-iMCodVQEiviRVyqucI63YSItDaKwyDeppUvTLaPS0ZWh8E4OPBXqvpyLTpOqq5-EUT25k1BaVaPbyA-O9"
+        }
+      },
+      "publie_le": "2026-11-27T18:14"
     },
     {
       "id": "SC19-promo",
