@@ -6231,11 +6231,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "Ce que ton vieux portefeuille dit de toi.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070523981583480"
+          },
+          "published": {
+            "id": "17983180734140909"
+          },
+          "permalink": "https://www.instagram.com/reel/DgQESs-BtVs/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aeuk4Ww_nsamU7uW2NyvXDzMjETmIHA3pc-_59JNWsVmr3VrmbAUkRlTNCaXzqUQnZbNwQr00jsuVgwQ3t2Hfj_Swr2WVU6Zt-h6VSxjUFviihhUbLxza0UWw7X6OIKOMjFx2XHMYXq5-xfCFNtxIwkmAW8oZv-uZ4dkeylMu2tCwm1sHpudJnFORLv-E2x3rk7Y-"
+        }
+      },
+      "publie_le": "2026-11-27T17:05"
     },
     {
       "id": "RW045",
