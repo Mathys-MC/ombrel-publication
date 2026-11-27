@@ -5939,11 +5939,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Le cadeau qu'il sortira 5 fois par jour.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070478882583480"
+          },
+          "published": {
+            "id": "18104408909188826"
+          },
+          "permalink": "https://www.instagram.com/p/DgPnWuEm5UM/"
+        },
+        "facebook": {
+          "id": "122126333397486810",
+          "post_id": "1346239391904480_122126333505486810"
+        }
+      },
+      "publie_le": "2026-11-27T12:52"
     },
     {
       "id": "RW044",
