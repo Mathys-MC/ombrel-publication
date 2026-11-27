@@ -6339,11 +6339,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Fin, même au bout du monde.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070538543583480"
+          },
+          "published": {
+            "id": "17962315617015464"
+          },
+          "permalink": "https://www.instagram.com/p/DgQOztLFlMR/"
+        },
+        "facebook": {
+          "id": "122126385045486810",
+          "post_id": "1346239391904480_122126385075486810"
+        }
+      },
+      "publie_le": "2026-11-27T18:36"
     },
     {
       "id": "SP-2026-11-27-2",
