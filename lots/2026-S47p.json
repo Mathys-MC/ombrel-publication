@@ -5744,11 +5744,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "caisse",
       "accroche": "Payer en 3 secondes, c'est possible.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070453391583480"
+          },
+          "published": {
+            "id": "18116026145234487"
+          },
+          "permalink": "https://www.instagram.com/reel/DgPSJ-Mo3Gl/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AesJJEiWBcip5DVOgmbD1Hxg6lDFJf87Wo3c7276bbF9t88qn43yx9xJhUgDM3zE4q1EofI-h4MYpIEUBGhQnY2BlAkSz--w6ckBKAxn5JBbfuWP99BuVQEM2aojxNwShRL5E2ayUlDY3GMa5XP4kbZM_CSf9L6SFPfTzXps0VLaM3BP3TLrGNhSFYQq6sNqf6OIf"
+        }
+      },
+      "publie_le": "2026-11-27T09:47"
     },
     {
       "id": "SC30-promo",
