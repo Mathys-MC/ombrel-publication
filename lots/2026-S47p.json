@@ -6526,11 +6526,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Pour l'homme qui a déjà tout.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070563008583480"
+          },
+          "published": {
+            "id": "18115760756158279"
+          },
+          "permalink": "https://www.instagram.com/reel/DgQj8yAsf8j/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetpbrWRqLKjCgqs3xdvEdjzGtnlqxWKtTIX7jx-Um76z9KtG6V9yqschO98fBe8k5xaT1rGv1WAwMj8CnF2ASvDc8LdCih2LsPc8rF1Ekku_HvOK2oV04rIhqPVHN12CDAmUROM64bzHBngz4sjemtziOGH4N11Kx2F7xd6nH3zhXTiKHcHcKgu3-V6L3wbzXzrG"
+        }
+      },
+      "publie_le": "2026-11-27T21:41"
     },
     {
       "id": "RV243-promo",
