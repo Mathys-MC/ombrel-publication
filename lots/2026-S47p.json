@@ -5671,11 +5671,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Café, clés, Carbone.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070448591583480"
+          },
+          "published": {
+            "id": "17916965415285164"
+          },
+          "permalink": "https://www.instagram.com/p/DgPM4NPkb-N/"
+        },
+        "facebook": {
+          "id": "122126299527486810",
+          "post_id": "1346239391904480_122126299551486810"
+        }
+      },
+      "publie_le": "2026-11-27T09:00"
     },
     {
       "id": "RV198-promo",
