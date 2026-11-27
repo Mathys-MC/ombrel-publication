@@ -5834,11 +5834,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Story : Le geste que font tous les hommes… et qu'ils regrettent.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070466519583480"
+          },
+          "published": {
+            "id": "18082880129738436"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4039573747726711800"
+        }
+      },
+      "publie_le": "2026-11-27T11:19"
     },
     {
       "id": "RV193-promo",
