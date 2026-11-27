@@ -5807,12 +5807,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "promo",
       "accroche": "Le code OMBREL15, c'est maintenant.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122126316855486810",
+          "post_id": "1346239391904480_122126316879486810"
+        }
+      },
+      "publie_le": "2026-11-27T10:55"
     },
     {
       "id": "SP-2026-11-27-1",
