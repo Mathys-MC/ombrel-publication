@@ -6202,12 +6202,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Pour l'homme qui garde le même depuis 15 ans.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122126369619486810",
+          "post_id": "1346239391904480_122126369643486810"
+        }
+      },
+      "publie_le": "2026-11-27T16:41"
     },
     {
       "id": "RV224-promo",
