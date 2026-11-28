@@ -321,12 +321,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "croco",
       "theme": "promo",
       "accroche": "Le moment de te faire plaisir.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeuzSaFI9H4ztgaBteveMTrO1QqMmA42ev0fmrE3SgAWjJHblJNVT6Fj7REZIhTO24ygazO-omN-ZrRE6nK7luDoxwYc8J8K4Eu5UUDMi5Y8A48M9sAbmvDH2q7fYRxfVsyUH2N_snsr8vKBVCiTfhV-97KxdnIJ7HOZ9TzoYCB3GTq1FZXXPENLSEOrMFr3q2cck"
+        }
+      },
+      "publie_le": "2026-11-28T13:14"
     },
     {
       "id": "RV240-promo",
