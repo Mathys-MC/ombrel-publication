@@ -584,11 +584,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Moins. Mais mieux.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070702862583480"
+          },
+          "published": {
+            "id": "18357037075271991"
+          },
+          "permalink": "https://www.instagram.com/reel/DgSpEncBlDo/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AesuOKoFFVo46HDuZh-KhMOctCwGGpm-5v7gHrgpT5fK_zorsgpe0TDWP04Cpk7ZGee9Mx0poPO74InHv_r_2iSfe0hcMT1TXywp13hLJN2M1lkRPVX9fVNPDu20sx3Z2plxw12iGQTzXj95qiYZuM1RjOqkwr5qAAHp4VK9oqbGj58sGSQxOcbycv5oJSVSJzlF3"
+        }
+      },
+      "publie_le": "2026-11-28T17:05"
     },
     {
       "id": "RW001",
