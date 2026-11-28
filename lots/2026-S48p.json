@@ -349,11 +349,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Pourquoi ta poche arrière est déformée ?",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070671416583480"
+          },
+          "published": {
+            "id": "18645354826054736"
+          },
+          "permalink": "https://www.instagram.com/reel/DgSRZChAR_I/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetpQERpLXCfCeOtTbMwnMCIm1ofPL6X1OjA8czAJvB4W1wIfZ2FyvuXcIOZ8UF2N6YFEpy9GEYgsZQjHEyDW2Xj8Xl7N6qUyHWjz5lMHxs9ar9_Ro4Hp9UqCeMrbpgEU8C4APi0mF0whFJ1f7stcYz931qUj8rGZSVJJg8O8wuFQMT9d3_OHwNDKusta4-Fgp-6_"
+        }
+      },
+      "publie_le": "2026-11-28T13:38"
     },
     {
       "id": "RV219-promo",
