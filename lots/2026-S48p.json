@@ -556,12 +556,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Tu ne sais jamais quoi lui offrir ?",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AeupN6KlzLyxd-zIqPTT8cklxNAlLWsJo1EMLTdtuhQL585vIL8-ZZBKO5MWynw8wnkm2aI0AjjMOB5RxAsvsGwjhke177ykCiRCKw28NM36M47JWu5hZ-nMS1fFhB3jwCJfCha9nMgqmsl-_137Zi3C3rhRQhWgmc__WqPHvcpfGPK3bEMMnKrhTj3Ohmrr3uzPc"
+        }
+      },
+      "publie_le": "2026-11-28T16:41"
     },
     {
       "id": "RV225-promo",
