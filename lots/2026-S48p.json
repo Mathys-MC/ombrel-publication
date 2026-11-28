@@ -155,11 +155,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "cadeau",
       "accroche": "Elle a tout ? Pas celui-là.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070646246583480"
+          },
+          "published": {
+            "id": "18016147406768105"
+          },
+          "permalink": "https://www.instagram.com/p/DgR-3Rilobr/"
+        },
+        "facebook": {
+          "id": "122126506371486810",
+          "post_id": "1346239391904480_122126506395486810"
+        }
+      },
+      "publie_le": "2026-11-28T10:56"
     },
     {
       "id": "SP-2026-11-28-1",
