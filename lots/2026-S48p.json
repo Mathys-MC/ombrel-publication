@@ -521,11 +521,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Les hommes qui voyagent léger font ça.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070695980583480"
+          },
+          "published": {
+            "id": "18161323516508445"
+          },
+          "permalink": "https://www.instagram.com/reel/DgSj1WXh0vb/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetdR_LRiJcewDD80sYs1PSCzAN-fwtNsUQLH2jBXgyj3egFEZisJFFw_G4J9f2_UHVyPSlxMvCRFxweCrrgWINEOivY1zv-YicLh_QQqMg2kjEe2srU8CT8wxKke1sQpN5USJ2tMThZkzqr8yj6_GI7A4jKv7xluAQAydH0Ct5APLnDTXUcUshxvQIWWqLkljDtc"
+        }
+      },
+      "publie_le": "2026-11-28T16:19"
     },
     {
       "id": "RV233-promo",
