@@ -420,12 +420,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Tout ce qu'il te faut tient en 9,5 cm.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aevwkk2lb1Mc7P7lVP4eUIldZCl2vWJbEK63aVUrDiF3wFBikeT4TqnFmFvpVU2UTydkr-shGW_iR_5zhns1DX8eFl7we_wYShAego7y9CLRiBnjNtLyxZCjWERwK2LZnc2UTL6ovGNVAyh0BJcmG6XUu_pGSd0woyp3viyAFSEM1hl2l2Ik47aeaIcE-6_jmOg6W"
+        }
+      },
+      "publie_le": "2026-11-28T14:46"
     },
     {
       "id": "RV220-promo",
