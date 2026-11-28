@@ -190,11 +190,23 @@
         "instagram"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Story : Moins dans les poches, plus dans la tête.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070650212583480"
+          },
+          "published": {
+            "id": "17899236528424728"
+          },
+          "permalink": "https://www.instagram.com/stories/maison.ombrel/4040298137069580745"
+        }
+      },
+      "publie_le": "2026-11-28T11:18"
     },
     {
       "id": "RV202-promo",
