@@ -222,12 +222,18 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Son portefeuille a 15 ans. Toi aussi tu l'as remarqué ?",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)"
+      "instagram_limite": "volume Instagram limité à 15 Reels/jour (blocage 2207051)",
+      "resultats": {
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aev15M7wK3gj0DyU5AEXBJNEjbwE1p1FujmCWGX8-jRc_SNEeHKB6L4bBDPNrKrejeY8pklQAvgJWNfFWXzHpjYRnf4zfXmvWCmitho32__XdFA3h7g1PUbj5cksdKEPOSl6_xgC69dZLDRVDdS7GzIfBnDPxfzsKIHh2Fm7qQz94Ip8wmaca0owWT81EDbVcYwPB"
+        }
+      },
+      "publie_le": "2026-11-28T11:41"
     },
     {
       "id": "RV244-promo",
