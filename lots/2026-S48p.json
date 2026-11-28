@@ -484,11 +484,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "croco",
       "theme": "organisation",
       "accroche": "Tout tient dans une main.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070689164583480"
+          },
+          "published": {
+            "id": "17952206094068420"
+          },
+          "permalink": "https://www.instagram.com/p/DgSefBrFIut/"
+        },
+        "facebook": {
+          "id": "122126555409486810",
+          "post_id": "1346239391904480_122126555433486810"
+        }
+      },
+      "publie_le": "2026-11-28T15:32"
     },
     {
       "id": "RV218-promo",
