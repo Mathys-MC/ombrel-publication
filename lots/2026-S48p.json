@@ -126,12 +126,19 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Le sobre a toujours raison.",
       "vague": "promo-novembre",
-      "instagram_limite": "volume Instagram limité à 3 photos/jour"
+      "instagram_limite": "volume Instagram limité à 3 photos/jour",
+      "resultats": {
+        "facebook": {
+          "id": "122126500545486810",
+          "post_id": "1346239391904480_122126500569486810"
+        }
+      },
+      "publie_le": "2026-11-28T10:09"
     },
     {
       "id": "SF04",
