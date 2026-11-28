@@ -448,11 +448,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "cadeau",
       "accroche": "Noël arrive plus vite que tu crois.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070685087583480"
+          },
+          "published": {
+            "id": "18155505709553874"
+          },
+          "permalink": "https://www.instagram.com/reel/DgSb47wAf0F/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AesE0VjbAFzSfbeVDqr9PxCPxmGlB7EfYA7DYp0T7W51QNtU2J5EdZX_HAe7VhFTkyH520hUqBAh8OoFiiPanm5Ew8hZV05ND_kOiiWFZpU6TZz0yWHj1EN1e6dJ-N6CGMLCVbAOP_bFImdZT_owvmWF3wK7bEaccn7iIc0qDmYOsDV-xHYvJTMGKCvAY9767NAb4"
+        }
+      },
+      "publie_le": "2026-11-28T15:09"
     },
     {
       "id": "SF03",
