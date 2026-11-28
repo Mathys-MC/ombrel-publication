@@ -250,11 +250,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "perte",
       "accroche": "3 signes que ton portefeuille a fait son temps.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070656755583480"
+          },
+          "published": {
+            "id": "18120163856032447"
+          },
+          "permalink": "https://www.instagram.com/reel/DgSG2L5TI8p/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"Aes0S9jwXGKDWbuhkhz9zjVFuERCuEEzVqd6VcNjvHFnC_8YytPsJuLUsQseYY3QSW6__R7O1kGVFgiMwU5pGKR15cqKUL4uGD4xlJyVlaHWNZTlzjWmKOBJYQ-jswHvUiZamfIxi7rTZqtx7jeG8uwggj8RmEBet1PWm0erJOlwxkRVLKRk89LA0B9vRaRcVtbWP"
+        }
+      },
+      "publie_le": "2026-11-28T12:06"
     },
     {
       "id": "RV208-promo",
