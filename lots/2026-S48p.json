@@ -91,11 +91,26 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "erreur",
       "produit": "carbone",
       "theme": "assis",
       "accroche": "Ton dos te remercie déjà.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070637834583480"
+          },
+          "published": {
+            "id": "18220753246310028"
+          },
+          "permalink": "https://www.instagram.com/reel/DgR28yoBCsw/"
+        },
+        "facebook": {
+          "erreur": "{\"message\": \"Nous limitons le nombre de fois que vous pouvez publier, commenter ou faire autre chose dans un laps de temps donné afin de protéger la communauté contre le spam. Vous pouvez réessayer plus tard.  En savoir plus\", \"type\": \"OAuthException\", \"code\": 368, \"error_data\": {\"sentry_block_data\": \"AetxzSgHoTi-Bp-ZDCUVTrRMo40tpypcU4YE6cLrkLvAQYrr5zSxiw1F5WjHcj_PZSId13ek3j7z9NaVwi9tE6AwRaNhoc5ZiIv1VaYOzfE75y8zOTc_N8-rgv1ky08LoUHEh1A-05lXnHuANjhuzCCpc--OpRau50sZNBRIMGnb0fWp-CY8twVDYC2pMITUrfnwY"
+        }
+      },
+      "publie_le": "2026-11-28T09:47"
     },
     {
       "id": "SC29-promo",
