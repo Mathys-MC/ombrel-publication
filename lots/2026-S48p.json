@@ -18,11 +18,27 @@
         "facebook"
       ],
       "trial": false,
-      "statut": "a_publier",
+      "statut": "publie",
       "produit": "carbone",
       "theme": "minimal",
       "accroche": "Week-end en forêt, poches légères.",
-      "vague": "promo-novembre"
+      "vague": "promo-novembre",
+      "resultats": {
+        "instagram": {
+          "container": {
+            "id": "18070632611583480"
+          },
+          "published": {
+            "id": "18110438753193472"
+          },
+          "permalink": "https://www.instagram.com/p/DgRxroalnpZ/"
+        },
+        "facebook": {
+          "id": "122126493639486810",
+          "post_id": "1346239391904480_122126493663486810"
+        }
+      },
+      "publie_le": "2026-11-28T09:00"
     },
     {
       "id": "RV207-promo",
